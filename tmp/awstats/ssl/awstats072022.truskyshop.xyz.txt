@@ -1,0 +1,692 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /home/truw6758/tmp/awstats/ssl/awstats.truskyshop.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2701                
+POS_VISITOR 10987               
+POS_DAY 17659               
+POS_DOMAIN 3519                
+POS_LOGIN 4060                
+POS_ROBOT 4215                
+POS_WORMS 4749                
+POS_EMAILSENDER 4880                
+POS_EMAILRECEIVER 5023                
+POS_SESSION 17863               
+POS_SIDER 18071               
+POS_FILETYPES 5158                
+POS_DOWNLOADS 5436                
+POS_OS 5484                
+POS_BROWSER 5844                
+POS_SCREENSIZE 7192                
+POS_UNKNOWNREFERER 7266                
+POS_UNKNOWNREFERERBROWSER 7696                
+POS_ORIGIN 7977                
+POS_SEREFERRALS 8117                
+POS_PAGEREFS 8290                
+POS_SEARCHWORDS 8482                
+POS_KEYWORDS 8634                
+POS_MISC 2365                
+POS_ERRORS 8693                
+POS_CLUSTER 3916                
+POS_SIDER_404 8876                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220706161847 1239 334704 18826588788732
+FirstTime 20220702173432
+LastTime 20220706161847
+LastUpdate 20220706180650 1239 0 1239 0 0
+TotalVisits 164                 
+TotalUnique 140                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 174                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 81 81 964653 6 16 24216
+1 3 6 337826 2 5 10695
+2 9 17 1114081 2 4 3241
+3 7 51 2162655 0 3 2581
+4 11 105 8323491 5 25 231059
+5 1 1 41245 6 25 236180
+6 6 58 4496153 0 2 1278
+7 9 23 805839 3 7 88700
+8 3 3 130421 3 5 10078
+9 7 8 237875 13 52 637599
+10 131 240 8926696 17 80 1139965
+11 58 62 1728312 3 21 82481
+12 18 72 4539231 16 59 2442924
+13 98 132 3211817 41 101 115812
+14 193 236 7024871 30 72 220098
+15 126 374 29247932 13 45 98269
+16 132 139 3469370 9 48 79446
+17 206 910 59132351 59 152 1044222
+18 43 244 15692408 3 12 34524
+19 154 221 6518152 18 64 309067
+20 13 89 6544491 4 7 2857
+21 533 974 35751516 84 238 1031181
+22 517 1508 45415927 30 161 328321
+23 164 301 12018921 22 69 312776
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+id 2174 3474 126646392
+cn 166 1422 65257380
+us 118 738 50701228
+ru 22 25 1523010
+jp 10 33 1626512
+kr 9 17 1110738
+au 6 12 475780
+sg 6 22 1073564
+ua 3 5 106775
+iq 2 9 403233
+gb 2 24 3316974
+in 1 7 447363
+bg 1 11 722962
+at 1 21 3011658
+se 1 1 78480
+ir 1 8 295295
+de 0 2 80467
+tw 0 9 130795
+ro 0 1 20337
+es 0 5 262417
+bd 0 9 544874
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 76 950806 20220706095658 2
+AhrefsBot/ 64 2113245 20220706124146 5
+bingpreview 36 1709978 20220703122753 0
+Go\-http\-client/ 11 765902 20220706100545 0
+bingbot/ 4 78555 20220704153243 3
+(firefox/)([0-9]\.|[0-1][0]\.) 4 314444 20220702173817 0
+Googlebot\-Image/ 2 117904 20220706095703 0
+no_user_agent 2 157091 20220703075702 0
+Dalvik/ 1 78480 20220702232939 0
+baidu 1 78480 20220702233038 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpg 178 7918047 0 0
+js 615 15281223 0 0
+Unknown 654 8281583 0 0
+php 1404 16796573 0 0
+css 620 13540955 0 0
+woff 94 8822600 0 0
+png 1919 162044851 0 0
+html 151 6806883 0 0
+woff2 133 10031415 0 0
+ttf 87 8312104 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+ios_iphone 152 23
+Unknown 83 25
+androidoreo 215 17
+macosx11 2 2
+win8 1 0
+androidjellybean 1 1
+win10 4288 2228
+macosx9 5 5
+android 268 34
+linux 588 123
+androidmarshmallow 5 3
+winxp 9 4
+androidfroyo 6 6
+ios_ipad 3 3
+macosx15 25 2
+androidkitkat 16 8
+win7 64 18
+androidnougat 24 2
+android10 100 19
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 63
+chrome78.0.3904.87 55 3
+chrome79.0.3945.130 2 2
+chrome88.0.4324.150 57 5
+chrome102.0.0.0 210 18
+chrome84.0.4147.89 3 3
+msie7.0 1 1
+safari9.0 5 5
+chrome69.0.3497.81 1 1
+chrome100.0.4896.127 25 2
+opera12.0 2 0
+chrome103.0.5060.53 375 154
+chrome89.0.4389.116 419 102
+chrome103.0.5060.66 1722 1536
+chrome102.0.5005.115 114 10
+chrome99.0.4844.74 2 2
+safari10.0 24 1
+chrome95.0.4638.69 34 5
+chrome68.0.3440.106 26 5
+chrome100.0.4896.88 1 1
+firefox83.0 1 1
+chrome74.0.3729.169 3 3
+chrome35.0.1916.47 4 4
+chrome29.0.1547.62 1 1
+android 7 7
+edge18 57 5
+chrome79.0.3945.79 28 5
+chrome61.0.3163.128 159 13
+firefox50.0 2 0
+opera12.16 1 0
+firefox52.0 2 2
+chrome75.0.3765.0 56 4
+msie6.0 2 2
+chrome97.0.4692.99 11 0
+msie8.0 2 2
+chrome83.0.4103.106 4 3
+safari 128 19
+chrome102.0.5005.40 27 4
+chrome103.0.0.0 861 377
+chrome101.0.4951.54 56 3
+safari7.0.3 1 1
+chrome49.0.2623.112 17 2
+safari11.0 22 2
+mozilla 26 5
+msie9.0 1 1
+chrome94.0.4606.61 21 18
+chrome52.0.1744.98 1 1
+chrome102.0.5005.63 57 5
+chrome34.0.1847.114 16 8
+chrome83.0.4103.97 4 4
+safari5.0.2 1 1
+firefox59.0 1 1
+chrome83.0.4103.61 11 3
+chrome 24 2
+chrome72.0.3626.119 979 114
+edge17 4 4
+Unknown 57 20
+firefox57.0 58 6
+chrome55.0.2883.87 2 2
+chrome76.0.3809.71 56 10
+chrome58.0.3029.110 1 1
+chrome96.0.4664.45 1 1
+chrome23.0.1271.95 3 0
+msie11.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WhatsApp/2.22.10.73_A 20220702213404
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220706040430
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20220702182130
+python-requests/2.28.0 20220705132223
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220705030240
+\ 20220704184015
+WhatsApp/2.22.13.76_A 20220702182717
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+\ 20220704184015
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20220702182130
+WhatsApp/2.22.13.76_A 20220702182717
+WhatsApp/2.22.10.73_A 20220702213404
+python-requests/2.28.0 20220705132223
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 214 269
+From1 1 1
+From2 4 4
+From3 4 4
+From4 2300 5577
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 2
+baidu 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://boalemo.iixcp.rumahweb.net:2083 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+507 41 21279
+307 65 389516
+500 8 89137
+301 3 719
+303 125 717345
+503 3 0
+404 748 869184
+400 1 0
+206 6 35505
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 54
+/public/assets/plugins/simplebar/css/simplebar.css 1 https://truskyshop.xyz/
+/telescope/requests 1 -
+/.git/config 1 -
+/public/assets/images/games/1654749910_4a55141b2495feb629f4.png 1 https://truskyshop.xyz/
+/ad 1 -
+/admin/ws 6 -
+/admin/topup/ws 1 -
+/admin/pesanan/ws 1 -
+/config.json 1 -
+/admi 1 -
+/admin/konfigurasi/ws 9 -
+/index.php 8 http://truskyshop.xyz/
+/aeroflot 4 -
+/blablacar-w 4 -
+/assets/plugins/bootstrap-datatable/css/datatables.bootstrap4.min.css 1 -
+//ws 12 -
+/aeroflot-fry 4 -
+/admin/games/ws 1 -
+/public/assets/images/1655196539_c2c4431551fd3511228d.png 1 https://truskyshop.xyz/
+/1jlbdmb 15 -
+/kfc 4 -
+/adm 1 -
+/admin/admin/ws 2 -
+/admin/kategori/ws 1 -
+/upload/footer.png 595 https://truskyshop.xyz/assets/css/style-main.css
+/public/assets/plugins/bootstrap-datatable/css/dataTables.bootstrap4.min.css 1 https://truskyshop.xyz/
+/admin/metode/edit/20/ws 1 -
+/public/assets/js/popper.min.js 1 https://truskyshop.xyz/
+/server-status 1 -
+/s/3130332e3234372e31312e3836/_/ 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/.env 1 -
+/wp-includes/wlwmanifest.xml 4 -
+/admin/produk/ws 2 -
+/wp-content/uploads/2022/03/fast-logo.jpg 4 -
+/login/ws 2 -
+/lenta 4 -
+/admin/pengguna/ws 2 -
+/russianfederation 4 -
+/public/assets/css/horizontal-menu.css 1 https://truskyshop.xyz/
+/info.php 1 -
+/.DS_Store 1 -
+/login.action 1 -
+/public/assets/css/animate.css 1 https://truskyshop.xyz/
+/russia-w1 4 -
+/public/assets/css/icons.css 1 https://truskyshop.xyz/
+/kfccorporationx 4 -
+/public/assets/js/jquery.min.js 1 https://truskyshop.xyz/
+/public/assets/css/app-style.css 1 https://truskyshop.xyz/
+/admin/login/ws 5 -
+/admin/metode/ws 2 -
+/public/assets/css/style-main.css 1 https://truskyshop.xyz/
+/ 17 -
+/public/assets/css/bootstrap.min.css 1 https://truskyshop.xyz/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 174
+36.76.138.227 1964 2720 86982825 20220706161847 20220706143309 /assets/fonts/fontawesome-webfont.ttf
+180.244.49.115 168 415 17396584 20220704160321
+36.71.140.54 19 163 9559137 20220702221022
+111.7.100.21 13 111 2186178 20220702220755
+111.7.100.25 13 130 2923276 20220702220750
+111.7.100.24 13 154 6438168 20220702222206
+111.7.100.27 12 78 2089500 20220702220752
+120.188.35.202 10 11 185685 20220702183427
+65.154.226.170 10 56 2711110 20220705211345
+111.7.100.22 9 53 1375209 20220702220739
+36.99.136.140 9 95 2113929 20220702220708
+36.99.136.138 9 53 1366720 20220702220718
+175.196.127.111 8 16 1069493 20220704020920
+66.96.224.198 8 80 5264291 20220703233924
+74.84.150.197 8 8 628757 20220702182130
+205.169.39.118 7 38 1511298 20220705211919
+36.99.136.134 7 87 4799934 20220702220730
+36.99.136.135 6 86 2524345 20220702220733
+27.96.106.222 6 22 1073564 20220705132220
+100.21.218.158 5 57 4421928 20220702174102
+44.227.127.2 5 57 4454944 20220702174641
+118.195.232.181 5 57 4454917 20220702201151
+116.206.31.39 5 57 4282856 20220702213515
+54.187.119.39 5 57 4454934 20220703041115
+38.108.182.5 5 57 4454908 20220703061319
+18.236.120.154 1 1 41245 20220704122316
+78.138.48.102 0 2 226751 
+188.212.141.165 0 1 20337 
+110.177.182.135 1 1 78480 20220702182703
+216.131.107.4 1 21 3011658 20220703151706
+91.230.107.202 1 1 41245 20220704202632
+45.90.63.206 1 2 100197 20220705014857
+49.216.169.151 0 9 130795 
+45.35.65.22 3 4 35759 20220703194503
+46.237.62.168 1 1 44588 20220705225417
+36.99.136.139 1 1 78354 20220702220609
+89.104.111.227 1 1 41245 20220705065856
+36.99.136.133 1 1 38529 20220702220603
+167.160.37.151 0 6 484785 
+111.7.100.23 4 24 588792 20220702220747
+206.204.54.112 0 1 16428 
+95.105.124.92 2 2 123139 20220705201824
+54.191.176.32 1 1 44588 20220706100203
+124.235.138.127 1 1 44574 20220705195027
+18.188.191.235 3 56 4320864 20220703150045
+18.181.216.251 2 2 157130 20220703153704
+152.39.155.99 0 3 379359 
+39.110.218.101 2 2 157222 20220702173728
+185.240.252.146 0 1 221336 
+171.13.14.54 3 3 270206 20220702181635
+206.204.22.182 0 1 134006 
+114.160.71.84 4 27 1155370 20220706035444
+54.212.21.52 0 2 153329 
+176.53.223.153 1 1 44588 20220706070921
+34.207.194.89 1 2 103540 20220705225425
+39.103.145.192 2 24 1140894 20220705194845
+120.52.152.20 0 7 386144 
+152.39.230.76 2 13 1435351 20220703151036
+121.56.26.12 1 1 78480 20220702194733
+222.94.163.190 1 1 78480 20220703005440
+192.155.81.5 1 1 78611 20220702173432
+185.41.240.21 1 1 78480 20220702181552
+38.121.43.61 3 9 30274 20220705073647
+1.202.114.75 1 1 78565 20220703162215
+35.88.138.75 1 2 24083 20220704071116
+195.211.77.140 1 1 78611 20220702173434
+176.53.223.97 1 1 41245 20220705095426
+54.218.77.173 2 25 1069135 20220706101711
+218.51.15.192 1 1 41245 20220704202728
+133.242.140.127 2 2 156960 20220702193601
+34.210.96.215 1 1 41245 20220704122308
+54.227.32.154 1 1 44588 20220705225428
+180.163.220.5 0 21 1758260 
+152.39.135.97 1 5 463339 20220703151007
+171.13.14.83 3 55 4247396 20220702182624
+198.240.89.96 0 2 77317 
+34.210.9.43 0 1 32019 
+107.150.106.130 1 1 78480 20220703113627
+154.22.135.98 2 2 82490 20220704091245
+206.204.32.125 0 1 4205 
+79.104.53.14 1 1 78480 20220702181641
+114.122.37.48 4 56 4271908 20220702211002
+89.104.100.78 1 2 100197 20220704013317
+66.203.112.166 1 1 78480 20220702181432
+94.176.89.28 1 7 288542 20220703151059
+119.12.190.217 3 4 15820 20220706151408
+119.12.188.171 1 1 3746 20220705192434
+167.88.7.163 1 1 78480 20220702181315
+104.244.83.113 0 1 5415 
+119.12.182.177 1 3 160439 20220706151035
+206.204.4.60 1 9 339599 20220705192455
+180.163.220.66 4 56 5171770 20220705044323
+167.94.138.60 2 2 123199 20220706040430
+1.202.119.148 1 1 78565 20220703172057
+213.188.77.250 0 1 6753 
+162.43.226.107 0 1 134006 
+167.160.54.28 2 4 279694 20220705192503
+199.244.57.98 1 1 0 20220704151216
+176.53.220.3 1 1 41245 20220704095113
+34.215.223.110 0 1 81906 
+119.13.208.164 0 1 134006 
+175.45.186.197 4 52 3828259 20220702173741
+54.217.61.57 1 1 9972 20220702202641
+36.155.90.183 1 1 44574 20220705155602
+89.104.111.87 1 1 78565 20220703153837
+176.53.220.155 1 1 44574 20220705152540
+84.39.231.61 0 5 262417 
+176.113.42.163 1 1 78480 20220703095135
+206.204.48.231 2 10 777597 20220704151017
+176.53.219.39 1 2 137432 20220703014618
+149.56.160.158 3 24 1007285 20220705030240
+54.191.198.150 5 26 2283574 20220705102251
+195.78.54.92 1 21 3011658 20220703151705
+54.191.44.252 0 1 102813 
+176.53.221.170 1 1 41245 20220704210547
+176.53.221.140 1 1 41245 20220704050930
+106.75.103.44 2 10 560898 20220705231911
+133.242.174.119 2 2 156960 20220702193603
+45.142.92.30 1 7 447363 20220704151122
+27.115.124.70 5 57 5655290 20220702175431
+206.204.63.207 0 5 487214 
+5.62.34.17 1 21 3011658 20220703151706
+45.90.61.9 1 1 78565 20220703211613
+119.163.46.48 1 1 78565 20220703145314
+213.188.90.194 2 8 396480 20220706151038
+206.204.43.15 0 1 85578 
+123.160.235.22 1 1 44588 20220706081539
+168.151.246.23 0 1 58952 
+34.79.54.61 2 2 156960 20220702183757
+111.7.100.20 3 3 235052 20220702220610
+171.13.14.84 1 53 4160259 20220702181627
+112.117.18.4 1 1 44588 20220706081531
+171.120.28.137 1 1 78480 20220702222030
+171.13.14.3 1 1 9975 20220702181536
+34.217.129.13 0 1 58072 
+139.5.105.3 0 2 80467 
+27.115.124.38 1 1 181552 20220705044532
+117.25.124.222 1 1 44588 20220705231445
+94.176.83.56 0 1 6753 
+180.149.21.253 0 2 139421 
+1.202.114.71 1 1 78480 20220702175441
+89.104.111.166 1 1 41245 20220704153334
+113.197.108.36 5 57 4421994 20220702173644
+34.239.184.128 1 1 41245 20220704130549
+89.104.111.119 1 1 43335 20220706152113 20220706152113 /
+119.164.106.19 1 1 78480 20220702232537
+176.53.220.242 1 1 41245 20220704125726
+195.123.241.191 3 4 35660 20220703094042
+15.204.142.133 0 2 117904 
+36.99.136.131 1 1 78366 20220702220614
+111.7.100.26 3 3 235159 20220702222028
+35.85.52.187 0 1 2070 
+36.99.136.130 5 50 1819797 20220702220721
+206.204.17.97 2 2 0 20220703151111
+176.53.217.63 1 1 41245 20220704070959
+27.115.124.45 3 24 1880411 20220705044523
+91.92.178.167 1 10 716209 20220705192426
+176.53.216.228 1 1 78480 20220703130327
+54.218.118.92 1 1 41245 20220704122332
+139.99.61.171 3 3 235440 20220703075719
+180.149.30.78 0 1 155758 
+3.126.19.248 5 27 1259369 20220704184015
+124.117.199.81 1 1 78480 20220702214210
+91.92.218.166 0 1 6753 
+51.75.141.254 1 1 78565 20220703151710
+93.180.226.236 0 1 71115 
+112.193.168.92 1 1 44588 20220706004555
+152.39.173.106 1 6 512462 20220704151019
+54.86.4.254 1 24 1916866 20220705201513
+36.99.136.143 5 49 1108101 20220702220703
+180.149.14.39 0 6 249695 
+119.12.192.167 1 3 161769 20220706151359
+205.169.39.131 1 1 1071 20220705211953
+36.32.2.138 1 1 44588 20220706021441
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20220702 631 2989 149708766 58
+20220703 747 1096 43567574 30
+20220704 465 571 14758080 28
+20220705 367 714 27897481 32
+20220706 313 485 21904333 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 7
+30mn-1h 6
+2mn-5mn 2
+0s-30s 123
+1h+ 6
+15mn-30mn 3
+30s-2mn 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 88
+/index.php 1402 16770781 40 51
+/ 151 6806883 95 74
+/assets/fonts/fontawesome-webfont.woff2 133 10031415 5 13
+/assets/fonts/fontawesome-webfont.woff 94 8822600 1 3
+/assets/fonts/fontawesome-webfont.ttf 87 8312104 0 12
+/admin/produk 65 624238 0 0
+/admin/games 62 601704 1 0
+/admin/produk/add 60 559851 0 0
+/admin/konfigurasi 55 734822 1 0
+/games/mobile-legends 50 705830 3 0
+/admin 41 381203 0 0
+/admin/login 30 286756 4 0
+/games/free-fire 28 443133 1 1
+/admin/games/edit/1 14 139725 0 0
+/admin/produk/edit/5 13 124472 0 0
+/admin/games/edit/34 11 108211 0 0
+/login 11 154669 1 1
+/admin/pengguna 10 91491 0 0
+/admin/metode 10 101024 0 0
+/games/genshin 10 110211 0 0
+/admin/produk/edit/39 9 83915 0 0
+/admin/kategori 9 85924 0 0
+/admin/admin 9 82085 0 0
+/admin/produk/edit/19 8 75055 0 0
+/payment 8 127482 1 1
+/games/order/get-price/51 1 77 0 0
+/games/order/get-price/38 1 77 0 0
+/games/order/get-price/24 1 78 0 0
+/admin/games/edit/19 1 9876 0 0
+/games/pubgm-new-state 2 89165 0 0
+/games/order/get-price/58 1 77 0 0
+/games/mobile-legends-b 1 78366 1 0
+/games/ragnarok-x-next-generation 3 100007 1 0
+/games/pubgm-global 4 110922 1 0
+/admin/produk/edit/33 2 18519 0 0
+/games/sausage-man 1 78351 1 0
+/games/pubg 1 10860 0 0
+/syarat-ketentuan 1 46578 0 0
+/admin/produk/edit/20 2 18509 0 0
+/games/be-the-king 3 99951 1 0
+/admin/topup/edit/2 1 9467 0 0
+/admin/metode/price/22 1 9485 0 0
+/admin/produk/edit/21 2 18508 0 0
+/games/pubgm-indo-a 4 112507 1 0
+/admin/games/edit/32 1 9826 0 0
+/games/order/get-price/22 1 77 0 0
+/admin/password 4 36336 0 0
+/games/life-after 3 99919 0 0
+/admin/produk/edit/22 3 27792 0 0
+/games/order/get-price/36 1 77 0 0
+/admin/pesanan 7 67910 0 0
+/admin/metode/edit/20 1 9743 0 0
+/games/mobile-legends-a 3 99969 1 2
+/admin/pengguna/add 1 9200 0 0
+/games/order/get-price/19 3 231 0 0
+/method 6 125918 1 0
+/games/order/get-price/59 1 78 0 0
+/games/order/get-price/57 1 78 0 0
+/games/league-of-legends 2 89132 0 0
+/price 5 116077 0 0
+/games/light-of-thel 3 99966 0 0
+/games/lords-mobile 2 89151 1 1
+/games/order/get-price/39 2 150 0 1
+/admin/games/edit/33 4 38966 0 0
+/admin/produk/edit/40 1 9308 0 0
+/games/pubgm-indo-a/ws 1 10994 0 0
+/games/order/get-price/25 1 78 0 0
+/games/order/get-detail/19 1 44 0 0
+/admin/metode/price/56 1 9609 0 0
+/public/index.php 2 25792 0 0
+/admin/games/add 6 57741 0 0
+/games/chimeraland 2 89147 0 0
+/games/order/get-price/5 5 385 0 0
+/admin/produk/edit/59 2 18878 0 0
+/admin/produk/edit/58 2 18873 0 0
+/games/order/get-price/1 1 77 0 1
+/games/pb-zepetto 3 99916 0 0
+/games/genshin-impact 4 110767 0 1
+/admin/games/edit/6 4 39550 0 0
+/games/marvel-super-war 3 99975 0 0
+/admin/topup 6 56904 0 0
+/games/omega-legends 3 99959 1 0
+/admin/games/edit/28 1 9880 0 0
+/games/playstation-network-psn 1 78341 0 0
+/admin/pengguna/edit/1 2 18911 0 0
+/games/order/get-price/13 1 76 0 0
+/games/dragon-raja 2 89152 1 0
+/admin/produk/edit/23 1 9241 0 0
+END_SIDER

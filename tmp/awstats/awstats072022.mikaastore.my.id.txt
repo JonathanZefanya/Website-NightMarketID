@@ -1,0 +1,265 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /home/mikb4259/tmp/awstats/awstats.mikaastore.my.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2695                
+POS_VISITOR 3450                
+POS_DAY 4078                
+POS_DOMAIN 4252                
+POS_LOGIN 4525                
+POS_ROBOT 4680                
+POS_WORMS 4881                
+POS_EMAILSENDER 5012                
+POS_EMAILRECEIVER 5155                
+POS_SESSION 5231                
+POS_SIDER 5398                
+POS_FILETYPES 5554                
+POS_DOWNLOADS 5752                
+POS_OS 5800                
+POS_BROWSER 5902                
+POS_SCREENSIZE 6130                
+POS_UNKNOWNREFERER 6204                
+POS_UNKNOWNREFERERBROWSER 6329                
+POS_ORIGIN 6449                
+POS_SEREFERRALS 6583                
+POS_PAGEREFS 6727                
+POS_SEARCHWORDS 6875                
+POS_KEYWORDS 7027                
+POS_MISC 2359                
+POS_ERRORS 7086                
+POS_CLUSTER 4381                
+POS_SIDER_404 7180                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220707151836 295 89700 14853405564631
+FirstTime 20220706172252
+LastTime 20220707151830
+LastUpdate 20220707165838 295 0 295 0 0
+TotalVisits 14                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 8 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 2 2 103860 3 3 232
+4 0 0 0 0 0 0
+5 0 0 0 1 1 51930
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 3 3 56556 0 1 155578
+10 1 38 4613042 0 1 155578
+11 1 38 2961867 2 3 211408
+12 2 51 2989782 0 1 155578
+13 1 38 2962235 0 1 155578
+14 5 40 3418247 0 1 155578
+15 3 65 5668180 0 2 54612
+16 0 0 0 0 0 0
+17 1 1 51930 0 0 0
+18 2 2 105768 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 3 3 155790 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+180.244.49.115 8 154 13955391 20220707141919 20220707123946 /login
+140.213.41.117 3 3 155790 20220706221621
+18.206.55.48 2 2 28278 20220707095039
+54.227.32.154 2 2 80208 20220707095048
+36.73.35.75 2 2 105768 20220706183530
+51.77.118.166 1 1 27915 20220707125737
+182.3.70.107 1 50 2961867 20220707114125
+36.71.140.171 1 32 2822554 20220707151830 20220707151830 /
+103.105.30.111 1 32 2822554 20220707151815 20220707151815 /
+182.2.73.228 1 1 51930 20220706172252
+34.76.158.233 1 1 23072 20220707151827 20220707151827 /
+34.207.194.89 1 1 51930 20220707032754
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20220706 6 6 313488 3
+20220707 18 275 22773769 11
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+id 16 242 20053300
+us 6 6 183488
+gb 1 1 27915
+in 1 32 2822554
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+curl 2 55830 20220707114819 0
+no_user_agent 1 51930 20220707055046 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+2mn-5mn 1
+0s-30s 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 20 706506 14 10
+/login 4 47808 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 30 428533 0 0
+js 101 4406769 0 0
+Unknown 4 47808 0 0
+jpg 49 12750079 0 0
+css 64 4550688 0 0
+jpeg 13 196874 0 0
+html 20 706506 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+Unknown 1 1
+win10 6 6
+android 274 17
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome83.0.4103.106 4 4
+chrome95.0.4638.69 1 1
+chrome89.0.4389.116 155 9
+chrome94.0.4606.85 3 3
+chrome90.0.4430.210 50 1
+chrome51.0.2704.106 1 1
+Unknown 1 1
+chrome103.0.0.0 66 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+python-requests/2.28.0 20220707151827
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.28.0 20220707151827
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 24 24
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 257
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 2 232
+404 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+http://mikaastore.my.id:80/ 1 -
+END_SIDER_404

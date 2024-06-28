@@ -1,0 +1,1966 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202208 will be lost/reset.
+# Last config file used to build this data file was /home/bimk7489/tmp/awstats/ssl/awstats.bimsvoucher.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2708                
+POS_VISITOR 26447               
+POS_DAY 63452               
+POS_DOMAIN 3745                
+POS_LOGIN 4385                
+POS_ROBOT 4540                
+POS_WORMS 5312                
+POS_EMAILSENDER 5443                
+POS_EMAILRECEIVER 5586                
+POS_SESSION 64144               
+POS_SIDER 64358               
+POS_FILETYPES 5721                
+POS_DOWNLOADS 6067                
+POS_OS 6115                
+POS_BROWSER 6588                
+POS_SCREENSIZE 9601                
+POS_UNKNOWNREFERER 9675                
+POS_UNKNOWNREFERERBROWSER 10579               
+POS_ORIGIN 11280               
+POS_SEREFERRALS 11431               
+POS_PAGEREFS 11596               
+POS_SEARCHWORDS 12540               
+POS_KEYWORDS 12692               
+POS_MISC 2370                
+POS_ERRORS 12751               
+POS_CLUSTER 4241                
+POS_SIDER_404 12973               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220821191647 10218 3102433 15448518921046
+FirstTime 20220801010039
+LastTime 20220821191647
+LastUpdate 20220821191951 10218 0 10218 0 0
+TotalVisits 1081                
+TotalUnique 857                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 911                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 440 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 259 1128 52449171 651 836 5018577
+1 297 1001 53733803 635 900 17511221
+2 101 723 57650458 222 370 10476768
+3 43 436 28422373 186 273 7011408
+4 61 531 45453704 187 276 7266424
+5 233 1031 49433890 184 295 6913164
+6 88 1001 61852012 190 331 7718993
+7 115 752 49681684 188 297 6699283
+8 106 1086 75587112 299 397 4375971
+9 154 1247 87695755 310 411 4083246
+10 70 973 67415824 231 328 4903267
+11 144 1269 94880499 255 471 10888001
+12 152 962 56932851 625 834 9528182
+13 375 2589 150704644 752 1096 13039939
+14 491 3017 168087792 959 1353 8178665
+15 420 2214 121445350 1225 1698 11213009
+16 829 2881 122583012 1456 1859 15557211
+17 600 2635 136360335 1278 1690 13665235
+18 543 3264 180553334 847 1136 8228132
+19 1176 3453 168596356 1709 2217 13804168
+20 708 3083 154298847 1114 1635 21655825
+21 674 2844 122288640 1094 1724 17080505
+22 771 2559 114012641 1329 1717 15111783
+23 695 2379 113894626 1001 1287 8063860
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+id 8149 37153 1956759954
+in 359 2971 197085507
+us 188 746 50936732
+cn 148 780 49732353
+au 59 323 17630731
+eg 29 200 10252447
+ua 28 28 158418
+ca 19 19 910953
+ru 18 18 1041017
+tw 16 153 9235435
+fr 16 65 3764911
+gb 16 122 5699707
+kh 14 233 15038153
+ro 12 12 743888
+se 9 9 338068
+ir 6 6 273091
+ph 3 51 4035343
+sc 3 60 3808411
+my 2 50 3111465
+at 2 2 98224
+ie 2 2 78980
+hk 2 50 3111457
+hu 2 2 80882
+de 1 1 0
+nl 1 1 39490
+zz 1 1 49096
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+no_user_agent 1303 1252610 20220821172051 0
+AhrefsBot/ 1099 68337287 20220820050101 50
+Go\-http\-client/ 889 46598906 20220821190057 0
+facebookexternalhit/ 99 11309991 20220821154427 0
+Googlebot/ 73 985272 20220820064830 9
+bingbot/ 51 176376 20220821134459 47
+bingpreview 46 3414436 20220820083442 0
+Googlebot\-Image/ 26 2194563 20220820064830 0
+unknown 22 596 20220821150404 22
+Dalvik/ 7 255486 20220817151937 0
+survey 4 157396 20220811054235 0
+DuckDuckGo\-Favicons\-Bot/ 4 79492 20220810211313 0
+CFNetwork 4 1024 20220812134819 0
+baidu 1 39490 20220808193144 0
+curl 1 49096 20220820093455 0
+Apache\-HttpClient/ 1 106602 20220817085816 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+php 75 3113371 0 0
+html 1959 27010042 0 0
+Unknown 6589 26004851 0 0
+js 4847 141054979 0 0
+png 13330 597189555 0 0
+jpg 9700 1374687594 0 0
+jpeg 1038 32189100 0 0
+webp 643 1983010 0 0
+woff2 451 35703744 0 0
+css 4393 91548628 0 0
+ttf 13 1869980 0 0
+svg 2 3532 0 0
+woff 18 1656327 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 25
+ios_iphone 2790 380
+androidnougat 239 39
+macosx10 3 3
+win10 7128 2024
+Unknown 77 67
+winxp 73 8
+androidjellybean 13 13
+android 21477 5084
+androidpie 1617 162
+macosx12 5 5
+androidmarshmallow 313 29
+win98 2 2
+win7 338 65
+macosx11 37 37
+android10 4596 508
+macosx15 498 35
+androidoreo 1345 251
+win2003 65 11
+androidlollipop 412 56
+macosx14 1 1
+win8.1 4 4
+ios_ipad 97 17
+winlong 8 8
+macosx13 10 10
+linux 1910 286
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 132
+chrome74.0.3729.169 3 3
+chrome96.0.4664.61 62 8
+chrome79.0.3945.130 1 1
+msie5.00 2 2
+safari16.0 117 20
+chrome80.0.3987.149 5 5
+chrome68.0.3440.106 6 6
+chrome94.0.4590.2 50 3
+chrome76.0.3809.100 42 3
+chrome57.0.2987.132 51 3
+chrome101.0.0.0 1549 187
+chrome103.0.5060.71 204 13
+chrome50.0.2661.75 12 12
+chrome85.0.4183.127 50 2
+opera89.0.4447.101 64 18
+safari11.1.1 1 1
+chrome83.0.4103.97 7 7
+firefox68.0 1 1
+chrome91.0.4472.77 29 3
+chrome60.0.3112.107 2 2
+chrome83.0.4103.61 3 3
+chrome71.0.3578.141 130 7
+chrome90.0.4430.210 66 3
+chrome19.0.1084.9 3 3
+chrome94.0.4606.85 565 42
+chrome48.0.2531.0 1 1
+chrome51.0.2704.84 33 33
+chrome95.0.4638.69 1 1
+chrome95.0.4638.74 296 23
+chrome97.0.4692.98 49 2
+Unknown 53 43
+chrome98.0.4758.87 113 8
+chrome104.0.5112.102 172 37
+firefox50.0 5 5
+chrome96.0.4664.110 124 19
+chrome53.0.2785.134 160 8
+mozilla 111 31
+chrome99.0.4844.88 683 178
+chrome83.0.4103.101 53 4
+chrome99.0.4844.84 2 2
+chrome90.0.4430.85 12 12
+chrome101.0.4951.40 117 11
+chrome92.0.4515.131 206 90
+chrome99.0.4844.73 113 9
+chrome104.0.5112.69 344 43
+edge17 2 2
+safari15.1 61 5
+chrome71.0.3578.99 40 9
+chrome93.0.4577.62 59 3
+chrome83.0.4103.106 108 6
+firefox57.0 3 3
+safari 270 42
+firefox78.0 1572 245
+firefox33.0 1 1
+chrome88.0.4240.193 20 20
+msie7.0 2 2
+chrome89.0.4389.114 6 6
+chrome100.0.4758.11 1 1
+firefox103.0 550 65
+chrome100.0.4896.60 8 1
+chrome55.0.2883.87 10 10
+safari15.5 471 34
+chrome81.0.4044.138 34 6
+safari15.6.1 51 5
+chrome94.0.4606.61 48 1
+chrome70.0.3538.110 48 3
+chrome46.0.2754.75 4 4
+chrome78.0.3904.108 157 31
+firefox89.0 2 2
+msie8.0 4 4
+chrome104.0.5112.81 984 208
+chrome101.0.4951.41 89 3
+safari15.3 65 22
+chrome87.0.4280.141 1049 186
+chrome103.0.5060.129 1625 121
+msie9.0 2 0
+opera70.3.3653.66287 103 54
+chrome47.0.2526.106 4 4
+safari15.4 198 75
+chrome96.0.4664.45 43 5
+chrome96.0.4664.92 66 2
+safari9.0 18 18
+safari13.0.3 6 6
+android 13 13
+safari14.0.3 50 2
+chrome99.0.4844.58 401 50
+chrome95.0.4638.54 1 1
+firefox84.0 1 1
+chrome91.0.4472.88 761 85
+firefox83.0 1 1
+iphone 1007 77
+chrome101.0.4951.15 129 6
+msie11.0 2 2
+chrome91.0.4472.101 76 20
+chrome102.0.0.0 811 101
+chrome59.0.3071.115 4 2
+chrome84.0.4147.125 1 1
+firefox67.0 2 2
+chrome95.0.4638.50 50 2
+chrome96.0.4664.104 137 13
+chrome64.0.3282.137 35 2
+chrome63.0.3239.132 1 1
+chrome55.0.2883.91 60 4
+chrome89.0.4389.116 3860 981
+chrome79.0 2 2
+chrome93.0.4577.82 117 9
+chrome103.0.5060.134 200 8
+safari8.0 1 1
+chrome97.0.4692.99 10 0
+chrome101.0.4951.61 216 12
+chrome69.0.3497.81 4 4
+safari13.0.4 50 2
+chrome104.0.0.0 9730 2745
+chrome77.0.3865.116 127 17
+chrome91.0.4472.114 11 11
+chrome39.0.2171.95 2 2
+safari11.0 1 1
+chrome66.0.3359.158 30 2
+chrome100.0.4896.127 161 15
+chrome58.0.1145.75 4 4
+chrome89.0.4389.105 262 49
+chrome100.0.4896.75 49 2
+chrome98.0.4758.101 297 36
+chrome80.0.3987.99 254 15
+chrome104.0.5112.97 91 4
+chrome103.0.0.0 9865 2559
+chrome102.0.5005.125 113 8
+safari14.0.1 93 8
+chrome100.0.4895.86 1 1
+msie6.0 71 6
+safari15.6 434 80
+opera54.0.2952.64 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+WhatsApp/2.22.14.74_A 20220803090713
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20220818065831
+WhatsApp/2.22.16.75_A 20220817192554
+YoGBWhatsApp/2.22.10.73_A 20220821133548
+Mozilla/5.0_(compatible;_TriPay_Payment/1.0;__https://tripay.co.id/developer?tab=callback) 20220806142605
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220816060934
+cortex/1.0 20220813104537
+YoWhatsApp/2.22.10.73_A 20220812174632
+WhatsApp/2.22.15.74_A 20220808122805
+YoFMWhatsApp/2.22.10.73_A 20220819093017
+python-requests/2.18.4 20220819114442
+WhatsApp/2.22.10.73_A 20220801055617
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+WhatsApp/2.22.14.74_A 20220803090713
+YoWhatsApp/2.22.10.73_A 20220812174632
+WhatsApp/2.22.15.74_A 20220808122805
+python-requests/2.18.4 20220819114442
+WhatsApp/2.22.10.73_A 20220801055617
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220816060934
+cortex/1.0 20220813104537
+YoFMWhatsApp/2.22.10.73_A 20220819093017
+YoGBWhatsApp/2.22.10.73_A 20220821133548
+WhatsApp/2.22.16.75_A 20220817192554
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1330 2218
+From1 36 36
+From2 26 26
+From3 177 205
+From4 7536 40573
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 26 26
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 20
+https://lm.facebook.com 52 52
+http://m.facebook.com 44 44
+https://l.facebook.com 37 37
+https://lm.facebook.com 9 9
+http://203.175.8.22:80 5 5
+https://m.facebook.com 5 5
+http://m.facebook.com 4 4
+https://m.facebook.com 4 4
+https://cpanel.bimsvoucher.xyz/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://l.facebook.com 3 3
+https://l.instagram.com 3 3
+https://asmara.iixcp.rumahweb.com:2083 2 2
+https://www.facebook.com 2 2
+https://free.facebook.com 1 1
+http://cpanel.bimsvoucher.xyz/unprotected/redirect.html 1 1
+https://big.ipaymu.com 1 1
+https://free.facebook.com 1 1
+https://cpanel.bimsvoucher.xyz 0 3
+https://cpanel.bimsvoucher.xyz/cPanel_magic_revision_1630268953/unprotected/cpanel/style_v2_optimized.css 0 7
+https://abimanyustore.my.id 0 18
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+404 18037 41082119
+206 198 19363595
+503 4 0
+401 1 35
+301 25 4901
+403 1 6748
+422 106 8905
+500 265 21343134
+419 8 9885
+405 7 3608206
+302 566 89610
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 299
+/pembelian/invoice/IL9WJz/ws 2 -
+/apple-touch-icon.png 6 -
+/pembelian/invoice/jFYnwY/ws 2 -
+/s_e.php 1 -
+/assets/banner/20220628_021603.jpg 6 https://bimsvoucher.xyz/
+//website/wp-includes/wlwmanifest.xml 29 -
+//2021/wp-includes/wlwmanifest.xml 9 -
+/game/mobile-legend-c/ws 25 -
+//2018/wp-includes/wlwmanifest.xml 15 -
+/pembelian/invoice/NR6K4h/ws 1 -
+/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css 1 https://bimsvoucher.xyz/dashboard
+/game/dana 1 https://bimsvoucher.xyz/
+/ajax-index.php 2 -
+/assets/thumbnail/byu.png 4 https://bimsvoucher.xyz/
+/deposit/ws 6 -
+/assets/libs/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js 2 https://bimsvoucher.xyz/dashboard
+/votes.php 1 -
+/upload.php 1 -
+/assetss/img/logos/saldo.png 14 https://bimsvoucher.xyz/game/genshin-impact
+/games3.zip 1 -
+/assets/thumbnail/ovo.png 4 https://bimsvoucher.xyz/
+/pembelian/invoice/7Xd8AK/ws 2 -
+/pembelian/invoice/f3ONmS/ws 1 -
+/assets/libs/datatables.net-buttons/js/buttons.html5.min.js 2 https://bimsvoucher.xyz/dashboard
+/pembelian/invoice/pU4Zku/ws 2 -
+/pembelian/invoice/YsjS9a/ws 1 -
+/1jlbdmb 18 -
+/f623B.php 1 www.google.com
+/un.php 1 -
+/assets/logo.png 1 https://bimsvoucher.xyz/dashboard
+/assets/banner/1656957652_714f7d7b96f15a4e6856%20(1).jpg 5 https://bimsvoucher.xyz/
+/assets/thumbnail/GenshinImpact_new_tile.jpg 4 https://bimsvoucher.xyz/
+/assets/css/bootstrap.min.css.map 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff 977 https://bimsvoucher.xyz/assetss/scss/app.css
+/pembelian/invoice/B6wRg2/ws 2 -
+/assets/indomaret.png 7 https://bimsvoucher.xyz/game/mobile-legend-b
+/pembelian/invoice/No0sda/ws 3 -
+/artisan/Ovo 1 -
+/assets/qrisdepo.png 4 https://bimsvoucher.xyz/deposit
+/web.php 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff 1754 https://bimsvoucher.xyz/assetss/scss/app.css
+/assets/libs/datatables.net-responsive/js/dataTables.responsive.min.js 2 https://bimsvoucher.xyz/dashboard
+//news/wp-includes/wlwmanifest.xml 29 -
+/game/fonts/comic.ttf 2 https://bimsvoucher.xyz/game/mobile-legend-b
+/assetss/img/logos/mandiri.png 5 https://bimsvoucher.xyz/game/mobile-legend-b
+//blog/wp-includes/wlwmanifest.xml 38 -
+/assets/banner/IMG-20220814-WA0003.jpg 1 https://bimsvoucher.xyz/
+/fb.com/raflii.seller 2 https://bimsvoucher.xyz/license
+/2index.php 1 -
+/assets/thumbnail/valorant_tile%20(2).jpg 4 https://bimsvoucher.xyz/
+/assets/thumbnail/disney-hotstar-icon.jpg 4 https://bimsvoucher.xyz/
+/asset/js/popper.min.js.map 2 https://bimsvoucher.xyz/
+//wp2/wp-includes/wlwmanifest.xml 29 -
+//cms/wp-includes/wlwmanifest.xml 38 -
+/msg 1 -
+/pembelian/invoice/5SgqvO/ws 3 -
+/assetss/img/logos/litelogo.png 54 https://bimsvoucher.xyz/
+//web/wp-includes/wlwmanifest.xml 38 -
+/assets/thumbnail/netflix.jpg 4 https://bimsvoucher.xyz/
+/pembelian/invoice/oaMslv/ws 1 -
+/pembelian/invoice/3T6m4i/ws 1 -
+/game/mobile-legend-b/ws 95 -
+/wp-blockdown.php 1 -
+/pembelian/invoice/EWiobQ/ws 1 -
+/index.php/web/wp-includes/wlwmanifest.xml 1 -
+/admin/view/stylesheet/accesson.php 2 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/apple-touch-icon-precomposed.png 5 -
+/pembelian/invoice/3IiuQw/ws 2 -
+/assets/libs/moment/min/moment.min.js 2 https://bimsvoucher.xyz/dashboard
+/assets/libs/datatables.net-select-bs4/css/select.bootstrap4.min.css 1 https://bimsvoucher.xyz/dashboard
+/wp-blog-post.php 1 -
+/dev 1 -
+/pembelian/invoice/5cZscH/ws 1 -
+/pembelian/invoice/YmhrPD/ws 1 -
+//wp/wp-includes/wlwmanifest.xml 38 -
+/pembelian/invoice/3UTfdq/ws 1 -
+/game/free-fire/ws 9 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff 1146 https://bimsvoucher.xyz/assetss/scss/app.css
+/sitemap.xml 1 -
+/ymstore 1 -
+/assetss/plugins/bootstrap-table/bootstrap-table.min.js 13 https://bimsvoucher.xyz/
+/index.php/wp1/wp-includes/wlwmanifest.xml 1 -
+//test/wp-includes/wlwmanifest.xml 38 -
+/assets/js/vendor.min.js 2 https://bimsvoucher.xyz/dashboard
+/assets/libs/datatables.net-buttons/js/buttons.flash.min.js 2 https://bimsvoucher.xyz/dashboard
+/asset/js/bootstrap.min.js.map 2 https://bimsvoucher.xyz/
+//sito/wp-includes/wlwmanifest.xml 29 -
+/assetss/img/logos/bca.png 6 https://bimsvoucher.xyz/game/mobile-legend-b
+/assets/js/app.min.js 2 https://bimsvoucher.xyz/dashboard
+/bimsvoucher.sql 1 -
+/game/dana/ws 23 -
+/assetss/admin//assetss/plugins/bootstrap/js/bootstrap.min.js 2480 https://bimsvoucher.xyz/login
+/old-index.php 1 -
+/wp-mail.php 1 -
+/assets/css/app.min.css.map 1 -
+/game/genshin-impact/ws 48 -
+/assets/css/app-dark.min.css 1 https://bimsvoucher.xyz/dashboard
+/index.php/cms/wp-includes/wlwmanifest.xml 1 -
+/game/shoepay/ws 13 -
+/assets/js/app.min.js.map 1 -
+/upload/footer.png 1497 https://bimsvoucher.xyz/asset/css/style-main.css
+/game/free-fire 2 https://bimsvoucher.xyz/
+/game/life-after/ws 11 -
+/assets/libs/flatpickr/flatpickr.min.js 2 https://bimsvoucher.xyz/dashboard
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/thumbnail/lolwildrift_tile.png 4 https://bimsvoucher.xyz/
+/pembelian/invoice/FAS0rf/ws 1 -
+/pembelian/invoice/NFRM54/ws 3 -
+/assets/thumbnail/spotify.jpg 4 https://bimsvoucher.xyz/
+/smtphec.php 1 -
+/pembelian/invoice/WOsFdC/ws 1 -
+/upload_index.php 1 -
+/wp-slicemap.php 1 -
+/outcms.php 1 -
+/ovo/ws 2 -
+/bhoFQY 7 -
+/assets/css/app.min.css 1 https://bimsvoucher.xyz/dashboard
+/.env 1 -
+/assets/thumbnail/images.png 4 https://bimsvoucher.xyz/
+/assets/thumbnail/lifeafter_tile%20(1)%20(1).jpeg 4 https://bimsvoucher.xyz/
+/assets/css/icons.min.css 1 https://bimsvoucher.xyz/dashboard
+/assets/libs/datatables.net-buttons/js/dataTables.buttons.min.js 2 https://bimsvoucher.xyz/dashboard
+/assets/thumbnail/linkaja.png 4 https://bimsvoucher.xyz/
+/assets/css/bootstrap.min.css 1 https://bimsvoucher.xyz/dashboard
+//wp1/wp-includes/wlwmanifest.xml 37 -
+/.git/config 5 -
+/assets/gopay.png 1 https://bimsvoucher.xyz/game/mobile-legend-starlight
+/assets/thumbnail/axis.png 4 https://bimsvoucher.xyz/
+/infodat.php 1 -
+/index.php/2020/wp-includes/wlwmanifest.xml 1 -
+/assets/css/icons.min.css.map 1 -
+/game/mobile-legend-starlight 1 https://bimsvoucher.xyz/
+/pembelian/invoice/PsNsBd/ws 8 -
+/pembelian/invoice/5NrzMc/ws 1 -
+/game/b/syarat-ketentuan 7 https://bimsvoucher.xyz/game/axis
+/assets/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js 2 https://bimsvoucher.xyz/dashboard
+/wikiindex.php 1 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/pembelian/invoice/0CqYYm/ws 1 -
+/index.php/2021/wp-includes/wlwmanifest.xml 1 -
+/assets/images/1656656626_451018b4033015af090d.jpg 78 -
+/pembelian/invoice/zxhy6x/ws 1 -
+//wordpress/wp-includes/wlwmanifest.xml 38 -
+/pembelian/invoice/j4TvM9/ws 1 -
+/local.php 1 -
+/assets/thumbnail/higgs_ek5_id.jpeg 1 https://bimsvoucher.xyz/
+/pembelian/invoice/Sv9zZ9/ws 1 -
+/blue.php 1 -
+/dashboard/ws 53 -
+/pembelian/invoice/3EZXE7/ws 1 -
+/assetss/js/app.js 13 https://bimsvoucher.xyz/
+/wp-plain.php 2 -
+/pembelian/invoice/zYuIgm/ws 4 -
+/pembelian/invoice/6lVWoK/ws 1 -
+/phpmyadmin/index.php 1 -
+/wp-supports.php 1 -
+/pembelian/invoice/fBASjT/ws 1 -
+/pembelian/invoice/Qs6tPS/ws 1 -
+//2019/wp-includes/wlwmanifest.xml 37 -
+/pembelian/invoice/1bCCzR/ws 3 -
+/assets/thumbnail/1571814027-icon-1559011491-icon-1557743544-icon-point_blank%20(1).jpg 4 https://bimsvoucher.xyz/
+/pembelian/invoice/kVIUy3/ws 1 -
+/apple-touch-icon-120x120.png 4 -
+/wp-stream.php 1 -
+/assets/thumbnail/download.png 4 https://bimsvoucher.xyz/
+/pembelian/invoice/P0Wz4X/ws 1 -
+/index.php/shop/wp-includes/wlwmanifest.xml 1 -
+/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css 1 https://bimsvoucher.xyz/dashboard
+/user-deposit/ws 12 -
+/wp-blockup.php 1 -
+/index.php/product/voucher-goc-pay-20-000 1 -
+/pembelian/invoice/HTqPwh/ws 2 -
+/login/ws 37 -
+/d2.php 1 -
+/admin-login 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2 1815 https://bimsvoucher.xyz/assetss/scss/app.css
+/ups.php 1 -
+/assets/thumbnail/youtube-new.jpg 4 https://bimsvoucher.xyz/
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf 1729 https://bimsvoucher.xyz/assetss/scss/app.css
+/assets/thumbnail/tri.png 4 https://bimsvoucher.xyz/
+/sistem 1 -
+/wp-craft-report.php 1 -
+/assets/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css 1 https://bimsvoucher.xyz/dashboard
+/pesanan/ws 114 -
+/index.php/test/wp-includes/wlwmanifest.xml 1 -
+/assets/thumbnail/pubgm-g-icon%20(2).jpg 4 https://bimsvoucher.xyz/
+/wp-option.php 1 -
+/index.php/wordpress/wp-includes/wlwmanifest.xml 1 -
+/home/ws 1 -
+/assets/thumbnail/codmobile_tile.jpg 1 https://bimsvoucher.xyz/
+/assets/thumbnail/1635831729-icon-appicon_ob30%20(1).jpg 4 https://bimsvoucher.xyz/
+/assets/thumbnail/telkomsel.png 4 https://bimsvoucher.xyz/
+/assetss/img/logos/hayu-logo.png 110 https://bimsvoucher.xyz/
+/pembelian/invoice/yQeOkM/ws 1 -
+/wpecho.php 1 -
+/load.php 1 -
+/whatsapp/ws 1 -
+/assets/libs/datatables.net-select/js/dataTables.select.min.js 2 https://bimsvoucher.xyz/dashboard
+/pembelian/invoice/qK4eB4/ws 1 -
+/sistem/tripay/callback 1 -
+/layanan/ws 68 -
+/webdata.php 1 -
+/assets/libs/datatables.net-keytable/js/dataTables.keyTable.min.js 2 https://bimsvoucher.xyz/dashboard
+/th3_alpha.php 1 -
+/windex.php 1 -
+/asset/images/ 3 https://bimsvoucher.xyz/game/mobile-legend-b
+/wp-commentin.php 1 -
+/gopay/ws 4 -
+/doc.php 1 -
+//media/wp-includes/wlwmanifest.xml 15 -
+/assets/thumbnail/1571813732-icon-1557979789-icon-1548756860-icon-Icon_Speed.jpg 4 https://bimsvoucher.xyz/
+/assets/libs/datatables.net-buttons/js/buttons.print.min.js 2 https://bimsvoucher.xyz/dashboard
+/game/higgs-domino/ws 1 -
+/cari/ws 22 -
+/pembelian/invoice/LSYeHK/ws 17 -
+/pembelian/invoice/QGS5Z3/ws 1 -
+/riwayat-pembelian/ws 2 -
+/pembelian/invoice/5KpIFM/ws 1 -
+/pembelian/invoice/SaTVjd/ws 1 -
+/berita/ws 17 -
+/pembelian/invoice/DLKLaP/ws 1 -
+//2020/wp-includes/wlwmanifest.xml 22 -
+/assets/thumbnail/ml-promo-icon.jpg 4 https://bimsvoucher.xyz/
+/assets/images/users/avatar-1.jpg 1 https://bimsvoucher.xyz/dashboard
+/index.php/blog/wp-includes/wlwmanifest.xml 1 -
+/index.php/xmlrpc.php 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf 1141 https://bimsvoucher.xyz/assetss/scss/app.css
+/artisan/updatePemesanan 1 -
+/assets/css/bootstrap-dark.min.css 1 https://bimsvoucher.xyz/dashboard
+/artisan/updatePembelian 1 -
+/assets/logo2.png 2 https://bimsvoucher.xyz/dashboard
+/game/codm/ws 4 -
+/asset/css/bootstrap.min.css.map 16 -
+/assetss/css/app.css 8 -
+/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js 2 https://bimsvoucher.xyz/dashboard
+/tools/update_produk.php 1 -
+/ary 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2 1164 https://bimsvoucher.xyz/assetss/scss/app.css
+//xmlrpc.php 38 -
+/game/mobile-legend-starlight/ws 4 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf 969 https://bimsvoucher.xyz/assetss/scss/app.css
+/game/valorant/ws 2 -
+/assets/libs/datatables.net/js/jquery.dataTables.min.js 2 https://bimsvoucher.xyz/dashboard
+/berita/hapus/6/ws 1 -
+/Gopay-Transaksi/ws 1 -
+/pembelian/invoice/bmpMRF/ws 1 -
+/assets/thumbnail/starlight-new%20(2).jpg 4 https://bimsvoucher.xyz/
+/assets/thumbnail/1656599736_5250935c4b926259716c.png 4 https://bimsvoucher.xyz/
+/office 4 -
+/assetss/scss/app.css 7 https://bimsvoucher.xyz/
+/game/mobile-legend-b 9 https://bimsvoucher.xyz/
+/wp-clearline.php 1 -
+/assets/banner/IMG-20220814-WA0002.jpg 1 https://bimsvoucher.xyz/
+/check-voucher 5 https://bimsvoucher.xyz/game/genshin-impact
+/slicemap.php 1 -
+//shop/wp-includes/wlwmanifest.xml 37 -
+/pembelian/invoice/Z2L0fl/ws 1 -
+/member/ws 43 -
+/s_ne.php 1 -
+/assets/thumbnail/shopee_pay.png 4 https://bimsvoucher.xyz/
+/pembelian/invoice/flpR1C/ws 8 -
+/register/ws 8 -
+//ws 229 -
+/assetss/scss/chatbox.css 7 https://bimsvoucher.xyz/
+/pembelian/invoice/MKyLzG/ws 1 -
+/game/mobile-legend 2 -
+/index.php/2019/wp-includes/wlwmanifest.xml 1 -
+/sistem/tripay 1 -
+/index.php/site/wp-includes/wlwmanifest.xml 1 -
+/assets/js/pages/dashboard.init.js 2 https://bimsvoucher.xyz/dashboard
+/home 14 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/libs/flatpickr/flatpickr.min.css 1 https://bimsvoucher.xyz/dashboard
+/accesson.php 1 -
+/assets/product_logo/7LwVC9of2TCtTZI.jpg 24 https://bimsvoucher.xyz/game/mobile-legend-b
+/assets/libs/apexcharts/apexcharts.min.js 2 https://bimsvoucher.xyz/dashboard
+/pembelian/invoice/t0Bs1W/ws 1 -
+/index.php/wp/wp-includes/wlwmanifest.xml 1 -
+/game/genshin 10 https://bimsvoucher.xyz/
+/pembelian/invoice/aiI77B/ws 1 -
+/berita/hapus/11/ws 1 -
+//wp-includes/wlwmanifest.xml 28 -
+/pembelian/invoice/s6QOsm/ws 4 -
+/pembelian/invoice/NLYC5p/ws 5 -
+/index.php/home 2 https://bimsvoucher.xyz/index.php
+/apple-touch-icon-120x120-precomposed.png 4 -
+/kategori/ws 31 -
+/sistem/status 1 -
+//wp-includes/ID3/license.txt 8 -
+/game/mobile-legend-c 4 https://bimsvoucher.xyz/
+/assets/thumbnail/dana.png 4 https://bimsvoucher.xyz/
+//site/wp-includes/wlwmanifest.xml 38 -
+/sistem/scrape/produk 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2 999 https://bimsvoucher.xyz/assetss/scss/app.css
+/admin 7 -
+/artisan/ovo 1 -
+/login.php 1 -
+/bimsvoucher.xyz.sql 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 911
+125.161.2.13 1264 2167 45453043 20220807235556
+125.166.203.20 1239 2881 98142428 20220821191647 20220821133306 /game/harga
+180.254.78.216 1117 2215 60311765 20220815235246
+110.138.79.83 870 1796 53941878 20220819055713
+36.88.43.168 135 423 22587013 20220807214230
+114.10.64.34 127 351 11594904 20220810180130
+180.243.215.119 110 160 309362 20220808234546
+180.254.118.250 87 152 4872911 20220805200000
+125.167.59.111 67 481 11017139 20220813214950
+103.144.175.242 66 271 13714495 20220821015905
+114.4.78.155 54 101 1251841 20220802234603
+114.122.107.250 53 109 3434788 20220811232213
+182.3.40.79 51 108 3948530 20220810100336
+114.4.78.52 49 64 139375 20220802164135
+140.213.140.139 46 100 4747275 20220805224712
+125.167.56.81 46 267 7818992 20220807131748
+103.182.78.10 46 149 6548419 20220817194857
+180.214.232.27 44 98 3806054 20220816224222
+146.196.41.161 40 115 5999723 20220804215135
+125.167.56.176 37 306 5966739 20220810210159
+114.10.18.198 36 90 3366666 20220805193231
+114.5.217.107 35 127 9649608 20220821162629
+36.68.9.224 33 175 14968773 20220821181417
+125.160.238.116 33 128 11423808 20220821185920 20220821185914 /game/codm
+114.10.20.243 33 88 3561945 20220804053256
+61.5.108.140 7 61 3291309 20220805181754
+116.206.29.58 2 50 3147121 20220806201843
+182.1.127.16 1 33 2539509 20220811175343
+114.10.69.11 4 60 3795696 20220807140908
+180.241.46.63 13 112 6519265 20220805180714
+180.254.160.134 3 4 60274 20220819142246
+110.52.195.159 1 1 39490 20220808192416
+124.235.138.9 1 1 39520 20220808145522
+140.213.186.128 15 76 3967734 20220815193942
+51.159.144.203 1 1 0 20220820145741
+182.1.33.69 1 2 296 20220807162959
+140.213.2.196 5 26 1309172 20220802021527
+36.85.220.145 3 51 3257581 20220815175621
+103.158.121.220 1 4 51242 20220821191345 20220821191345 /
+180.247.235.96 2 50 3111464 20220812061045
+114.5.213.105 3 3 0 20220804183158
+34.228.199.73 1 1 106602 20220817085825
+114.122.75.109 2 50 3111462 20220808145007
+103.105.27.83 8 54 4934692 20220821014523
+36.68.11.205 2 49 3111190 20220801153453
+114.79.0.240 1 11 1241941 20220818122429
+89.47.162.206 2 2 78992 20220810220307
+36.85.222.15 2 32 5280107 20220820191637
+144.255.16.36 3 3 118500 20220809085257
+103.139.10.114 1 38 2763628 20220813231655
+36.76.136.232 4 51 4070605 20220805195712
+114.122.71.141 2 2 5346 20220805133058
+114.142.171.24 6 60 3259978 20220806115059
+125.163.239.247 4 61 3808446 20220809032238
+115.178.241.96 10 29 3215617 20220805205936
+114.10.7.50 11 67 3344986 20220812054931
+103.108.28.108 6 60 4230573 20220805185147
+114.10.20.152 1 23 1208329 20220820191049
+114.79.2.126 4 60 3795515 20220807150212
+114.10.7.176 3 48 4816798 20220821093856
+140.213.173.86 5 5 15038 20220803193127
+156.215.75.129 3 51 2833852 20220816203645
+182.4.68.105 1 1 165548 20220802221903
+140.213.66.165 24 105 4805909 20220803193229
+123.160.232.146 1 1 40411 20220804070854
+149.113.38.198 10 104 5850912 20220808165841
+182.2.139.207 1 5 2095229 20220812054616
+182.2.68.37 3 57 3291344 20220806043311
+182.1.110.41 8 61 3274341 20220807063216
+103.105.32.88 2 49 3997485 20220805180951
+18.144.177.117 2 2 98352 20220819114442
+103.138.47.34 5 34 1897888 20220820035951
+125.164.97.89 9 65 3370347 20220812065258
+125.164.235.200 4 58 3291830 20220805181051
+103.108.32.65 2 13 1443556 20220819114539
+223.255.229.68 4 36 1944156 20220819133759
+180.252.115.47 5 61 3795761 20220807135707
+114.10.66.154 18 38 1494974 20220808164225
+114.10.29.95 7 9 18240 20220816232353
+51.79.173.167 2 12 182312 20220809022736
+182.2.71.58 11 60 3294539 20220814172028
+180.243.12.82 2 50 3997741 20220811120233
+110.137.195.160 12 64 5394200 20220821121821
+180.252.8.3 3 51 4011014 20220811230017
+202.80.209.139 3 75 13434901 20220821113335
+51.159.155.93 1 9 7381 20220821011027
+125.164.98.247 2 50 3147121 20220806204537
+180.242.129.4 1 1 3815 20220801010039
+182.4.68.174 1 18 210390 20220802191614
+137.226.113.44 1 1 0 20220804230231
+36.82.138.29 7 61 3300360 20220805184954
+82.193.104.168 1 1 0 20220818065831
+103.17.76.25 3 13 247100 20220810194747
+116.206.40.4 7 43 2039188 20220817174348
+182.4.69.97 1 21 2010820 20220803004254
+103.131.18.39 6 56 5595940 20220821190716 20220821190120 /
+20.117.232.84 5 5 192730 20220802030805
+182.0.234.36 0 16 1293593 
+114.124.130.14 2 39 3277685 20220805210753
+175.45.186.196 2 49 3111208 20220811024743
+36.85.4.87 1 39 2088924 20220803225122
+103.93.56.177 5 59 4247575 20220805180051
+114.10.16.187 2 42 1673309 20220819082405
+103.111.137.78 3 33 1914205 20220819072558
+114.4.212.202 2 50 3997741 20220810083531
+114.5.110.39 23 136 14747100 20220821120213
+125.164.21.45 1 1 40 20220811132452
+157.55.39.169 0 1 67751 
+180.254.166.91 6 43 4786577 20220821040443
+202.67.39.1 3 9 179820 20220802205857
+120.0.52.62 1 1 40411 20220804071739
+182.2.72.114 4 61 3808463 20220807231614
+103.17.76.24 2 49 3111208 20220810194733
+114.125.196.212 3 13 15222 20220815171141
+182.3.41.96 8 62 4288763 20220806171247
+114.124.206.190 2 49 3111210 20220811152239
+182.1.117.117 5 55 1302816 20220805140637
+114.122.142.223 2 30 1994084 20220812120115
+112.215.173.26 4 40 3488006 20220814104531
+114.122.70.157 2 8 179895 20220805133045
+173.252.127.116 0 1 309165 
+20.5.111.44 2 2 212624 20220815132113
+112.66.109.224 1 1 39490 20220808214955
+140.213.200.92 10 59 3277537 20220814135755
+5.39.4.40 4 4 143408 20220818171959
+36.68.8.157 2 30 1492011 20220807144048
+114.125.234.165 5 46 2863811 20220805174849
+198.235.24.5 1 1 39502 20220812110212
+52.140.52.40 10 10 583708 20220819140657
+110.136.181.92 2 48 5002889 20220821104047
+125.167.56.117 31 84 6097489 20220820211940
+114.124.241.39 8 57 3257063 20220814134258
+139.228.41.21 2 50 3111462 20220812172619
+36.68.217.202 2 49 3111207 20220805204140
+36.72.214.83 2 22 614094 20220807140742
+180.241.186.67 2 50 3111462 20220811092504
+5.188.62.140 2 2 78980 20220809022822
+114.5.219.118 4 60 3339120 20220811200704
+205.210.31.159 1 1 39502 20220811030607
+167.235.18.101 1 1 39490 20220810131729
+140.213.0.1 3 43 1611900 20220807100542
+36.71.140.93 5 59 4277080 20220801160220
+95.216.32.186 1 1 39490 20220806161444
+103.44.37.150 4 74 5018898 20220805190959
+180.253.74.195 12 68 3363753 20220810235944
+110.137.38.226 6 52 5898856 20220821022438
+119.51.143.22 1 1 40441 20220804085211
+140.213.128.74 2 50 3111465 20220812174255
+125.167.56.146 5 5 13567 20220811152808
+36.85.35.8 2 49 3111209 20220805192647
+94.176.235.106 2 2 78992 20220807212344
+223.166.22.11 1 1 39490 20220808170632
+114.79.0.204 2 50 3249961 20220814130108
+114.125.59.155 10 64 3342134 20220801014730
+180.214.233.18 2 50 3111465 20220805140717
+114.5.250.137 3 31 183497 20220801181356
+114.125.219.46 1 1 39490 20220812174632
+125.162.54.83 2 34 4564002 20220821045337
+140.213.66.219 2 33 2761557 20220819144930
+114.10.23.33 2 2 350 20220801203224
+182.3.39.247 7 61 4209034 20220806134402
+114.10.68.219 12 62 1090974 20220806225916
+175.17.149.179 1 1 39490 20220808174305
+36.71.143.4 3 56 3290961 20220806150614
+116.206.40.2 2 50 3014777 20220807213424
+36.72.214.205 1 9 128819 20220808222451
+120.188.92.175 2 43 3060774 20220805131104
+36.68.223.142 1 38 2607045 20220814181235
+81.71.118.139 1 1 39490 20220808145455
+114.10.31.227 6 130 10461892 20220809090207
+66.220.149.8 0 8 181211 
+112.66.110.194 1 1 40411 20220804085141
+114.10.65.220 3 18 1310297 20220816122344
+198.235.24.2 1 1 39502 20220809122349
+180.252.114.93 2 50 3997741 20220813161840
+182.1.115.68 1 29 3833 20220808184334
+103.44.39.25 2 40 4925189 20220821085816
+118.195.232.181 3 68 3715773 20220801131614
+54.175.74.27 1 1 66122 20220820221222
+20.14.84.11 2 2 78980 20220811224913
+180.243.12.175 16 69 3314338 20220806191750
+203.78.118.106 1 38 2607045 20220815105437
+182.4.68.42 1 1 3815 20220802192525
+103.160.15.26 3 59 3339081 20220811111209
+180.254.167.37 13 114 6845163 20220804071802
+34.220.249.15 2 2 212624 20220816013031
+125.167.49.219 2 50 3111456 20220803094012
+140.213.167.65 19 70 4108884 20220803193829
+102.143.226.229 6 60 3296711 20220805223802
+103.139.10.199 3 14 1450523 20220819105826
+140.213.126.177 1 1 3816 20220801143313
+36.72.213.106 2 2 79 20220807140925
+120.188.95.148 1 24 3815 20220801152841
+36.81.188.202 2 48 3109873 20220808155901
+20.163.54.107 2 2 78980 20220810203740
+125.162.217.108 3 52 2708167 20220814231718
+115.178.192.170 1 20 708448 20220813165144
+124.117.192.69 1 1 39490 20220805091614
+120.188.94.121 4 59 3303147 20220815093801
+114.79.3.108 1 13 2462272 20220812134135
+114.79.22.97 7 115 6582462 20220802204756
+36.72.215.120 1 35 2370992 20220814181909
+36.72.213.108 2 37 1083036 20220807152537
+59.153.83.135 2 50 3111457 20220803142508
+36.76.166.163 4 58 4210452 20220802061712
+125.164.20.35 1 16 1570218 20220820092815
+114.10.64.229 4 53 4206903 20220814122455
+42.83.147.34 3 3 185292 20220815094602
+103.147.9.3 3 3 11499 20220806050045
+111.175.6.67 1 1 39490 20220804191624
+182.0.177.201 3 56 3291085 20220805135811
+182.4.69.202 1 24 2525753 20220807212241
+112.215.151.150 1 11 1257210 20220818112649
+182.2.69.71 3 57 3291143 20220805194206
+119.164.97.24 1 1 39502 20220805062446
+180.254.175.20 3 19 1619324 20220819223836
+180.244.163.217 13 69 3820596 20220807222508
+202.93.153.248 5 90 6204299 20220811164042
+193.37.32.141 1 1 38546 20220801162344
+66.96.225.64 6 62 3796233 20220807141535
+36.85.111.129 2 49 3997485 20220805201738
+173.252.127.3 0 2 1310182 
+162.55.176.172 1 1 38576 20220802150541
+182.1.150.78 12 66 3296563 20220802042342
+103.144.169.205 1 19 378231 20220808081848
+115.178.244.138 12 69 3820004 20220810142556
+41.187.114.4 2 29 710466 20220811023105
+51.89.230.56 2 2 79022 20220807072654
+54.191.87.162 1 1 106312 20220814073759
+140.213.0.8 1 16 1570229 20220819124100
+110.137.51.26 5 59 3291426 20220805165800
+114.5.102.170 2 46 3105836 20220806133916
+180.252.169.139 3 51 4107770 20220816171052
+81.161.229.59 1 1 39490 20220805041325
+66.220.149.19 0 1 290028 
+20.25.160.145 2 2 212624 20220814222413
+63.35.179.112 1 1 6291 20220818094722
+182.2.38.37 1 4 874964 20220807135738
+112.215.242.69 1 20 708453 20220807122813
+114.10.17.147 0 8 0 
+103.124.138.26 4 60 3344162 20220811143821
+125.166.118.225 2 50 3997738 20220803150623
+116.206.36.17 2 49 3996541 20220801221653
+180.136.133.33 1 1 39520 20220808174310
+36.78.201.109 1 7 179677 20220805144200
+103.105.33.89 18 72 3322156 20220805140239
+182.1.109.26 4 57 3194918 20220806094849
+185.27.99.137 1 1 38576 20220801021924
+114.79.55.103 2 22 2287944 20220805115820
+114.5.215.79 3 3 0 20220802193548
+114.125.94.160 0 5 2280276 
+114.142.169.43 5 37 1962937 20220820105404
+112.215.219.129 1 38 2880234 20220811111321
+180.253.228.152 2 50 3997741 20220807091743
+114.124.130.50 7 63 3849477 20220807155311
+114.10.71.6 4 12 23581 20220819093335
+205.210.31.140 1 1 106312 20220815060926
+182.1.173.107 2 49 3111210 20220806052523
+182.2.71.206 12 12 11093 20220809174543
+182.1.205.217 6 35 1941612 20220819055826
+36.78.203.7 2 50 3111464 20220805142631
+36.65.141.193 3 60 4728889 20220810062405
+36.106.167.113 1 1 39490 20220808174147
+5.161.59.56 1 1 39520 20220807045019
+114.5.245.61 23 80 3834200 20220808202757
+185.27.99.138 1 1 38576 20220801021925
+36.72.215.145 1 38 978025 20220814181227
+139.155.30.159 4 4 158080 20220804191620
+180.254.173.36 2 12 1670761 20220820190022
+182.1.80.30 2 49 3111206 20220808081754
+182.1.66.195 14 63 3305679 20220815221411
+223.255.228.101 1 28 146963 20220807223223
+114.79.56.187 1 1 35 20220805165046
+114.125.237.99 9 65 3811657 20220807184406
+110.50.81.203 1 8 263115 20220815221327
+180.244.128.135 21 124 5768552 20220805224228
+175.158.38.73 4 42 2679694 20220819235817
+36.72.214.138 2 49 3997485 20220808210007
+182.2.38.1 0 3 272855 
+20.84.83.10 2 2 79040 20220807081006
+103.146.196.52 2 49 3111209 20220811150508
+125.166.117.200 4 51 2936994 20220805191619
+84.2.39.115 2 2 80882 20220804165532
+36.72.212.64 1 12 1338499 20220819071743
+183.81.184.46 2 50 3111458 20220803054115
+182.4.39.187 3 51 3115295 20220812074033
+66.249.82.167 2 15 331748 20220810000821
+180.254.75.106 7 35 1943061 20220810170136
+192.71.36.158 1 1 39490 20220809121457
+103.105.30.123 9 157 11238884 20220805181136
+114.125.4.224 1 1 3832 20220805183054
+36.85.217.214 3 59 3338877 20220810232106
+140.213.5.16 1 43 2651559 20220814083632
+173.245.211.157 2 3 1306046 20220816195607
+36.75.112.94 6 61 2457814 20220801082721
+103.175.25.5 2 50 3249960 20220814073455
+180.251.149.155 2 50 2799414 20220807140731
+20.28.192.128 2 2 78980 20220807122736
+180.214.232.1 17 99 5804623 20220803220638
+180.244.134.72 15 49 2840801 20220820145511
+140.213.160.250 1 11 1257212 20220818013653
+185.27.99.123 2 2 69200 20220817164435
+125.160.201.249 6 85 6568089 20220809115311
+114.10.30.53 2 33 2904633 20220813122547
+114.122.39.107 8 64 3349466 20220811172940
+140.213.230.86 4 37 4829619 20220821024350
+182.2.71.37 1 35 1297425 20220805102311
+182.2.38.138 2 50 3111446 20220801153705
+180.253.160.4 1 16 1570230 20220819151206
+36.85.36.59 8 109 6402671 20220807135853
+205.210.31.3 1 1 106344 20220816053036
+182.2.36.58 0 1 1293593 
+110.137.194.71 2 39 2614663 20220815164921
+180.214.232.26 11 66 4326137 20220806142143
+66.220.149.13 0 1 256 
+182.4.68.38 1 1 5212 20220802192337
+103.160.12.45 5 21 355363 20220819184637
+114.5.147.149 10 122 7604201 20220811203641
+103.163.231.211 4 60 4261606 20220811233241
+175.152.108.84 1 1 40411 20220804020841
+185.181.60.12 1 1 39490 20220805015408
+45.121.219.4 2 29 727526 20220811234407
+182.2.39.12 2 28 1633800 20220818202509
+52.231.139.195 0 6 2434581 
+198.235.24.28 1 1 39502 20220812052448
+112.215.170.74 4 29 2161289 20220804001534
+125.164.20.206 1 48 3920325 20220808203315
+124.90.48.151 1 1 40411 20220803215210
+125.167.50.136 1 1 3833 20220809113625
+117.15.88.44 1 1 39490 20220808192349
+114.125.244.49 1 4 51035 20220819092716
+114.125.236.200 2 50 3111462 20220805180559
+159.223.80.207 2 2 78980 20220812214339
+180.254.168.166 18 82 4527188 20220802231136
+14.204.44.192 1 1 39490 20220808214907
+192.71.12.140 1 1 39520 20220809121452
+182.2.75.233 5 61 4757442 20220807173808
+36.72.212.29 3 3 248 20220807140931
+20.121.196.47 4 4 425828 20220817105411
+140.213.59.129 3 57 3291343 20220805153244
+182.3.105.23 9 63 3296839 20220807130112
+140.213.58.180 15 71 3365325 20220813183218
+182.2.68.177 5 59 3291426 20220805221046
+114.122.39.207 4 17 315932 20220819195248
+95.217.207.56 3 3 118560 20220810013113
+35.90.169.61 1 1 49096 20220820072436
+182.1.176.139 0 40 1293593 
+182.2.69.211 12 30 1476278 20220806163634
+182.2.39.205 2 49 3997485 20220807135656
+45.121.219.5 2 27 672270 20220801170901
+180.254.160.192 2 50 3996797 20220801135132
+182.253.131.69 1 38 3388291 20220817055706
+182.3.40.30 2 50 3111464 20220805183953
+182.2.70.136 0 8 0 
+182.1.135.253 6 33 2471654 20220818094046
+125.164.20.16 2 50 3997741 20220807235252
+182.4.69.117 1 1 165548 20220803004059
+114.10.65.117 5 5 5681 20220809220951
+107.150.101.64 1 1 34560 20220817170918
+140.213.33.213 4 60 3795716 20220807140906
+110.53.240.65 1 1 34560 20220817170932
+116.206.40.33 2 50 3111465 20220808065208
+140.213.33.73 2 34 4459535 20220821112844
+198.235.24.146 1 1 39502 20220812042354
+103.156.219.203 4 19 1563759 20220819185049
+173.252.83.15 0 1 188879 
+110.52.194.188 1 1 39520 20220808170718
+45.121.219.7 4 54 1341184 20220807063034
+66.220.149.14 1 9 99594 20220813104455
+140.224.64.217 3 3 121263 20220804020904
+182.2.70.188 0 3 2003211 
+114.122.75.113 2 11 697434 20220808145023
+125.165.144.218 7 61 3300088 20220801171524
+182.4.68.206 1 5 592702 20220807212316
+103.175.51.145 16 65 3157692 20220816142937
+66.220.149.10 0 3 57953 
+103.209.254.131 1 5 7613 20220816211634
+103.105.33.66 6 6 23456 20220805171218
+120.188.39.24 5 59 3330668 20220803090727
+36.106.166.40 1 1 39490 20220809130339
+118.96.167.229 3 36 4788674 20220821094248
+36.78.53.88 3 54 3169947 20220809200401
+180.254.77.26 25 83 10185767 20220821135835
+5.161.127.189 1 1 38576 20220801103244
+202.67.38.24 0 7 0 
+123.145.6.49 1 1 39490 20220809090349
+20.117.225.19 4 4 295520 20220813225800
+20.25.178.115 4 4 295505 20220819032249
+103.156.141.239 6 118 7147247 20220811232003
+125.166.1.33 3 50 3115037 20220806151550
+52.231.139.192 0 2 771480 
+182.1.76.98 2 50 3111463 20220806134013
+202.67.38.18 0 29 451340 
+36.73.34.10 2 45 3325012 20220803191113
+103.47.135.172 7 66 7474804 20220821174454
+103.108.33.97 1 38 2347252 20220814200645
+114.5.208.106 2 49 3997485 20220807184840
+140.213.231.147 2 49 3111207 20220810222218
+120.188.33.250 4 6 24708 20220817083757
+36.71.137.153 3 58 3298304 20220806202012
+125.164.95.48 6 110 6922219 20220810140753
+182.4.71.101 1 22 2475911 20220803102937
+180.252.174.50 3 56 3290926 20220806002106
+140.213.33.157 5 62 4809961 20220808122805
+140.213.183.244 0 17 1293593 
+139.99.130.220 2 2 213204 20220817141807
+114.125.166.136 2 50 3111464 20220812115655
+182.1.150.90 16 72 3431942 20220812001612
+14.204.44.25 1 1 39520 20220808192421
+223.255.229.18 2 50 3997741 20220805194352
+125.167.59.141 15 186 2738829 20220816205243
+182.2.68.95 3 57 3291343 20220805223648
+114.122.106.152 1 17 1136245 20220818181755
+114.122.107.248 2 13 1243887 20220818181803
+103.147.9.222 2 44 3014139 20220811022117
+120.188.39.197 3 34 412140 20220809151001
+114.124.130.22 1 11 1284813 20220818115951
+125.164.16.12 2 50 3111465 20220811132433
+112.80.137.58 1 1 39490 20220808192334
+18.205.2.52 1 1 7612 20220814210928
+180.254.70.27 5 36 1918630 20220820170037
+61.94.153.147 1 9 227613 20220812070147
+182.1.150.50 2 22 1961255 20220808082519
+103.139.10.171 4 35 5269847 20220821134850
+36.72.81.75 4 58 3291185 20220805221054
+169.197.103.202 1 1 49096 20220819082219
+36.72.214.106 3 35 763656 20220807152947
+112.78.132.76 6 61 3491396 20220819204225
+114.122.37.86 1 11 1257209 20220817234826
+52.34.66.136 1 1 38546 20220802072642
+140.213.167.194 3 3 122 20220812002410
+180.244.165.37 2 18 103093 20220809143821
+114.4.4.132 2 49 3111190 20220802031707
+182.1.121.226 17 19 1329330 20220807113007
+95.111.200.230 23 23 368 20220806142605
+114.10.5.146 1 23 1208330 20220821125426
+180.242.215.142 2 50 3997741 20220805204720
+114.125.23.90 4 57 3296378 20220805175642
+113.197.108.36 2 30 1182914 20220810095729
+140.213.35.22 9 41 1315645 20220802214138
+36.72.213.13 1 13 1519153 20220819061034
+162.243.4.24 1 1 39490 20220806031934
+180.244.160.105 3 57 3285594 20220805145509
+182.2.75.199 1 1 40433 20220807202205
+192.71.3.26 1 1 39520 20220809121455
+182.3.70.59 2 31 1954775 20220819133310
+110.138.89.131 4 58 3295015 20220807072433
+180.246.199.81 2 50 3111464 20220805164848
+103.106.216.136 18 128 4250799 20220819060416
+180.254.193.56 2 50 3111462 20220805140025
+110.87.132.165 1 1 39502 20220805073518
+36.85.220.108 7 46 2715605 20220819231249
+182.1.48.201 2 3 372611 20220807162908
+37.228.119.241 3 3 252114 20220814075512
+36.85.221.186 2 50 3348389 20220814153550
+182.253.151.65 9 117 6596715 20220806010916
+36.72.214.216 5 17 664270 20220814182013
+150.255.183.128 1 1 39490 20220808170637
+182.4.69.116 8 76 5638180 20220802194828
+113.210.101.203 2 50 3111465 20220807140451
+36.84.130.91 3 57 4207864 20220805211744
+49.12.126.16 2 4 198821 20220818004011
+114.4.4.134 4 47 1144330 20220808010208
+180.247.36.33 7 67 4300596 20220819093039
+180.214.232.89 4 61 3323403 20220814203213
+140.213.42.214 1 2 5193 20220803195900
+74.119.193.231 2 49 3111208 20220806065650
+180.241.47.143 5 61 3345483 20220812183734
+114.142.168.9 2 50 3111464 20220805131439
+101.35.239.216 3 3 115638 20220802184547
+180.241.47.204 1 7 2402580 20220807052403
+110.137.103.80 1 37 2231999 20220816130042
+114.124.147.66 3 56 3291087 20220805165511
+140.213.147.15 12 107 6416912 20220805192220
+114.124.205.59 5 49 4625945 20220821040744
+103.139.10.221 4 6 2602515 20220811222428
+103.3.220.31 23 68 5613418 20220820201334
+205.210.31.35 1 1 39502 20220808013648
+124.133.210.116 1 1 39490 20220808225614
+36.71.136.123 2 50 3111462 20220805133131
+205.210.31.21 1 1 447 20220806003448
+103.138.49.90 3 48 4816795 20220821033733
+182.2.70.140 22 130 6612319 20220805164905
+199.244.88.218 1 1 49096 20220819063417
+66.249.82.165 1 16 567632 20220810000818
+180.245.46.98 0 28 0 
+103.144.170.179 5 51 4974262 20220821012018
+36.68.39.184 2 49 3111209 20220806203631
+116.206.29.8 6 60 3338636 20220805135729
+173.252.87.119 0 1 11697 
+103.141.47.225 0 4 0 
+77.111.246.20 3 5 39667 20220820180033
+120.188.64.104 8 22 1169666 20220820152344
+176.223.132.156 2 2 214730 20220813233316
+36.71.83.250 2 49 3111207 20220805220956
+182.2.70.130 2 50 3111461 20220809174413
+182.3.105.22 2 50 3111465 20220811192414
+103.213.129.109 3 48 4816793 20220821022434
+114.5.220.254 8 62 3291345 20220807123229
+36.88.39.208 4 60 3414063 20220812183834
+222.94.140.37 1 1 39490 20220808225553
+110.136.4.39 21 54 1762452 20220820094439
+182.1.107.245 3 37 967831 20220815195528
+119.163.43.246 1 1 39490 20220804191614
+182.4.69.54 0 1 256 
+182.1.125.200 3 66 3425882 20220805190735
+68.235.33.122 1 34 2532117 20220807151748
+180.247.133.11 5 46 2019889 20220819061733
+36.73.33.142 0 4 0 
+120.188.39.146 10 13 19704 20220803150349
+223.166.22.235 1 1 39490 20220805091701
+180.243.4.222 1 1 3835 20220805202647
+114.10.71.129 3 48 4758302 20220821184153 20220821184122 /game/harga
+110.137.100.134 22 79 4093102 20220803211111
+140.213.232.13 2 44 1981641 20220807135901
+34.219.142.42 1 1 106312 20220816071911
+182.1.148.244 6 61 3351837 20220812112526
+182.4.68.94 1 21 1849104 20220807212324
+36.65.226.149 7 68 3365284 20220806082454
+120.188.34.140 0 4 188879 
+114.122.39.7 1 21 912142 20220814164118
+45.201.136.202 3 60 3808411 20220810052926
+112.215.238.16 1 16 1570229 20220819205709
+110.137.192.108 2 50 3111465 20220809115844
+110.50.81.196 2 20 475354 20220811230717
+222.94.140.87 1 1 39490 20220808225531
+62.254.36.133 1 20 910960 20220814153738
+114.4.212.206 4 13 20609 20220820215648
+140.213.57.172 8 57 3252599 20220817133226
+114.124.131.110 2 49 3111207 20220812053208
+36.72.95.32 2 50 3111464 20220806132251
+182.3.68.152 2 50 3111464 20220805191213
+103.147.9.227 8 107 7565396 20220805235515
+101.255.156.162 2 49 3997485 20220808230210
+123.163.114.207 3 3 121263 20220804052028
+103.84.6.79 4 58 3326838 20220806111649
+139.195.125.181 2 50 3111466 20220808091201
+205.210.31.133 1 1 39502 20220811021649
+198.235.24.13 1 1 39502 20220813034836
+182.1.21.22 2 50 3111465 20220805171600
+202.67.38.14 6 62 3348869 20220812181520
+114.122.13.108 1 11 1967069 20220818023137
+125.166.3.167 1 5 1970207 20220812102108
+20.14.97.71 2 2 78980 20220810011954
+139.0.51.194 5 100 6262162 20220805221911
+182.2.170.233 3 60 3808853 20220808214013
+114.79.57.35 5 59 4230538 20220805165052
+205.210.31.151 1 1 39502 20220812135830
+220.173.210.70 1 1 39502 20220811130705
+185.27.99.126 1 1 38546 20220801021927
+140.238.59.28 1 1 38546 20220801144832
+180.244.160.149 2 50 3111462 20220806054251
+140.213.170.213 2 50 3111463 20220805180618
+44.202.114.196 1 1 106602 20220817085828
+114.122.45.243 2 50 3111465 20220810064820
+125.160.239.236 3 3 78412 20220806184320
+114.10.17.153 7 63 3815089 20220807155426
+120.188.7.131 1 20 4415864 20220821041659
+198.235.24.142 1 1 39502 20220811102548
+182.242.161.77 2 2 77122 20220801134902
+36.73.34.30 13 19 207288 20220805190820
+103.150.88.160 6 60 4285674 20220806085035
+182.253.127.139 1 1 3831 20220806113425
+114.125.164.67 2 50 3111464 20220812160020
+223.166.22.174 1 1 39490 20220808145502
+172.58.85.122 1 8 263115 20220815221413
+103.105.35.125 2 51 4248888 20220803215321
+140.213.169.102 4 60 3339121 20220812002401
+115.178.228.90 3 33 1926013 20220819082655
+182.253.238.34 5 53 3111586 20220812101600
+185.27.99.130 1 1 34640 20220817164431
+185.181.60.39 1 1 106312 20220815083043
+103.164.212.105 5 38 1955305 20220819213923
+110.137.102.75 6 34 2489986 20220807205726
+180.245.12.234 7 102 8240852 20220815235844
+114.10.67.251 24 76 3286564 20220819230007
+182.2.136.11 2 50 3111464 20220810212434
+103.133.27.118 1 1 9386 20220821190706 20220821190706 /game/free-fire
+195.74.80.147 1 1 39520 20220811032057
+114.79.55.205 1 1 7612 20220816035155
+124.220.171.34 1 1 39490 20220809085625
+180.243.3.51 23 158 13817350 20220812021527
+89.47.161.237 2 2 80834 20220804150217
+36.68.52.11 2 50 3996797 20220801164813
+180.243.0.123 1 1 0 20220811152844
+46.161.11.238 3 3 252114 20220815202018
+114.79.2.152 2 49 3111208 20220812072957
+120.188.64.77 2 17 1661459 20220819114732
+125.160.233.170 2 49 3111208 20220810192941
+36.65.110.46 4 60 4261606 20220811181027
+114.4.217.100 3 60 3808420 20220808163109
+36.72.74.132 2 50 3996797 20220801234519
+202.67.38.19 0 1 0 
+202.67.38.17 3 60 4732251 20220810081140
+182.1.32.144 3 46 3716223 20220806182510
+114.79.16.219 1 33 2773849 20220805191550
+180.243.4.167 5 59 3330872 20220805184103
+112.215.154.232 0 7 0 
+103.105.35.65 0 3 786783 
+182.2.73.33 2 40 9000 20220801174106
+140.213.183.25 3 34 1918385 20220819210318
+140.213.59.223 7 46 1956425 20220819060837
+124.117.199.69 1 1 39490 20220809004023
+114.125.251.91 2 2 0 20220820105448
+223.166.22.199 1 1 39490 20220804204431
+114.5.214.69 1 1 0 20220814203713
+175.152.32.96 1 1 38546 20220801131342
+182.1.48.93 1 48 2768806 20220807162818
+114.10.26.4 5 21 1176769 20220818172038
+120.188.66.75 3 51 3186611 20220805221259
+182.4.68.210 3 3 340732 20220807212312
+14.204.44.245 1 1 39490 20220808145501
+112.215.235.90 0 8 0 
+103.47.135.148 8 54 4132932 20220820165557
+140.213.11.110 3 27 480450 20220811234359
+182.4.68.237 0 2 599193 
+111.85.200.101 1 1 39490 20220808170609
+36.84.42.105 5 61 3344306 20220810205519
+180.251.219.4 6 108 6402573 20220801082848
+114.10.64.230 4 78 6827504 20220802140641
+202.58.196.197 5 54 3259167 20220814133541
+114.122.74.114 1 46 2678888 20220815185605
+140.213.69.173 12 66 3307603 20220805222724
+36.71.82.28 2 14 1287978 20220818195139
+140.213.2.119 17 30 43565 20220820154649
+199.244.88.224 32 32 1211926 20220812174358
+198.235.24.128 1 1 106312 20220816060934
+110.177.180.237 1 1 39490 20220808214914
+112.215.171.158 1 5 204853 20220819125005
+125.164.22.160 4 58 3291180 20220805180923
+52.11.209.113 1 1 38546 20220802072642
+140.213.33.217 1 23 2490682 20220809193854
+182.4.69.166 1 1 176 20220802192420
+182.0.201.254 2 49 3111208 20220805162658
+180.254.59.109 12 124 6690921 20220812080608
+125.166.1.21 6 62 3345688 20220812053851
+144.255.17.82 1 1 40411 20220804085159
+163.116.136.254 2 49 3111210 20220806042010
+39.82.214.128 1 1 39490 20220808145511
+180.254.163.192 5 15 134188 20220803211058
+198.235.24.20 1 1 39490 20220809195648
+114.122.8.217 2 49 3111208 20220805142111
+36.65.194.183 8 49 615765 20220802051236
+140.213.7.235 17 50 2641962 20220818103607
+198.235.24.24 1 1 39502 20220811045225
+139.195.245.55 8 62 3291341 20220806113527
+103.147.9.115 5 59 3291292 20220801014642
+66.220.149.119 1 10 561583 20220813104503
+110.137.102.33 3 87 7983457 20220814233907
+202.58.200.254 5 61 3348175 20220812000557
+27.109.115.149 3 33 1914200 20220819115220
+140.213.71.197 4 76 4050094 20220811120225
+119.60.105.223 1 1 38546 20220801131354
+114.10.66.121 2 19 4421064 20220821111716
+115.178.241.172 3 51 3115285 20220803085700
+140.213.45.78 6 60 3296328 20220806001957
+114.125.42.90 2 21 4421140 20220821072802
+180.247.207.227 29 49 1666407 20220817225056
+68.183.191.14 2 2 212624 20220814225231
+103.135.226.22 6 129 10058710 20220807175619
+180.254.174.42 2 49 3111208 20220806141507
+36.85.221.198 11 68 3818862 20220809143034
+199.249.230.156 1 1 106312 20220815170719
+114.122.36.224 4 10 186570 20220806120519
+103.167.167.220 6 62 3339172 20220811200603
+119.2.41.30 1 9 227415 20220812101548
+182.2.71.218 3 12 702680 20220809174523
+89.47.161.229 2 2 77104 20220801092731
+66.249.82.162 0 19 2215661 
+159.69.58.136 5 5 181886 20220818164351
+120.188.38.240 6 31 813399 20220820173647
+180.95.238.72 1 1 39520 20220808214959
+140.213.190.173 4 65 3259132 20220815061013
+182.4.69.170 1 1 39 20220802192353
+125.166.13.28 4 79 4236508 20220805201906
+114.79.20.87 2 44 3103085 20220808150452
+114.5.241.69 3 59 3338927 20220810213608
+35.88.84.16 1 1 49096 20220820072504
+36.90.86.207 2 50 3111461 20220806063556
+182.88.233.6 1 1 34640 20220817170954
+20.14.72.59 1 1 39520 20220810220943
+140.213.190.235 3 57 3291340 20220806142241
+202.67.39.19 1 27 2856636 20220808193701
+120.41.45.194 1 1 39502 20220811101403
+114.79.54.110 2 6 1308820 20220814205543
+103.166.90.22 7 109 6412397 20220812041934
+114.10.6.151 2 50 3111465 20220805164924
+94.176.239.43 2 2 213236 20220817025050
+118.96.13.223 1 1 40 20220814153618
+114.79.6.181 5 59 3296692 20220805143009
+36.68.55.141 16 97 6928566 20220809165359
+114.10.71.226 4 58 3295030 20220803090822
+103.139.10.18 7 44 4516123 20220816024600
+36.85.221.185 2 50 3249968 20220815194829
+182.2.39.135 18 74 3796288 20220807144713
+180.248.15.238 3 51 3114278 20220806090547
+180.214.232.28 1 1 0 20220814212004
+125.166.9.28 4 50 5013434 20220821093013
+182.2.70.154 1 1 40 20220809174443
+111.94.122.38 12 63 5280714 20220821044523
+36.71.142.7 3 29 1640634 20220818222653
+125.164.132.212 2 49 3111209 20220805193839
+182.3.38.251 1 1 7613 20220814130050
+36.85.223.27 3 57 4211199 20220805233345
+180.253.89.125 4 53 3034912 20220814160657
+180.241.179.45 7 61 3301216 20220805144123
+103.105.28.146 9 95 6668870 20220819130018
+36.71.54.248 25 81 1945090 20220801233422
+51.255.119.158 3 3 319176 20220816221851
+114.10.22.142 4 58 3291193 20220805195356
+182.1.109.33 5 47 1707843 20220807000830
+114.5.214.58 3 59 4258207 20220812104335
+180.252.104.197 20 98 6367250 20220811202855
+121.56.26.174 3 3 118500 20220805083104
+182.3.102.150 1 16 1570227 20220819103758
+36.69.69.242 9 54 4817037 20220821025441
+82.145.215.206 1 1 49098 20220820174734
+5.188.62.21 1 1 39490 20220805221133
+114.124.130.46 1 10 227871 20220812053228
+114.79.19.10 4 51 3260767 20220804235856
+116.206.40.65 2 51 3361707 20220804054704
+5.188.62.76 1 1 39490 20220813105950
+140.213.9.211 0 5 0 
+66.96.225.84 11 67 5924028 20220806113706
+36.85.34.86 3 57 3291343 20220806174422
+62.252.170.133 1 20 935619 20220814153756
+125.167.57.127 1 27 1301282 20220817102110
+182.0.138.102 2 50 3111465 20220811225231
+180.252.87.210 4 58 3291382 20220805212602
+182.3.36.254 2 35 4781504 20220821095503
+114.5.111.84 23 148 10630372 20220814071621
+61.147.15.67 4 4 157960 20220808193622
+110.137.101.192 25 79 3337504 20220805195753
+103.54.217.158 2 15 1307578 20220818024045
+114.125.68.101 0 4 0 
+20.222.68.226 2 2 77092 20220802041351
+60.17.121.251 1 1 39520 20220808192403
+202.67.46.224 3 57 4211199 20220805211714
+180.243.7.23 21 77 5764193 20220820071001
+120.188.38.181 14 70 4231930 20220810172340
+45.12.80.132 8 62 3296484 20220807122656
+203.153.20.51 3 51 4035343 20220801215624
+114.5.105.91 5 61 3813621 20220808215644
+182.1.48.81 1 7 636701 20220807162944
+110.137.100.50 12 106 7802266 20220819123408
+36.72.213.133 2 5 2085815 20220808075826
+198.235.24.137 1 1 39490 20220810140354
+36.72.215.51 2 50 3111465 20220806105703
+140.213.193.160 3 58 3516017 20220803224506
+103.168.254.58 4 58 3291183 20220805162446
+112.215.240.21 1 38 2607045 20220816061215
+114.125.183.50 5 42 19227 20220801170709
+112.215.237.249 4 60 3795717 20220807220039
+18.237.14.9 1 1 106312 20220816071911
+36.85.4.156 1 1 0 20220802115531
+114.10.68.13 3 57 4230467 20220806175448
+36.73.32.190 0 6 0 
+69.171.251.21 0 1 15269 
+125.167.56.150 3 59 3339517 20220811083800
+125.164.8.171 4 58 3329635 20220801055617
+114.10.18.93 3 59 3338900 20220812005635
+212.24.110.22 2 2 98224 20220820070426
+117.11.91.196 1 1 38546 20220801131334
+180.253.139.75 7 149 9333863 20220805101415
+114.5.108.60 3 59 3338895 20220811234329
+125.166.202.184 2 50 3111460 20220805141605
+173.252.127.23 0 2 55481 
+115.178.249.199 5 59 3331955 20220806142850
+223.255.228.90 4 58 3291364 20220805182323
+114.5.145.134 0 1 0 
+180.252.170.227 2 50 3111465 20220806034333
+110.137.41.87 2 50 3111467 20220806084111
+36.85.38.188 2 50 3111463 20220810213532
+114.122.41.139 2 50 3111465 20220806105858
+140.213.183.195 0 32 2648972 
+36.81.44.48 4 51 5011619 20220821150516
+114.122.71.145 5 53 3121716 20220805133216
+182.4.69.229 8 8 877512 20220803004205
+125.167.59.192 20 164 3125465 20220815214432
+216.131.81.52 1 19 1896603 20220801195730
+103.105.33.125 1 1 3835 20220805150938
+66.220.149.5 0 6 68143 
+20.214.230.234 2 2 213204 20220817113000
+36.73.32.232 2 18 7668 20220807050708
+116.206.40.116 11 62 5691296 20220821183914 20220821182353 /game/harga
+125.164.22.48 2 2 5794 20220805180937
+125.164.232.238 3 59 3338885 20220811111301
+114.122.38.139 0 3 0 
+198.235.24.147 1 1 38546 20220801133010
+41.46.143.61 22 96 5216670 20220811025430
+124.117.192.16 1 1 39490 20220808174256
+149.113.169.246 13 69 3355088 20220810215604
+120.188.35.83 14 68 3306017 20220805141310
+125.164.23.252 1 9 227615 20220811132441
+66.220.149.11 0 9 1793451 
+140.213.71.75 11 53 5516893 20220820202931
+36.74.51.118 0 7 0 
+36.72.213.94 1 13 384173 20220809175142
+182.1.110.255 1 16 2294619 20220819155056
+27.155.145.169 1 1 40423 20220803214333
+202.67.39.3 2 50 3111445 20220802200822
+114.5.215.44 2 2 78980 20220813083811
+114.125.59.39 6 7 1313686 20220801021300
+125.164.18.63 1 1 3834 20220811132528
+114.5.246.228 4 60 4261605 20220811021921
+103.105.33.100 1 1 3834 20220805193355
+182.4.68.62 2 38 3080488 20220802192323
+66.220.149.7 0 2 37804 
+173.252.127.8 0 1 16428 
+118.99.110.53 3 30 2449696 20220818073157
+220.173.211.163 1 1 38576 20220801131359
+222.94.140.214 1 1 39520 20220804191628
+27.47.27.155 1 1 40423 20220803200711
+52.231.139.193 0 1 188710 
+156.215.149.7 2 24 1491459 20220819125301
+140.213.11.39 5 59 3291561 20220807094459
+182.253.116.251 2 49 3111206 20220805202457
+103.234.210.153 16 153 9235435 20220806000253
+182.2.4.102 3 32 2561419 20220810100409
+27.109.115.132 4 60 3808196 20220810112546
+64.111.109.64 4 4 158080 20220809032208
+125.167.59.37 1 38 2607122 20220817102200
+110.50.81.197 1 22 837977 20220821024304
+5.161.144.243 3 3 155475 20220821073519
+140.213.171.59 1 16 1570230 20220820162111
+20.118.173.193 4 4 157914 20220803163230
+114.4.215.72 3 25 118470 20220807114418
+116.206.234.154 1 1 39490 20220805210220
+110.50.85.101 2 50 3111465 20220807191315
+140.213.9.62 2 49 3111209 20220812061035
+36.83.146.53 4 61 3251752 20220805174817
+114.142.168.29 6 61 3296629 20220801200450
+185.192.70.53 2 2 77092 20220801125101
+173.252.111.15 0 1 27520 
+172.58.61.52 1 20 910964 20220814153909
+202.67.37.231 9 66 4730463 20220808183104
+180.241.46.185 1 48 3920325 20220806173440
+114.125.20.167 6 63 4772772 20220809165116
+114.122.11.118 10 43 931899 20220805142513
+114.10.20.23 1 20 4415862 20220821073852
+36.65.38.151 8 36 2468226 20220817214816
+36.85.222.9 3 57 4207520 20220807085310
+120.188.6.116 1 28 771875 20220801103148
+180.246.31.185 3 36 1914202 20220819060357
+36.73.35.221 1 46 2678888 20220814073749
+114.125.235.177 5 50 5622846 20220821154349
+202.67.38.4 0 5 2096934 
+112.78.132.69 3 51 3115297 20220805190442
+180.241.45.83 2 41 2976234 20220811112419
+193.37.32.101 5 55 3462875 20220814153754
+95.142.120.71 2 2 78980 20220810072300
+162.213.252.92 2 2 79040 20220809032018
+116.206.42.76 3 59 3339078 20220812054735
+182.3.70.52 1 1 39490 20220807005232
+185.180.14.148 2 2 82551 20220821130438
+150.129.59.4 1 15 1529781 20220819062118
+120.188.64.177 6 38 3094552 20220819212953
+114.5.144.182 4 60 3379927 20220811193155
+114.4.4.199 1 23 1208328 20220821115852
+125.164.17.56 3 3 3509 20220811132514
+114.125.4.80 9 10 1353026 20220805201823
+123.253.235.116 16 70 3291658 20220805214937
+114.125.249.148 14 68 3325964 20220805133145
+27.227.187.93 1 1 39520 20220805091806
+114.5.210.255 2 50 3997741 20220806031935
+103.141.108.130 3 52 3251520 20220814153608
+114.124.180.64 2 50 3996797 20220802181831
+120.188.82.3 1 32 652437 20220814142256
+205.210.31.16 1 1 39490 20220808125705
+121.56.26.144 1 1 34560 20220817170901
+195.211.77.140 1 1 33894 20220818065901
+180.244.134.221 30 85 5898076 20220821143409
+36.82.132.148 4 100 7995482 20220811235501
+68.183.227.168 1 1 38546 20220801210608
+61.147.15.65 1 1 39490 20220804192519
+103.139.10.119 1 13 1878303 20220816215908
+66.220.149.1 0 1 21437 
+114.10.17.172 1 29 1293593 20220806080805
+192.241.233.164 1 1 39520 20220811024712
+111.224.248.143 1 1 39490 20220808214850
+110.50.81.201 2 48 3089769 20220806221351
+36.68.11.29 7 52 5730803 20220821011955
+5.161.105.86 1 1 39520 20220808031910
+20.121.69.12 2 2 78980 20220805135654
+51.254.199.11 3 3 111930 20220818025200
+114.124.245.46 5 56 5131768 20220821110732
+103.147.9.124 3 27 2598636 20220801200124
+114.125.79.160 0 39 4634220 
+202.67.40.253 6 55 3259344 20220816175516
+36.72.214.212 2 50 3997741 20220806090733
+140.213.69.49 4 30 2031344 20220812174747
+149.108.248.156 1 1 3835 20220812134817
+125.164.19.21 1 15 308441 20220820092828
+51.81.167.146 1 1 33894 20220818065754
+202.67.38.2 4 61 3330708 20220814234846
+116.206.40.19 5 62 3815037 20220808135004
+207.46.13.0 0 1 20337 
+182.4.68.253 2 44 3105580 20220806180649
+114.10.4.250 2 50 3111463 20220805142512
+182.4.68.178 3 3 3509 20220802192437
+114.5.108.207 4 60 3799312 20220807205049
+116.206.40.122 1 20 4415863 20220821092423
+202.67.38.3 0 28 1543819 
+140.213.0.156 3 33 1914202 20220819061759
+114.124.213.170 20 94 5503977 20220801170940
+52.231.139.194 0 1 207608 
+114.5.245.99 2 49 3111208 20220811225018
+114.124.238.192 9 62 3305424 20220805171534
+140.213.15.63 5 58 1921143 20220810214747
+182.1.105.55 5 61 3339164 20220812070049
+114.125.10.147 2 43 3006170 20220811154025
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20220801 316 1872 97824597 60
+20220802 653 1588 57620747 41
+20220803 343 1402 74026857 36
+20220804 367 872 29885297 36
+20220805 732 5954 344419328 141
+20220806 420 3139 179253515 70
+20220807 556 3598 193873223 82
+20220808 283 1754 101903593 69
+20220809 530 1669 81771236 41
+20220810 508 2201 102509925 45
+20220811 366 2601 146774483 65
+20220812 231 1882 107059880 48
+20220813 147 943 44516642 19
+20220814 445 2161 102757443 54
+20220815 86 772 42554379 26
+20220816 141 707 34281239 26
+20220817 732 1891 77802034 34
+20220818 283 729 32516896 31
+20220819 433 1913 101882839 65
+20220820 801 2137 98016815 36
+20220821 732 3273 282763745 56
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 151
+5mn-15mn 49
+30mn-1h 25
+1h+ 36
+15mn-30mn 32
+2mn-5mn 69
+0s-30s 712
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 245
+/ 1959 27010042 889 392
+/game/harga 1914 75302 11 168
+/game/mobile-legend-b 809 7478007 19 66
+/game/konfirmasi-data 605 98589 4 18
+/game/pembelian 485 26579 2 15
+/asset/fonts/fontawesome-webfont.woff2 430 32871780 21 164
+/layanan 371 1551424 1 3
+/game/genshin-impact 245 2281245 5 12
+/login 195 892750 11 17
+/pesanan 150 604300 1 9
+/dashboard 131 422744 0 5
+/game/free-fire 129 1691038 9 22
+/game/dana 105 1113629 5 5
+/game/mobile-legend-c 88 696852 4 4
+/cari 87 464002 2 5
+/member 86 310822 2 0
+/game/mobile-legend-starlight 82 820704 3 12
+/index.php 75 3113371 43 45
+/game/higgs-domino 55 529263 1 11
+/license 55 222075 1 2
+/register 55 373955 8 4
+/kategori 50 185153 0 1
+/game/life-after 43 387697 1 1
+/game/shoepay 42 468734 0 1
+/deposit 34 195022 1 3
+/pembelian/invoice/FcPEwA 1 6447 0 0
+/pembelian/invoice/t0Bs1W 1 3339 0 0
+/pembelian/invoice/HTqPwh 2 6896 0 0
+/pembelian/invoice/cXgua8 1 5928 0 0
+/game/valorant 18 204219 1 1
+/pembelian/invoice/NR6K4h 1 3338 0 0
+/pembelian/invoice/bZpmeS 3 19113 0 0
+/pembelian/invoice/XamCLe 2 6630 0 0
+/pembelian/invoice/sqUS1J 1 3297 0 0
+/pembelian/invoice/NAPRpk 2 6619 0 0
+/pembelian/invoice/JxEf8G 13 41890 0 0
+/game/league-of-legend 5 58999 1 0
+/pembelian/invoice/O7CXMO 1 3322 0 0
+/pembelian/invoice/BMN2vr 1 5863 0 0
+/pembelian/invoice/3EZXE7 1 6460 0 0
+/pembelian/invoice/ozQwOv 1 3272 0 0
+/pembelian/invoice/yLzihF 1 6171 0 0
+/pembelian/invoice/XC1nrd 3 17052 0 0
+/pembelian/invoice/FNasOD 1 3317 0 0
+/game/mobile-legend 3 28911 0 0
+/pembelian/invoice/0RpJun 1 3301 0 1
+/game/ovo 8 105960 2 3
+/pembelian/invoice/G0xPEt 4 20586 0 1
+/pembelian/invoice/hBMjoj 5 28055 0 0
+/game/netflix 23 196757 3 8
+/pembelian/invoice/0tnJ5n 1 5605 0 0
+/pembelian/invoice/NLYC5p 5 32162 0 0
+/gopay/Gojek-OTP/085888329430 1 63 0 0
+/game/genshin 4 21104 0 0
+/pembelian/invoice/s6QOsm 4 13230 0 0
+/smile-one 2 5500 0 1
+/pembelian/invoice/7mZS9t 1 5609 0 0
+/pembelian/invoice/SLrTYS 1 3321 0 0
+/pembelian/invoice/LSYeHK 9 59080 0 0
+/pembelian/invoice/SMTN6F 2 11370 0 0
+/pembelian/invoice/3T6m4i 2 6787 0 0
+/check-voucher 4 237 0 0
+/pembelian/invoice/SVcyVn 2 6566 0 0
+/riwayat-pembelian/kVIUy3/detail 3 689 0 0
+/voucher 4 13788 0 0
+/pembelian/invoice/IL9WJz 1 6432 0 0
+/pembelian/invoice/3vWyRC 1 6451 0 0
+/callback 23 368 8 8
+/pembelian/invoice/Dkxc2U 13 76248 1 1
+/pembelian/invoice/blWhTK 1 3268 0 1
+/cpanel 12 150304 9 2
+/pembelian/invoice/flpR1C 12 75123 0 0
+/member/12/detail 17 6037 0 0
+/pembelian/invoice/ESH5TR 1 5683 0 0
+/pembelian/invoice/Hwl1sH 2 6636 0 0
+/pembelian/invoice/xh1h71 1 3276 0 0
+/pembelian/invoice/iMKE0e 1 0 0 0
+/pembelian/invoice/PsNsBd 8 27055 0 0
+/pembelian/invoice/NFRM54 2 12767 0 0
+/gopay/Gojek-OTP/08974431829 1 65 0 1
+/game/yt-prem 24 191655 2 3
+/pembelian/invoice/lUaRUT 1 3317 0 0
+/pembelian/invoice/vG7nYJ 1 6195 0 1
+/game/pubg-mobile 18 252241 0 6
+/pembelian/invoice/hyqP6j 1 6459 0 0
+/pembelian/invoice/v5J0Hh 3 9936 0 0
+/pembelian/invoice/Z3GS6A 1 6427 0 0
+/riwayat-pembelian/iH3RJp/detail 1 256 0 0
+/pembelian/invoice/No0sda 4 13505 0 1
+/pembelian/invoice/TJFPNn 1 3318 0 1
+/pembelian/invoice/S1z7uE 11 36509 0 0
+/pembelian/invoice/iH3RJp 5 16684 0 0
+/index.php/dashboard 1 3246 0 0
+/pembelian/invoice/oflqED 2 6438 0 0
+/pembelian/invoice/NXsAUf 1 3319 0 0
+/game/axis 6 97653 0 1
+/user-deposit 7 23432 0 0
+/pembelian/invoice/93ih7e 1 15281 0 0
+/game/dragon-raja 1 5141 0 0
+/pembelian/invoice/JroetY 3 10602 0 0
+/pembelian/invoice/OnpBCX 1 6155 0 0
+/pembelian/invoice/37eYXk 2 6562 0 0
+/pembelian/invoice/azPomC 1 5612 0 0
+/pembelian/invoice/p72mcO 3 10032 0 0
+/pembelian/invoice/O03bco 2 6608 0 0
+/pembelian/invoice/ilTbPr 7 45101 0 0
+/game/point-blank 5 62662 0 1
+/pembelian/invoice/FDuOeb 1 6191 0 0
+/pembelian/invoice/l4ffMG 1 3318 0 1
+/riwayat-pembelian/5NrzMc/detail 2 504 0 0
+/pembelian/invoice/jY35Kc 1 5961 0 0
+/pembelian/invoice/yuTR7T 1 3287 0 0
+/pembelian/invoice/PeJSxV 2 6677 0 1
+/pembelian/invoice/1hZAdn 1 3142 0 0
+/pembelian/invoice/3UTfdq 3 17638 0 0
+/game/codm 24 296059 1 0
+/pembelian/invoice/oCJpSR 2 12668 1 1
+/pembelian/invoice/K8bQGw 1 3317 0 0
+/berita 23 79369 0 0
+/pembelian/invoice/NyaQSC 2 6624 0 0
+/riwayat-pembelian 27 138116 0 0
+/pembelian/invoice/bmpMRF 2 12584 0 1
+/pembelian/invoice/DLKLaP 1 5878 0 0
+/pembelian/invoice/9Je195 1 3173 0 1
+/game/brizzi 3 51838 0 0
+/pembelian/invoice/hdLDEJ 1 5616 0 0
+/pembelian/invoice/WNpi5E 1 3314 0 0
+/pembelian/invoice/dUlftn 1 3267 0 0
+/pembelian/invoice/QLcSX3 1 3317 0 0
+/pembelian/invoice/zYuIgm 4 13356 0 0
+/pembelian/invoice/JRTL9R 1 3288 0 0
+/pembelian/invoice/VIpTDw 1 15552 0 1
+/riwayat-pembelian/oaMslv/detail 1 229 0 0
+/pembelian/invoice/oxFbQw 1 3364 0 0
+/gopay 12 47004 0 1
+/ovo/Get-OTP/6283188722832 1 62 0 0
+/pembelian/invoice/YsjS9a 1 3353 0 0
+/pembelian/invoice/A6c0ER 1 3294 0 1
+/pembelian/invoice/z6QnGn 1 6185 0 0
+/pembelian/invoice/bbnQG7 5 16628 0 0
+/game/spotify 9 113588 0 3
+/pembelian/invoice/mU32aA 5 16699 0 1
+/pembelian/invoice/hunnj8 1 5599 0 0
+/pembelian/invoice/ooe3mx 6 37123 0 0
+/pembelian/invoice/AmbmtK 14 111286 0 1
+/pembelian/invoice/i54wRN 4 24593 0 0
+/pembelian/invoice/OUyFMV 1 5595 0 0
+/pembelian/invoice/uISjUS 1 6402 0 0
+/pembelian/invoice/f3ONmS 1 3337 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 1 22660 0 0
+/assets/fonts/unicons7374.woff 1 215961 0 0
+/pembelian/invoice/Vkh28M 2 6298 0 0
+/pembelian/invoice/S50vok 2 11948 0 0
+/pembelian/invoice/CG9F2t 1 6159 0 0
+/game/xl 9 241089 0 1
+/pembelian/invoice/jFYnwY 2 12488 0 0
+/game/mobile-legend-skin 1 5136 1 0
+/pembelian/invoice/EVhNUm 1 3310 0 0
+/pembelian/invoice/kxfXXR 1 3303 0 0
+/pembelian/invoice/MCG0YX 2 11196 0 0
+/pembelian/invoice/5SgqvO 2 12858 0 0
+/pembelian/invoice/ws7gCD 1 3303 0 1
+/pembelian/invoice/n7O0VK 4 25825 0 0
+/pembelian/invoice/5bsjGK 3 14678 0 0
+/pembelian/invoice/nz7DfN 1 3149 0 1
+/game/indosat 6 64701 0 1
+/game/tri 10 117688 2 0
+/pembelian/invoice/aBR3dr 1 3281 0 0
+/pembelian/invoice/V0FkPA 2 11440 0 0
+/pembelian/invoice/XoLFme 2 12800 0 0
+/pembelian/invoice/czJ6zk 1 3474 0 0
+/game/byu 7 113790 1 2
+/pembelian/invoice/SaTVjd 1 6433 0 0
+/pembelian/invoice/cflx3c 2 11726 0 0
+/asset/fonts/fontawesome-webfont.ttf 13 1869980 3 8
+/pembelian/invoice/E4pklX 1 3316 0 1
+/pembelian/invoice/SRzvpz 1 3319 0 0
+/pembelian/invoice/fBASjT 1 5867 0 0
+/pembelian/invoice/aiI77B 1 6425 0 0
+/pembelian/invoice/HOZO3X 1 3319 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 1 22432 0 0
+/pembelian/invoice/3EgUrN 2 11183 0 0
+/pembelian/invoice/643Xqk 1 3288 0 0
+/pembelian/invoice/j4TvM9 1 3352 0 0
+/pembelian/invoice/ruylLF 6 19961 0 0
+/assets/fonts/unicons7374.woff2 21 2831964 0 0
+/pembelian/invoice/jFMbWv 11 36542 0 0
+/pembelian/invoice/lXxgzk 1 6185 0 0
+/pembelian/invoice/aIbyiG 3 9915 0 0
+/pembelian/invoice/qoyTT5 1 6451 0 0
+/game/disney-hotstar 9 79427 0 2
+/game/speed-drifters 5 65704 0 1
+/pembelian/invoice/oaMslv 5 16378 0 0
+/index.php/login 2 7693 0 0
+/pembelian/invoice/uAhTm7 1 3303 0 1
+/pembelian/invoice/JWQq0V 3 19095 0 0
+/pembelian/invoice/gxo9el 1 5623 0 0
+/pembelian/invoice/ztCPzV 1 3319 0 0
+/pembelian/invoice/9S4bCD 1 6185 0 0
+/pembelian/invoice/Q8kKMB 1 6166 0 0
+/pembelian/invoice/s4BL7f 2 6660 0 0
+/pembelian/invoice/A5TDSV 2 5866 0 0
+/pembelian/invoice/qK4eB4 4 13309 0 0
+/pembelian/invoice/FpnRrj 1 5703 0 0
+/pembelian/invoice/uedJVO 1 6447 0 0
+/_ignition/health-check 9 297 0 0
+/pembelian/invoice/pU4Zku 2 6708 0 0
+/pembelian/invoice/uheB9W 1 3302 0 0
+/pembelian/invoice/CQ6xUX 1 3295 0 1
+/pembelian/invoice/bYxyEv 1 5955 0 0
+/pembelian/invoice/nMG9PU 1 30110 0 1
+/pembelian/invoice/1wudQX 1 3317 0 1
+/pembelian/invoice/zxhy6x 2 12865 0 0
+/pembelian/invoice/ZGNxDv 1 3327 0 0
+/pembelian/invoice/dDhqAc 3 44187 0 0
+/asset/fonts/fontawesome-webfont.woff 14 1372366 0 2
+/pembelian/invoice/fMVhSL 1 3294 0 1
+/pembelian/invoice/Qs6tPS 1 3352 0 0
+/ovo 2 7315 1 1
+/pembelian/invoice/3IiuQw 2 11756 0 0
+/pembelian/invoice/7Xd8AK 3 10271 0 1
+/game/link-aja 14 142895 0 0
+/pembelian/invoice/NPM3Sp 1 0 0 0
+/pembelian/invoice/gVNSAF 1 3367 0 0
+/game/telkomsel 25 277271 0 4
+/pembelian/invoice/5KpIFM 2 6811 0 0
+/pembelian/invoice/EuYEml 2 6610 0 0
+/pembelian/invoice/dn5XH3 1 3269 0 1
+/pembelian/invoice/YIy1Vv 1 3265 0 0
+/pembelian/invoice/k7mzZC 3 18523 0 0
+/pembelian/invoice/X4jq0K 1 3343 0 0
+/pembelian/invoice/uQnkuz 1 5590 0 1
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/gopay/Gojek-validasi 1 755 0 0
+/pembelian/invoice/sVAciM 1 6187 0 0
+/pembelian/invoice/yQeOkM 3 11507 0 0
+/pembelian/invoice/1bCCzR 10 32807 0 0
+/pembelian/invoice/EoTjsQ 1 6305 0 0
+/pembelian/invoice/eA4vBz 2 6627 0 0
+/pembelian/invoice/4XJtoA 1 3296 0 1
+/pembelian/invoice/dYMpc8 1 3173 0 0
+/pembelian/invoice/aDwDVx 1 5583 0 0
+/pembelian/invoice/5NrzMc 1 3353 0 0
+/pembelian/invoice/FAS0rf 1 3352 0 0
+/pembelian/invoice/mrZYXa 2 12344 0 0
+END_SIDER

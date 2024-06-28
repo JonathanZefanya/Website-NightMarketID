@@ -1,0 +1,330 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202206 will be lost/reset.
+# Last config file used to build this data file was /home/bimk7489/tmp/awstats/ssl/awstats.bimsvoucher.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2689                
+POS_VISITOR 7548                
+POS_DAY 8792                
+POS_DOMAIN 3245                
+POS_LOGIN 3545                
+POS_ROBOT 3700                
+POS_WORMS 3970                
+POS_EMAILSENDER 4101                
+POS_EMAILRECEIVER 4244                
+POS_SESSION 8990                
+POS_SIDER 9158                
+POS_FILETYPES 4379                
+POS_DOWNLOADS 4477                
+POS_OS 4525                
+POS_BROWSER 4738                
+POS_SCREENSIZE 5202                
+POS_UNKNOWNREFERER 5276                
+POS_UNKNOWNREFERERBROWSER 5707                
+POS_ORIGIN 6133                
+POS_SEREFERRALS 6267                
+POS_PAGEREFS 6411                
+POS_SEARCHWORDS 6602                
+POS_KEYWORDS 6754                
+POS_MISC 2353                
+POS_ERRORS 6813                
+POS_CLUSTER 3401                
+POS_SIDER_404 6931                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220701021022 3 350 3188209626932
+FirstTime 20220623171909
+LastTime 20220630152800
+LastUpdate 20220701180348 3 0 2 0 0
+TotalVisits 32                  
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 8 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 233
+1 4 4 485 2 3 708
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 1 1 237
+5 13 13 1716 14 14 3272
+6 0 0 0 1 1 233
+7 2 2 264 3 6 1110
+8 0 0 0 0 0 0
+9 6 6 792 3 6 1398
+10 0 0 0 0 0 0
+11 2 2 264 4 5 1165
+12 0 0 0 0 0 0
+13 3 3 396 2 3 699
+14 5 5 660 4 5 1165
+15 1 1 2566 83 87 768
+16 0 0 0 9 9 246
+17 10 10 72541 21 22 0
+18 0 0 0 1 1 233
+19 1 1 2566 0 2 25
+20 0 0 0 3 3 466
+21 0 0 0 0 0 0
+22 1 1 132 6 7 936
+23 5 5 18048 1 3 466
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 20 20 13760
+ru 11 11 36196
+cn 8 8 1056
+id 7 7 39835
+gb 5 5 617
+de 1 1 8834
+ca 1 1 132
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+no_user_agent 3 0 20220630152629 0
+Googlebot\-Image/ 1 89 20220626070614 0
+Googlebot/ 1 89 20220626070612 0
+unknown 1 25 20220630191458 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 14 95325 0 0
+cgi 39 5105 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+winlong 1 1
+androidjellybean 2 2
+macosx9 1 1
+macosx11 1 1
+linux 5 5
+macosx15 1 1
+ios_ipad 2 2
+Unknown 15 15
+win10 19 19
+win7 4 4
+androidnougat 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+msie8.0 1 1
+firefox83.0 1 1
+chrome83.0.4103.97 2 2
+chrome101.0.4950.0 1 1
+chrome63.0.3239.132 1 1
+Unknown 15 15
+chrome47.0.2526.106 1 1
+chrome102.0.0.0 7 7
+chrome58.0.3029.97 1 1
+chrome60.0.3112.107 2 2
+chrome33.0.1750.29 1 1
+chrome91.0.4472.101 1 1
+msie10.0 1 1
+chrome97.0.4692.71 1 1
+chrome94.0.4606.61 9 9
+android 2 2
+firefox59.0 1 1
+chrome96.0.4664.93 1 1
+chrome35.0.1916.47 1 1
+firefox84.0 1 1
+safari9.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+colly_-_https://github.com/gocolly/colly/v2 20220624055838
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220628225110
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220628225110
+colly_-_https://github.com/gocolly/colly/v2 20220624055838
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 30 30
+From1 3 3
+From2 0 0
+From3 6 6
+From4 14 14
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://asmara.iixcp.rumahweb.com:2083 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 79 76
+302 50 10978
+301 1 239
+404 31 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/admin/dashboard.php 1 -
+/panel.php 1 -
+/public 5 -
+/adminnnnz/index.php 1 -
+/pulsa 1 https://bimsvoucher.xyz/
+/panel/index.php 1 -
+/access/ 1 -
+/admin/login 1 -
+/admin/index.php 1 -
+//ws 7 -
+/admin/auth.php 1 -
+/admin/login.php 1 -
+/pulsa/ws 1 -
+/admin/ 2 -
+/HijaIyh_App/admin/login.php 1 -
+/public/ws 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+52.13.99.226 14 14 10534 20220624055838
+180.254.72.253 6 6 37269 20220623173331
+110.177.180.121 3 3 396 20220624143948
+85.237.194.5 2 2 264 20220627145542
+20.210.233.63 2 2 264 20220628015834
+61.147.15.67 1 1 132 20220624115209
+89.175.184.250 1 1 8818 20220623171949
+176.53.222.209 1 1 132 20220624091042
+54.187.115.216 1 1 132 20220627073740
+163.172.128.165 1 1 89 20220626011147
+3.249.166.49 1 1 2566 20220623193628
+89.104.111.69 1 1 132 20220626091104
+176.53.217.81 1 1 132 20220624233114
+125.166.204.52 1 1 2566 20220630152800
+51.158.109.29 1 1 132 20220626012642
+51.15.244.189 1 1 132 20220625232434
+144.255.31.21 1 1 132 20220624131221
+45.90.62.157 1 1 132 20220624233113
+176.53.218.143 1 1 132 20220625091042
+222.94.140.145 1 1 132 20220624114723
+137.226.113.44 1 1 8834 20220623235537
+176.53.222.67 1 1 132 20220624091043
+195.211.77.140 1 1 8818 20220623171930
+58.48.159.148 1 1 132 20220624131225
+35.88.210.243 1 1 132 20220627073704
+79.104.53.14 1 1 8818 20220623173520
+205.210.31.22 1 1 132 20220628225110
+89.104.111.225 1 1 132 20220625091043
+182.138.158.136 1 1 132 20220624131228
+176.53.217.145 1 1 132 20220626091103
+89.104.101.137 1 1 8818 20220623233408
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20220623 13 13 92759 8
+20220624 25 25 3300 11
+20220625 3 3 396 3
+20220626 4 4 485 4
+20220627 4 4 528 3
+20220628 3 3 396 2
+20220630 1 1 2566 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 30
+30s-2mn 1
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/cgi-sys/suspendedpage.cgi 39 5105 23 23
+/ 14 95325 9 9
+END_SIDER

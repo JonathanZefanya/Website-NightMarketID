@@ -1,0 +1,1016 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202208 will be lost/reset.
+# Last config file used to build this data file was /home/ymsn5113/tmp/awstats/ssl/awstats.ymstore.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2696                
+POS_VISITOR 21311               
+POS_DAY 32449               
+POS_DOMAIN 3655                
+POS_LOGIN 4078                
+POS_ROBOT 4233                
+POS_WORMS 4838                
+POS_EMAILSENDER 4969                
+POS_EMAILRECEIVER 5112                
+POS_SESSION 32769               
+POS_SIDER 32980               
+POS_FILETYPES 5247                
+POS_DOWNLOADS 5554                
+POS_OS 5621                
+POS_BROWSER 6007                
+POS_SCREENSIZE 7730                
+POS_UNKNOWNREFERER 7804                
+POS_UNKNOWNREFERERBROWSER 8085                
+POS_ORIGIN 8321                
+POS_SEREFERRALS 8465                
+POS_PAGEREFS 8640                
+POS_SEARCHWORDS 9103                
+POS_KEYWORDS 9255                
+POS_MISC 2358                
+POS_ERRORS 9314                
+POS_CLUSTER 3934                
+POS_SIDER_404 9507                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220829185406 479 134323 5828566419138
+FirstTime 20220821220324
+LastTime 20220829171939
+LastUpdate 20220829192022 479 0 479 0 0
+TotalVisits 301                 
+TotalUnique 266                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 281                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 154 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 54 231 23515448 174 242 4757093
+1 27 222 28329381 104 218 1540237
+2 45 425 47286568 200 255 2939977
+3 7 23 3853390 79 90 1324069
+4 9 9 392263 57 66 1084361
+5 72 491 67856690 239 295 1529494
+6 26 104 7530860 110 130 1299124
+7 23 69 4994332 69 88 1015479
+8 118 206 11710592 173 261 1882357
+9 27 172 17336207 143 172 1759799
+10 47 167 15126942 83 103 1267250
+11 60 281 29416739 216 271 3666795
+12 65 583 55044359 249 302 1936631
+13 39 164 7173353 138 162 1367802
+14 25 156 14974325 128 158 1738840
+15 117 566 54620229 534 617 3576203
+16 176 725 42568519 593 742 2483004
+17 258 1051 93805592 1102 1270 3720772
+18 154 645 58606044 704 879 10877375
+19 328 758 46255460 940 1099 5476659
+20 161 419 62309744 747 890 8766446
+21 143 432 27006241 681 774 6789142
+22 297 1191 118300753 1273 1476 6752718
+23 238 870 66936957 930 1105 14751176
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+id 2281 8617 734551083
+us 110 491 72227506
+in 49 420 48645040
+cn 27 218 30009648
+ru 23 23 1445016
+ph 10 71 8660403
+de 4 4 268560
+kh 4 74 8606588
+gb 2 2 134280
+za 2 2 134280
+nl 2 2 134280
+br 2 2 134280
+au 0 34 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Go\-http\-client/ 383 22828692 20220829183747 0
+AhrefsBot/ 143 16251910 20220825205227 7
+facebookexternalhit/ 58 8793577 20220827162058 1
+Lightspeed 49 4740697 20220823204224 0
+Googlebot/ 47 1453203 20220829151755 7
+bingbot/ 36 951 20220829164338 35
+no_user_agent 27 563775 20220829081527 0
+Googlebot\-Image/ 17 1418774 20220827030501 0
+YandexBot/ 8 834628 20220825032143 3
+unknown 3 76 20220826112349 3
+CFNetwork 2 86248 20220825234026 0
+fetcher 1 67140 20220824004257 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 600 22623322 0 0
+jpg 1727 341002722 0 0
+cgi 166 15118 0 0
+jpeg 35 682836 0 0
+png 3600 448491364 0 0
+php 1 132 0 0
+woff2 3 471999 0 0
+js 527 66065880 0 0
+html 500 11510530 0 0
+Unknown 1834 10783517 0 0
+webp 955 3301960 0 0
+xml 12 1584 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 24
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+androidoreo 581 33
+androidlollipop 46 6
+win10 1778 722
+androidjellybean 2 2
+macosx13 1 1
+android 4873 1368
+macosx11 1 1
+macosx8 1 1
+macosx14 178 9
+androidmarshmallow 1 1
+Unknown 6 6
+androidnougat 112 8
+macosx15 24 1
+androidpie 404 68
+macosx 1 1
+linux 214 47
+win7 142 57
+ios_ipad 2 2
+android10 1296 159
+ios_iphone 297 23
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 74
+safari16.0 26 3
+chrome96.0.4664.45 67 8
+android 2 2
+chrome89.0.4389.116 783 219
+safari14.0.3 3 3
+chrome101.0.4951.67 1 1
+chrome93.0.4577.82 50 3
+chrome97.0.4692.99 178 9
+mozilla 1 1
+chrome83.0.4102.0 1 1
+safari15.6 36 2
+chrome78.0.3904.108 10 10
+firefox103.0 1 1
+chrome101.0.0.0 88 12
+chrome80.0.3987.149 12 12
+chrome96.0.4664.104 30 2
+chrome80.0.3987.116 1 1
+chrome102.0.5005.98 142 9
+chrome53.0.2785.143 1 1
+chrome87.0.4280.141 65 18
+chrome61.0.3163.128 46 2
+chrome70.0.3538.80 51 5
+chrome88.0.4240.193 2 2
+chrome79.0.3945.116 7 1
+chrome68.0.3440.106 2 2
+chrome92.0.4515.131 22 2
+chrome74.0.3729.169 2 2
+chrome83.0.4103.101 68 11
+edge17 1 1
+firefox33.0 2 2
+chrome70.0.3538.110 48 2
+chrome95.0.4638.69 14 14
+safari15.6.1 76 4
+chrome104.0.0.0 4737 1461
+chrome56.0.2924.76 9 9
+chrome96.0.4664.110 24 1
+chrome92.0.4515.115 50 3
+chrome100.0.4896.75 24 1
+chrome103.0.5060.129 152 18
+chrome99.0.4844.58 69 7
+chrome66.0.3359.181 10 10
+chrome94.0.4606.85 215 32
+iphone 153 8
+chrome83.0.4103.97 8 8
+chrome91.0.4472.88 129 19
+chrome91.0.4472.106 2 2
+chrome101.0.4951.40 2 2
+firefox57.0 1 1
+chrome26.0.1410.65 1 1
+chrome98.0.4758.87 44 8
+chrome71.0.3578.99 65 7
+chrome55.0.2883.87 1 1
+chrome103.0.0.0 995 304
+msie11.0 3 3
+chrome67.0.3396.87 2 2
+chrome101.0.4951.61 23 1
+safari14.0.1 24 1
+safari9.0 4 4
+chrome103.0.5060.71 171 25
+chrome83.0.4086.0 2 2
+safari13.0.3 1 1
+chrome104.0.5112.97 358 24
+chrome104.0.5112.102 149 78
+chrome104.0.5112.69 231 15
+chrome91.0.4472.114 1 1
+chrome90.0.4430.212 1 1
+chrome57.0.2987.108 24 1
+chrome80.0.3987.99 40 2
+chrome83.0.4093.3 1 1
+chrome89.0.4389.105 96 10
+chrome66.0.3359.170 34 34
+chrome98.0.4758.101 116 4
+Unknown 5 5
+chrome102.0.0.0 144 30
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_Firefox/33.0 20220825074506
+WhatsApp/2.22.9.78_A 20220823223442
+WhatsApp/2.22.16.75_A 20220822221022
+YoCyberWhatsapp/2.22.10.73_A 20220823001833
+WhatsApp/2.22.17.76_A 20220825183536
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WhatsApp/2.22.16.75_A 20220822221022
+WhatsApp/2.22.9.78_A 20220823223442
+YoCyberWhatsapp/2.22.10.73_A 20220823001833
+WhatsApp/2.22.17.76_A 20220825183536
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 285 287
+From1 2 2
+From2 23 23
+From3 56 94
+From4 2150 9554
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 21 21
+baidu 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://m.facebook.com 24 24
+https://lm.facebook.com 12 12
+https://l.wl.co 6 6
+https://l.instagram.com 4 4
+https://l.facebook.com 4 4
+https://l.instagram.com 2 2
+https://api.ipaymu.com 2 2
+https://m.facebook.com 1 1
+https://asmara.iixcp.rumahweb.com:2083 1 1
+https://invlix.my.id 0 19
+https://grezzstore.my.id 0 19
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+301 9 2141
+302 248 50001
+422 45 3993
+401 4 104
+404 10262 23150848
+503 5 0
+419 37 31228
+500 48 5239647
+206 17 2844939
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 244
+/game/codm/ws 2 -
+//2019/wp-includes/wlwmanifest.xml 16 -
+//2020/wp-includes/wlwmanifest.xml 6 -
+//wp-includes/ID3/license.txt 4 -
+/upload/canva_pro.png 2 https://grezzstore.my.id/
+/order/id/pubg-mobile 1 -
+/upload/category_master_20220405140506.png 2 https://grezzstore.my.id/
+/pembelian/invoice/DNaO3t/ws 1 -
+/upload/netflix_premium.png 2 https://grezzstore.my.id/
+/office/assets/css/app-style.css 1 https://invlix.my.id/
+/blog 1 http://ymstore.xyz/blog
+/upload/marvel_super_war.png 3 -
+/public/storage/34ca458d8fb1762b811e1cb17e5dd3d7.png 1 -
+/WORDPRESS 1 http://ymstore.xyz/WORDPRESS
+/site 1 http://ymstore.xyz/site
+/dashboard/ws 12 -
+/pembelian/invoice/zs8KWL/ws 1 -
+/upload/disney_hotstar.png 2 https://grezzstore.my.id/
+/upload/category_Master_20220624184301.png 2 https://grezzstore.my.id/
+/game/honkai-impact-3/ws 14 -
+/office/assets/js/popper.min.js 1 https://invlix.my.id/
+/old 1 http://ymstore.xyz/old
+/upload/youtube_premium.png 2 https://grezzstore.my.id/
+/Wordpress 1 http://ymstore.xyz/Wordpress
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff 923 https://ymstore.xyz/assetss/scss/app.css
+/upload/garena_shell_promo.png 3 https://grezzstore.my.id/
+//office/assets/plugins/vectormap/jquery-jvectormap-2.0.2.css 1 https://alstore.ink/
+/upload/logo_Master_20222406162125.jpg 2 https://grezzstore.my.id/
+/upload/category_Master_20220624185129.jpg 2 https://grezzstore.my.id/
+/WWW 1 http://ymstore.xyz/WWW
+/upload/slide_Master_20220624153127.jpg 2 https://grezzstore.my.id/
+/game/vidiopremier 1 -
+/TEST 1 http://ymstore.xyz/TEST
+//office/assets/js/bootstrap.min.js 1 https://alstore.ink/
+/upload/category_Master_20220624185349.jpg 2 https://grezzstore.my.id/
+//xmlrpc.php 17 -
+/WordPress 1 http://ymstore.xyz/WordPress
+/oldsite 1 http://ymstore.xyz/oldsite
+/assets/images/games/1656981885_940f1c3ed9997fd03d74.jpg 1 -
+/order/id/point-blank 1 -
+/pembelian/invoice/5C5zl9/ws 1 -
+/listharga 1 -
+/game/omegalegends 1 -
+/order/id/garena 1 -
+//office/assets/css/skins.css 1 https://alstore.ink/
+/upload/category_Master_20220624183413.jpg 2 https://grezzstore.my.id/
+/apple-touch-icon-120x120-precomposed.png 1 -
+/pembelian/invoice/29HiZ8/ws 8 -
+/game/valorant 1 https://ymstore.xyz/
+//website/wp-includes/wlwmanifest.xml 13 -
+/office/assets/css/animate.css 1 https://invlix.my.id/
+//office/assets/js/popper.min.js 1 https://alstore.ink/
+/upload/vidio_premier.png 2 https://grezzstore.my.id/
+/Wp 1 http://ymstore.xyz/Wp
+/assetss/admin//assetss/plugins/bootstrap/js/bootstrap.min.js 1216 https://ymstore.xyz/
+/order/id/wifi-id 1 -
+//office/assets/css/animate.css 1 https://alstore.ink/
+/kategori/ws 2 -
+/upload/logo_Master_20221806162803.png 1 https://invlix.my.id/
+/apple-touch-icon-precomposed.png 2 -
+/Backup 1 http://ymstore.xyz/Backup
+/bac 1 http://ymstore.xyz/bac
+/game/link-aja/ws 3 -
+/apple-touch-icon.png 2 -
+//site/wp-includes/wlwmanifest.xml 17 -
+/SITE 1 http://ymstore.xyz/SITE
+/assets/css/A.horizontal-menu.css.pagespeed.cf.nkZeSKIVTw.css 3 https://grezzstore.my.id/
+//office/assets/plugins/simplebar/css/simplebar.css 1 https://alstore.ink/
+/New 1 http://ymstore.xyz/New
+/assets/plugins/bootstrap-datatable/css/A.buttons.bootstrap4.min.css.pagespeed.cf.Eh-Wgrss_v.css 3 https://grezzstore.my.id/
+/upload/dragon_raja.png 2 https://grezzstore.my.id/
+/game/mobile-legend-b/ws 5 -
+/pesanan/ws 154 -
+/upload/zepeto.png 2 https://grezzstore.my.id/
+/old-site 1 http://ymstore.xyz/old-site
+/assets/images/1656654790_317f6e6b106f91ac4f61.png 1 -
+/pembelian/invoice/aYJWBS/ws 1 -
+/layanan/ws 25 -
+/upload/pb_zepetto.png 2 https://grezzstore.my.id/
+/main 1 http://ymstore.xyz/main
+//office/assets/plugins/vectormap/jquery-jvectormap-2.0.2.min.js 1 https://alstore.ink/
+/www 1 http://ymstore.xyz/www
+/assets/plugins/summernote/dist/A.summernote-bs4.css.pagespeed.cf.Ec1os0Y2oX.css 2 https://grezzstore.my.id/
+//2021/wp-includes/wlwmanifest.xml 5 -
+/upload/wetv_premium.png 2 https://grezzstore.my.id/
+//wp2/wp-includes/wlwmanifest.xml 13 -
+/bc 1 http://ymstore.xyz/bc
+/Shop 1 http://ymstore.xyz/Shop
+/NEW 1 http://ymstore.xyz/NEW
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff 914 https://ymstore.xyz/assetss/scss/app.css
+//wordpress/wp-includes/wlwmanifest.xml 17 -
+/upload/free_fire.png 2 https://grezzstore.my.id/
+/sitio 1 http://ymstore.xyz/sitio
+/upload/logo_Master_20222306214408.jpg 1 -
+/pembelian/invoice/FSZ7h4/ws 2 -
+//wp1/wp-includes/wlwmanifest.xml 17 -
+//upload/avatar5.png 1 https://alstore.ink/
+/office/assets/js/sidebar-menu.js 1 https://invlix.my.id/
+/office/assets/js/bootstrap.min.js 1 https://invlix.my.id/
+//office/assets/js/jquery.min.js 1 https://alstore.ink/
+/riwayat-pembelian/ws 1 -
+/order/id/valorant 1 -
+//office/assets/css/app-style.css 1 https://alstore.ink/
+/voucher/ws 6 -
+//office/assets/plugins/jquery.easy-pie-chart/jquery.easypiechart.min.js 1 https://alstore.ink/
+/upload/category_Master_20220624184912.jpg 2 https://grezzstore.my.id/
+/pembelian/invoice/G3ZBY7/ws 2 -
+/upload/mobile_legends_slow.png 2 https://grezzstore.my.id/
+/upload/category_Master_20220624190502.jpg 2 https://grezzstore.my.id/
+/upload/honkaiimpact3.jpg 2 https://grezzstore.my.id/
+/pembelian/invoice/AR8Fk1/ws 1 -
+//office/assets/plugins/sparkline-charts/jquery.sparkline.min.js 1 https://alstore.ink/
+/assets/plugins/simplebar/css/A.simplebar.css.pagespeed.cf.MDT2pla63p.css 3 https://grezzstore.my.id/
+/upload/mobile_legends_membership.png 2 https://grezzstore.my.id/
+/upload/genshin_impact.png 2 https://grezzstore.my.id/
+/pembelian/invoice/u6pFQU/ws 1 -
+/order/id/pln 1 -
+/demo 1 http://ymstore.xyz/demo
+/upload/iqiyi_premium.png 2 https://grezzstore.my.id/
+/upload/league_of_legends.png 2 https://grezzstore.my.id/
+/order/id/call-of-duty-mobile 1 -
+/upload/ragnarok_m_eternal_love.jpg 2 https://grezzstore.my.id/
+//office/assets/plugins/vectormap/jquery-jvectormap-world-mill-en.js 1 https://alstore.ink/
+/game/dragon-raja/ws 1 -
+/wordpress 1 http://ymstore.xyz/wordpress
+/upload/pubgm-b-icon.jpg 2 https://grezzstore.my.id/
+//wp/wp-includes/wlwmanifest.xml 17 -
+/SHOP 1 http://ymstore.xyz/SHOP
+/Blog 1 http://ymstore.xyz/Blog
+/upload/lifeafter.png 3 https://grezzstore.my.id/
+/wp 1 http://ymstore.xyz/wp
+/game/mobile-legend-b 9 https://www.ymstore.xyz/
+/BLOG 1 http://ymstore.xyz/BLOG
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg 1 https://ymstore.xyz/
+/new 1 http://ymstore.xyz/new
+/gopay/ws 3 -
+/BACKUP 1 http://ymstore.xyz/BACKUP
+/daftar-harga/ws 9 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2 833 https://ymstore.xyz/assetss/scss/app.css
+/games 1 -
+/upload/category_Master_20220624183819.jpg 2 https://grezzstore.my.id/
+/check-voucher 19 https://ymstore.xyz/game/mobile-legend-b
+/shop 1 http://ymstore.xyz/shop
+//2018/wp-includes/wlwmanifest.xml 11 -
+//ws 73 -
+/apple-touch-icon-120x120.png 1 -
+/order/id/spotify 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2 925 https://ymstore.xyz/assetss/scss/app.css
+/game/chimeraland/ 2 -
+/upload/category_Master_20220624190233.jpg 2 https://grezzstore.my.id/
+/game/fonts/comic.ttf 5 https://ymstore.xyz/game/mobile-legend-c
+//media/wp-includes/wlwmanifest.xml 11 -
+//office/assets/css/sidebar-menu.css 1 https://alstore.ink/
+/assets/css/A.animate.css.pagespeed.cf.Oy4K0CEM9-.css 3 https://grezzstore.my.id/
+/2019 1 http://ymstore.xyz/2019
+/upload/category_sursid_20220527014344.jpg 1 -
+//blog/wp-includes/wlwmanifest.xml 17 -
+/order/id/google-play-indonesia 1 -
+/Test 1 http://ymstore.xyz/Test
+/member/ws 4 -
+/upload/category_Master_20220624184853.jpg 2 https://grezzstore.my.id/
+//shop/wp-includes/wlwmanifest.xml 17 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff 836 https://ymstore.xyz/assetss/scss/app.css
+/office/assets/js/jquery.min.js 1 https://invlix.my.id/
+/assetss/admin/assetss/plugins/bootstrap/js/bootstrap.min.js 1 https://ymstore.xyz/
+/upload/category_sursid_20220527011916.jpg 1 -
+/bak 1 http://ymstore.xyz/bak
+//office/assets/plugins/simplebar/js/simplebar.js 1 https://alstore.ink/
+/upload/super_sus.png 2 https://grezzstore.my.id/
+/webhooks 27 -
+/pembelian/invoice/ftz2nW/ws 2 -
+//office/assets/plugins/jquery-knob/excanvas.js 1 https://alstore.ink/
+/game/shoepay/ws 2 -
+/OLD 1 http://ymstore.xyz/OLD
+//office/assets/css/bootstrap.min.css 1 https://alstore.ink/
+/2018 1 http://ymstore.xyz/2018
+/upload/pubgm_new_state.png 2 https://grezzstore.my.id/
+/game/genshin-impact/ws 6 -
+/WP 1 http://ymstore.xyz/WP
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf 920 https://ymstore.xyz/assetss/scss/app.css
+/wp-old 1 http://ymstore.xyz/wp-old
+/assets/css/A.app-style.css.pagespeed.cf.ChkLxSt-Bp.css 3 https://grezzstore.my.id/
+/test 1 http://ymstore.xyz/test
+/upload/steam-icon-2.jpg 2 https://grezzstore.my.id/
+/upload/voucher_pb_zepetto.png 2 https://grezzstore.my.id/
+/1jlbdmb 10 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2 935 https://ymstore.xyz/assetss/scss/app.css
+/upload/spotify_premium.png 2 https://grezzstore.my.id/
+/sitemap.xml.gz 2 -
+/Www 1 http://ymstore.xyz/Www
+/game/life-after/ws 8 -
+/sito 1 http://ymstore.xyz/sito
+/assets/css/A.style-main.css.pagespeed.cf.6kN3cU5Y4D.css 3 https://grezzstore.my.id/
+/sitemap.txt 3 -
+/upload/sausage_man.png 2 https://grezzstore.my.id/
+/Old 1 http://ymstore.xyz/Old
+/game/garenashellmurah 1 -
+/game/mobile-legend-c/ws 5 -
+//office/assets/plugins/Chart.js/Chart.min.js 1 https://alstore.ink/
+//test/wp-includes/wlwmanifest.xml 17 -
+/order/id/higgs-domino 1 -
+/cari/ws 6 -
+/ads.txt 1 -
+/upload/free-fire-new%20(1).jpg 2 https://grezzstore.my.id/
+//office/assets/plugins/jquery-knob/jquery.knob.js 1 https://alstore.ink/
+//wp-includes/wlwmanifest.xml 12 -
+/upload/slide_Master_20220623220950.jpg 2 https://grezzstore.my.id/
+/2021 1 http://ymstore.xyz/2021
+//news/wp-includes/wlwmanifest.xml 13 -
+/game/dana/ws 7 -
+/upload/one-punch-man%20(1).jpg 2 https://grezzstore.my.id/
+/upload/category_sursid_20220527014954.jpeg 1 -
+/backup 1 http://ymstore.xyz/backup
+/bk 1 http://ymstore.xyz/bk
+//cms/wp-includes/wlwmanifest.xml 17 -
+//office/assets/js/app-script.js 1 https://alstore.ink/
+//web/wp-includes/wlwmanifest.xml 17 -
+/request 2 -
+/order/id/free-fire 1 -
+/assets/images/games/1656996100_b3ae0990384a8ee8818f.jpg 1 -
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg 1 https://ymstore.xyz/
+//sito/wp-includes/wlwmanifest.xml 13 -
+/register/ws 5 -
+/game/valorant/ws 2 -
+/Site 1 http://ymstore.xyz/Site
+/upload/omega_legends.png 2 https://grezzstore.my.id/
+/upload/lords_mobile.png 2 https://grezzstore.my.id/
+/pembelian/invoice/MFVGOY/ws 1 -
+/upload/category_sursid_20220527013234.jpeg 1 -
+/office/assets/css/icons.css 1 https://invlix.my.id/
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf 814 https://ymstore.xyz/assetss/scss/app.css
+/assets/plugins/bootstrap-datatable/css/A.dataTables.bootstrap4.min.css.pagespeed.cf.b0XqS7GhNp.css 3 https://grezzstore.my.id/
+/list 42 -
+/assets/css/A.icons.css.pagespeed.cf.AwDcHPg_xs.css 3 https://grezzstore.my.id/
+/2020 1 http://ymstore.xyz/2020
+/office/assets/css/bootstrap.min.css 1 https://invlix.my.id/
+//office/assets/css/icons.css 1 https://alstore.ink/
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf 903 https://ymstore.xyz/assetss/scss/app.css
+/upload/light_of_thel.png 2 https://grezzstore.my.id/
+/office/assets/js/app-script.js 1 https://invlix.my.id/
+/upload/apex_legends_mobile.jpg 2 https://grezzstore.my.id/
+/login/ws 22 -
+/berita/ws 2 -
+//office/assets/js/sidebar-menu.js 1 https://alstore.ink/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 281
+180.254.67.169 1079 2446 112144317 20220828222652
+120.188.4.135 102 255 15969582 20220823181507
+125.166.203.20 86 195 11370451 20220822001157
+182.2.70.118 64 64 5696 20220824084738
+140.213.13.84 41 100 5857827 20220823231128
+36.85.220.195 36 121 15484104 20220828172332
+182.2.73.60 34 62 11442299 20220826204323
+114.10.71.168 32 56 430499 20220822173140
+182.2.71.117 25 88 8870433 20220825170846
+114.79.3.252 25 81 5564255 20220823143945
+180.251.145.14 22 134 14017381 20220825231339
+114.5.243.244 19 76 5354274 20220823223720
+125.167.58.152 19 47 4610692 20220824081404
+103.105.55.144 18 44 539383 20220823235513
+182.1.126.248 18 65 6099694 20220824181103
+114.4.213.34 18 96 10745556 20220825213843
+23.231.13.245 17 17 1127063 20220825002703
+182.2.74.34 16 58 4047765 20220827123556
+114.5.211.103 16 129 14846589 20220827111756
+125.162.218.137 16 61 5075504 20220824173424
+36.79.127.131 16 95 12618546 20220826100942
+185.122.170.13 15 15 1032845 20220824231549
+125.166.117.110 15 38 4890087 20220825011837
+110.137.100.227 14 60 4741148 20220823232937
+114.10.30.20 14 69 5610866 20220828223253
+149.113.50.169 2 47 4906607 20220823084132
+182.2.74.10 2 3 263349 20220823161256
+182.2.74.58 4 51 4669230 20220824020216
+54.191.2.175 1 1 67140 20220828154256
+180.252.119.15 5 41 5996768 20220822084425
+182.2.74.37 1 1 89 20220824134422
+182.2.41.43 4 33 19674 20220823063910
+54.201.137.83 1 23 4104450 20220829171939
+182.2.75.58 1 1 9636 20220827175436
+36.72.214.244 1 1 89 20220824043440
+182.2.36.253 1 1 40 20220828110117
+114.5.212.228 2 42 5331960 20220825121113
+103.144.170.184 1 24 4357623 20220823232658
+65.21.206.44 1 1 67140 20220826080653
+112.215.171.52 8 65 5341079 20220826165920
+45.55.112.20 1 1 67176 20220827110140
+182.2.75.219 4 36 3802226 20220823140417
+54.185.179.161 1 1 67140 20220827151443
+114.10.24.115 3 3 267 20220824150541
+182.2.73.172 2 5 10199 20220823201731
+182.2.73.160 2 8 1678671 20220823201507
+34.215.127.62 1 1 132 20220824151847
+115.178.192.30 3 48 4481463 20220825190223
+59.173.180.157 2 2 128858 20220823055300
+125.167.59.237 4 51 4459051 20220825120654
+182.1.186.184 2 2 178 20220824044254
+54.187.88.102 1 1 67140 20220828153956
+114.10.6.88 4 116 16941525 20220824181937
+36.80.131.89 2 2 178 20220824082839
+114.4.212.103 9 88 13024691 20220827021400
+8.41.221.54 1 1 67140 20220825074506
+120.188.38.105 0 12 0 
+116.206.31.60 4 50 4470201 20220825192206
+110.138.95.86 1 17 7388 20220826140957
+36.75.67.53 2 25 4362987 20220824000708
+34.219.90.15 1 1 0 20220827051408
+101.68.126.154 1 1 67140 20220825020241
+36.71.142.219 12 71 4782231 20220825195520
+182.2.38.96 4 4 260 20220822233904
+182.2.42.184 7 14 462620 20220823080503
+125.160.237.214 10 10 1062 20220824082513
+180.244.130.128 2 2 178 20220824103515
+114.124.131.127 4 27 4166421 20220825214705
+116.206.40.127 3 49 4908167 20220823154423
+103.106.216.136 2 2 178 20220824060258
+110.138.83.58 3 28 4369008 20220823223007
+34.216.93.97 1 1 67140 20220827153201
+182.3.103.234 1 24 4147574 20220825122517
+202.80.212.223 1 6 239115 20220825120130
+140.213.11.34 5 7 16735 20220829020329
+5.188.62.76 1 1 132 20220824155701
+114.122.36.119 2 47 4414322 20220828023044
+110.138.242.127 5 51 4925593 20220823070145
+54.244.108.148 1 20 4321287 20220822231406
+36.68.54.236 4 52 5722445 20220824230750
+168.90.199.67 2 2 134280 20220825002518
+54.89.186.160 1 1 67140 20220825135918
+182.2.75.218 3 3 122 20220823161328
+69.163.225.123 1 1 0 20220822015619
+66.220.149.116 0 7 1567759 
+140.213.13.17 0 19 944093 
+182.2.36.106 0 1 0 
+182.2.38.136 3 24 4581400 20220822232330
+54.188.43.8 1 1 67140 20220829150903
+182.2.38.148 1 22 1565075 20220822231844
+140.213.7.192 6 42 4492511 20220826171239
+112.215.175.147 2 2 178 20220824055139
+20.235.65.172 2 2 134280 20220826083210
+182.2.73.95 3 6 10241 20220827232610
+182.3.104.82 12 12 1068 20220824084509
+182.2.74.218 1 1 10160 20220827175353
+35.90.32.121 2 2 128858 20220823151407
+42.83.147.34 1 1 64429 20220823040752
+182.2.73.184 2 11 9052842 20220823201742
+182.2.43.159 4 6 210 20220823101312
+112.215.170.205 13 64 5427127 20220824221645
+116.206.37.227 1 10 1962245 20220827153509
+182.2.43.135 1 1 10137 20220823101144
+101.255.119.25 6 51 5058671 20220824173206
+180.254.40.230 1 24 4889583 20220825213716
+103.169.187.197 5 92 14221024 20220825011908
+121.56.26.13 2 2 134280 20220824224354
+182.3.105.90 6 61 5702398 20220823233406
+182.2.43.39 2 2 10177 20220823101159
+52.12.151.230 1 1 67140 20220825152641
+54.190.180.221 1 1 67140 20220828153955
+182.3.134.119 3 23 5426845 20220822221022
+34.213.65.133 1 1 132 20220824101923
+203.78.118.110 2 2 178 20220824070721
+182.3.40.85 6 53 4459131 20220827153914
+61.247.16.127 5 54 7420749 20220824180422
+182.2.41.55 2 2 80 20220823063945
+182.2.40.59 3 3 145 20220823064006
+180.252.126.165 4 55 5610072 20220824195841
+167.235.139.208 1 1 67140 20220826135355
+140.213.196.148 10 51 5274054 20220826141102
+103.137.111.73 4 45 4829127 20220823223545
+110.52.195.145 1 1 67140 20220824224649
+114.122.11.220 3 49 4415890 20220825095840
+140.213.17.151 4 4 356 20220824075417
+27.227.186.135 1 1 64429 20220823041416
+36.68.77.103 6 53 4469254 20220825213632
+66.96.224.198 1 8 442036 20220823225722
+36.65.243.219 7 15 519853 20220827155106
+182.2.73.179 3 38 2888565 20220826142528
+103.14.250.89 3 50 4459015 20220825122614
+180.252.85.174 0 4 2052126 
+182.2.39.96 2 4 19593 20220823092343
+180.252.90.58 0 4 2868729 
+103.138.47.2 6 51 5058667 20220824173231
+34.220.22.246 1 1 67140 20220827152327
+182.2.75.70 1 1 40 20220823161542
+66.220.149.16 0 11 1093755 
+180.247.26.150 2 2 178 20220824111756
+194.195.124.139 2 2 134280 20220829163431
+34.219.188.129 1 1 0 20220829171937
+123.163.114.14 1 1 67140 20220825020342
+20.222.255.227 2 2 134280 20220824212626
+182.3.39.87 3 50 4669056 20220823234243
+35.90.149.186 1 23 4104448 20220825165028
+103.111.102.53 3 3 267 20220824154419
+203.78.117.168 1 23 4104450 20220825123005
+114.124.207.64 1 23 4104450 20220824004231
+191.234.203.123 2 2 134280 20220827235925
+182.2.74.49 3 3 267 20220824133827
+120.188.73.26 4 46 5160158 20220824173028
+182.2.38.85 2 2 178 20220824150119
+182.2.75.206 1 1 40 20220823161314
+182.3.41.69 1 16 2593177 20220827153652
+120.41.45.199 1 1 67176 20220825144236
+114.4.78.34 8 52 4394877 20220826093415
+140.213.0.2 7 37 2165399 20220828172958
+140.213.7.227 1 16 7387 20220827153327
+182.1.66.220 0 13 0 
+182.2.43.51 3 3 195 20220823101301
+114.122.100.103 2 2 178 20220824113352
+103.105.27.113 5 58 5104683 20220824023319
+114.10.21.167 7 69 9579380 20220824020725
+114.124.130.63 4 17 339195 20220825222811
+202.152.138.176 1 20 4415857 20220821220324
+114.5.110.144 0 9 0 
+124.235.138.132 1 1 64429 20220823041549
+125.160.231.199 0 6 0 
+114.125.253.161 2 36 4930030 20220823021030
+42.236.10.84 2 46 9692918 20220824224721
+182.2.37.65 6 21 1309291 20220828110151
+1.202.119.144 2 2 134280 20220825002433
+110.137.100.150 2 2 178 20220824132557
+110.139.42.230 8 112 16262734 20220824174731
+110.137.101.241 2 48 4457450 20220825213931
+110.177.181.57 1 1 64429 20220823041539
+182.2.73.36 5 10 306194 20220823202859
+182.2.36.238 3 42 4412958 20220825120532
+54.189.31.213 1 23 4104447 20220826053318
+52.38.56.187 1 23 4104451 20220827051415
+203.190.246.247 2 2 178 20220824065118
+114.10.67.173 9 182 30905583 20220826060053
+120.188.32.169 1 18 7386 20220829125840
+182.3.36.21 1 1 89 20220824133303
+110.138.87.106 8 40 3284605 20220825160514
+182.1.90.92 8 66 6098148 20220828162202
+34.219.97.130 1 1 0 20220829011332
+120.188.76.139 3 50 5276160 20220826181803
+20.235.66.231 4 4 252484 20220826201001
+140.213.11.76 9 72 6097513 20220824173141
+120.188.67.126 1 23 4104450 20220828103047
+182.2.169.92 0 3 173605 
+35.88.97.89 2 2 117984 20220822154143
+36.69.153.241 5 51 5742665 20220824193419
+20.38.5.173 2 2 134280 20220824200623
+114.79.3.185 5 10 39268 20220823165607
+103.138.49.90 4 71 12244949 20220823224745
+114.124.182.50 1 1 7386 20220827113951
+54.69.42.231 1 19 4162765 20220822110348
+114.124.140.180 3 45 4858589 20220826055031
+185.242.6.116 1 1 67140 20220825093639
+20.48.114.208 2 2 134280 20220828204434
+20.211.99.211 2 2 117636 20220822204839
+112.215.151.21 5 18 919918 20220828005934
+36.68.111.85 3 50 5276160 20220825023353
+175.158.53.85 4 49 5333402 20220825121131
+182.2.43.63 5 5 300 20220823101325
+182.2.36.226 5 5 200 20220825120550
+35.89.97.33 1 1 0 20220822110346
+114.10.23.136 2 2 178 20220824102126
+216.24.213.49 2 2 67176 20220828213814
+182.1.91.48 5 5 445 20220824095726
+182.2.43.147 1 1 65 20220823101227
+182.2.73.191 1 2 50512 20220826142918
+182.2.73.43 1 1 5369 20220826142544
+125.160.236.55 2 25 4154957 20220825174114
+120.188.5.170 2 17 14770 20220827014154
+15.235.184.162 9 142 25741245 20220827205003
+116.206.31.37 2 48 7985247 20220824184350
+114.122.104.143 6 57 4728777 20220823233529
+139.170.202.4 1 1 67140 20220825020335
+128.14.197.155 2 6 59678 20220824024436
+180.252.86.187 0 10 2868729 
+114.142.171.28 0 13 0 
+125.167.56.24 6 65 4704553 20220825155448
+120.188.77.17 11 62 4570002 20220825150821
+34.211.146.117 1 1 67140 20220826152345
+114.10.10.202 6 22 3788961 20220828033143
+182.2.75.94 7 7 283 20220823161500
+114.142.170.52 0 21 0 
+112.207.154.46 10 71 8660403 20220825234025
+180.253.164.171 3 57 6658008 20220829100653
+114.124.175.146 1 1 7386 20220828192929
+182.2.38.84 1 1 65 20220822232319
+188.166.217.208 2 2 134280 20220827044611
+182.2.167.234 6 52 5878359 20220823002006
+182.1.122.183 2 2 178 20220824053129
+34.211.148.199 1 23 4104449 20220827174236
+182.2.38.108 4 18 1652587 20220822232206
+54.187.238.118 1 1 0 20220826053316
+103.105.35.75 0 29 2289139 
+54.212.202.21 2 24 4104448 20220829011333
+114.10.19.15 2 40 4621448 20220824173353
+44.234.153.105 1 1 67140 20220827125528
+182.2.71.88 3 3 267 20220824181919
+54.245.216.218 1 1 67140 20220825152641
+18.237.196.218 1 1 132 20220824151031
+182.3.40.73 5 5 6618 20220827154003
+114.125.101.34 6 47 4525881 20220824224131
+20.219.73.29 4 4 268560 20220827080849
+46.161.11.238 4 4 259676 20220826214726
+52.41.228.79 1 1 67140 20220825153008
+114.10.16.162 9 50 4795846 20220825123101
+35.91.33.62 1 1 0 20220822231404
+34.89.107.236 14 14 1848 20220824104938
+125.166.8.231 4 51 4669101 20220823232942
+114.5.216.69 1 7 1807833 20220825230441
+185.180.14.148 2 2 85223 20220822122009
+139.0.160.90 1 3 7286 20220823095641
+36.68.55.130 7 115 16360201 20220825055359
+149.110.76.231 1 1 0 20220824204939
+34.221.91.216 1 1 0 20220825165027
+114.10.26.186 8 89 10939377 20220828004533
+36.73.34.224 2 54 4457448 20220825124634
+35.91.169.96 1 1 58992 20220822152326
+182.2.71.151 2 2 178 20220824122024
+182.2.38.120 7 8 35879 20220822233847
+188.138.1.68 2 2 134280 20220824004258
+103.255.241.44 3 3 267 20220824075907
+114.4.78.26 1 16 7387 20220827123402
+112.215.238.105 1 24 4147572 20220827100832
+202.67.37.224 1 9 695534 20220823223730
+182.2.68.172 2 40 4411397 20220825123114
+35.163.5.172 1 1 89 20220824101925
+36.68.217.16 4 49 4901975 20220822221544
+183.81.184.62 1 24 4147573 20220827014123
+182.2.74.109 3 4 10239 20220828022239
+45.118.79.228 1 1 0 20220824232006
+128.199.78.111 2 2 134280 20220824210124
+66.220.149.18 1 6 1486059 20220825064106
+202.58.200.254 4 61 7098783 20220824164921
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20220821 86 214 15778811 2
+20220822 309 892 78506927 26
+20220823 980 2543 149962685 58
+20220824 497 2030 185452373 75
+20220825 261 1838 188755399 53
+20220826 150 918 117478555 24
+20220827 100 744 85653529 32
+20220828 117 648 68270262 22
+20220829 16 133 15092447 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 11
+30mn-1h 7
+15mn-30mn 17
+0s-30s 183
+1h+ 6
+2mn-5mn 24
+30s-2mn 53
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 95
+/game/harga 622 24688 13 65
+/ 499 11510398 208 127
+/pesanan 185 598096 1 2
+/cgi-sys/suspendedpage.cgi 166 15118 36 35
+/game/konfirmasi-data 137 18092 4 10
+/game/mobile-legend-c 112 2419716 8 11
+/game/pembelian 74 2716 0 3
+/game/dana 64 1015052 1 2
+/daftar-harga 62 473651 7 7
+/layanan 59 248669 0 0
+/login 56 427845 3 8
+/game/free-fire 47 740648 7 5
+/game/shoepay 39 644104 0 1
+/game/mobile-legend-b 36 432377 6 4
+/game/genshin-impact 31 571306 0 3
+/dashboard 29 93664 1 0
+/game/life-after 26 405439 1 0
+/game/honkai-impact-3 23 377036 0 2
+/game/valorant 21 343517 0 0
+/game/dragon-raja 17 303220 0 1
+/kategori 16 62496 0 0
+/game/aov 15 278330 0 0
+/register 13 112183 0 2
+/cari 13 114875 1 2
+/berita 12 41918 0 1
+/pembelian/invoice/FSZ7h4 2 13144 0 0
+/pembelian/invoice/ftz2nW 2 13184 0 0
+/pembelian/invoice/3dBHVC 1 6208 0 0
+/assets/fonts/unicons7374.woff2 3 471999 0 0
+/cgi-sys/suspendedpage.cgi/shop/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/u6pFQU 1 6604 0 0
+/pembelian/invoice/AR8Fk1 1 6580 0 0
+/pembelian/invoice/fb94Wh 1 0 0 0
+/pembelian/invoice/zs8KWL 1 6561 0 0
+/pembelian/invoice/GKZ2bT 1 6290 0 0
+/pembelian/invoice/ftCJIM 1 6297 0 0
+/game/link-aja 8 272595 0 0
+/pembelian/invoice/TI1gzc 1 6312 0 0
+/member 8 29273 0 0
+/riwayat-pembelian 4 23684 0 0
+/cgi-sys/suspendedpage.cgi/2021/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/MrgRdH 1 6292 0 0
+/pembelian/invoice/LaTzcI 1 6296 0 0
+/pembelian/invoice/Ce3jZx 1 6273 0 0
+/check-voucher 8 485 2 0
+/pembelian/invoice/MFVGOY 1 6204 0 1
+/license 4 16244 0 0
+/pembelian/invoice/GD8hQu 2 12594 0 0
+/game/higgs-domino 7 67772 0 1
+/voucher/2/detail 1 385 0 0
+/cgi-sys/suspendedpage.cgi/wordpress/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/ymJcRq 1 6291 0 1
+/pembelian/invoice/kqz00w 1 6273 0 0
+/pembelian/invoice/H8VKaS 1 5976 0 0
+/pembelian/invoice/sYxm4S 1 6298 0 1
+/cgi-sys/suspendedpage.cgi/test/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/oVZAmy 1 6551 0 0
+/cgi-sys/suspendedpage.cgi/xmlrpc.php 1 132 0 0
+/pembelian/invoice/WWFSO7 2 12624 0 0
+/cgi-sys/suspendedpage.cgi/site/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/L5qvey 3 18839 0 0
+/pembelian/invoice/mtL4SA 1 6312 0 1
+/cgi-sys/suspendedpage.cgi/blog/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/aYJWBS 1 6291 0 0
+/cgi-sys/suspendedpage.cgi/web/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/TFgw0W 1 6273 0 0
+/voucher/3/detail 2 774 0 0
+/cgi-sys/suspendedpage.cgi/2019/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/5C5zl9 1 6219 0 1
+/cgi-sys/suspendedpage.cgi/feed/ 1 132 1 0
+/voucher 11 37800 0 0
+/pembelian/invoice/tI2oPy 3 18961 1 1
+/pembelian/invoice/G3ZBY7 4 18943 0 0
+/pembelian/invoice/WiJyQR 1 31854 0 0
+/pembelian/invoice/4DRfhx 1 6322 0 1
+/cgi-sys/suspendedpage.cgi/cms/wp-includes/wlwmanifest.xml 1 132 0 1
+/cgi-sys/suspendedpage.cgi/2020/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/QY49yJ 3 18904 0 0
+/member/12/detail 1 348 0 0
+/cgi-sys/suspendedpage.cgi/wp/wp-includes/wlwmanifest.xml 1 132 0 0
+/pembelian/invoice/7SgEBu 1 6420 0 0
+/pembelian/invoice/29HiZ8 1 6204 0 0
+/pembelian/invoice/g2PkgI 2 12553 0 0
+/game/codm 11 216834 0 0
+/gopay 3 11785 0 0
+/cgi-sys/suspendedpage.cgi/wp1/wp-includes/wlwmanifest.xml 1 132 0 0
+/member/21/detail 1 341 0 0
+/pembelian/invoice/rkTr84 1 6313 0 0
+/gopay/Gojek-OTP/085888329430 1 63 0 0
+/pembelian/invoice/93EA3M 1 6328 0 1
+/pembelian/invoice/gfXbbC 1 6278 0 0
+/gopay/Gojek-validasi 1 758 0 0
+/pembelian/invoice/0peed4 1 6290 0 0
+/pembelian/invoice/DNaO3t 1 6276 0 0
+/pembelian/invoice/KQKjPu 1 6306 0 0
+END_SIDER

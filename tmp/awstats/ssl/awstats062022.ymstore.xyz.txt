@@ -1,0 +1,586 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202206 will be lost/reset.
+# Last config file used to build this data file was /home/ymsn5113/tmp/awstats/ssl/awstats.ymstore.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2683                
+POS_VISITOR 14089               
+POS_DAY 17730               
+POS_DOMAIN 3541                
+POS_LOGIN 3890                
+POS_ROBOT 4045                
+POS_WORMS 4410                
+POS_EMAILSENDER 4541                
+POS_EMAILRECEIVER 4684                
+POS_SESSION 17849               
+POS_SIDER 18057               
+POS_FILETYPES 4819                
+POS_DOWNLOADS 5097                
+POS_OS 5145                
+POS_BROWSER 5424                
+POS_SCREENSIZE 6287                
+POS_UNKNOWNREFERER 6361                
+POS_UNKNOWNREFERERBROWSER 6894                
+POS_ORIGIN 7336                
+POS_SEREFERRALS 7480                
+POS_PAGEREFS 7645                
+POS_SEARCHWORDS 8084                
+POS_KEYWORDS 8236                
+POS_MISC 2347                
+POS_ERRORS 8295                
+POS_CLUSTER 3746                
+POS_SIDER_404 8464                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220821192303 1 0 8842073157677
+FirstTime 20220629203752
+LastTime 20220630190825
+LastUpdate 20220822192358 1 0 0 0 0
+TotalVisits 98                  
+TotalUnique 85                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 85                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 18 18 64097 111 114 45297
+1 505 921 36740111 61 92 1482136
+2 711 1227 53616709 48 90 790214
+3 236 516 29056407 9 33 218374
+4 10 23 3603596 3 6 171518
+5 19 194 17765930 2 7 165272
+6 25 187 13069938 2 6 163994
+7 31 140 9977305 3 10 173566
+8 15 231 20596523 3 7 243435
+9 21 80 7071299 20 22 196460
+10 23 194 14496364 2 10 165987
+11 34 174 14909781 2 6 163994
+12 38 188 13250431 2 9 449864
+13 239 1029 69622673 8 104 5703408
+14 65 82 4351944 9 12 185967
+15 329 547 20167156 76 99 871173
+16 155 367 20312988 7 21 177605
+17 142 488 29569365 69 88 365358
+18 61 210 12076738 2 18 579313
+19 4 57 5440471 2 3 79371
+20 2 2 17604 1 1 0
+21 136 441 31669882 124 1138 2664889
+22 166 825 65407607 23 57 369153
+23 287 1036 74309058 31 76 1338185
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+id 3053 8384 510202080
+cn 107 133 3487100
+us 59 230 19347063
+in 38 307 24999846
+ua 8 116 8645932
+ca 3 3 237159
+gb 2 2 156554
+ru 2 2 88243
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Go\-http\-client/ 36 2848236 20220630190536 0
+facebookexternalhit/ 30 3230759 20220630134422 0
+no_user_agent 6 79441 20220630080819 0
+AhrefsBot/ 3 20090 20220630041416 1
+unknown 2 58 20220630102946 2
+Googlebot/ 1 29 20220630105450 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+Unknown 375 4195140 0 0
+css 730 22268943 0 0
+png 4237 443406908 0 0
+ttf 51 4916148 0 0
+woff 53 5195532 0 0
+html 815 12136987 0 0
+jpg 117 5734521 0 0
+php 1850 37518383 0 0
+js 821 21914430 0 0
+woff2 128 9876985 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+androidlollipop 101 12
+android 3979 1424
+androidmarshmallow 359 127
+macosx15 116 8
+Unknown 8 8
+androidpie 455 174
+win8.1 1 1
+win7 386 144
+linux 237 178
+win10 849 236
+winxp 1 1
+ios_iphone 429 49
+android10 2256 910
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+safari14.0.3 1 1
+chrome88.0.4240.193 2 2
+chrome78.0.3904.108 2 2
+chrome45.0.2419.0 1 1
+iphone 174 12
+chrome103.0.5060.53 458 50
+chrome101.0.4951.40 60 7
+chrome101.0.4951.41 58 4
+safari 136 26
+chrome94.0.4606.61 3 2
+chrome102.0.5005.125 899 79
+msie6.0 1 1
+chrome102.0.5005.124 19 0
+chrome96.0.4664.104 125 25
+chrome94.0.4606.85 115 8
+Unknown 7 7
+chrome89.0.4389.105 101 12
+chrome70.0.3538.67 56 2
+chrome90.0.4430.210 333 64
+chrome103.0.0.0 722 193
+chrome101.0.0.0 165 56
+chrome102.0.0.0 3545 2110
+chrome87.0.4280.101 1 1
+chrome85.0.4183.127 337 260
+chrome102.0.5005.78 123 23
+chrome92.0.4515.159 108 45
+chrome81.0.4044.138 116 8
+chrome91.0.4472.88 198 36
+chrome101.0.4951.64 305 116
+chrome89.0.4389.116 771 99
+chrome76.0.3809.71 57 4
+chrome98.0.4758.101 57 3
+mozilla 1 1
+safari15.3 118 10
+chrome59.0.3071.104 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+python-requests/2.27.1 20220630071734
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220630030052
+WhatsApp/2.22.13.76_A 20220630174156
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220630070423
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.22.13.76_A 20220630174156
+python-requests/2.27.1 20220630071734
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220630030052
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 605 638
+From1 3 3
+From2 12 12
+From3 63 63
+From4 2589 8461
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 12 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://m.facebook.com 24 24
+https://lm.facebook.com 20 20
+https://l.facebook.com 10 10
+https://asmara.iixcp.rumahweb.com:2083 3 3
+https://m.facebook.com 3 3
+https://www.site-shot.com/MSOsEPflEeyDrQJCrBEABA 1 1
+https://www.site-shot.com/-SYP8vfjEeyrMwJCrBEAAg 1 1
+https://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+307 24 154196
+404 1543 417706
+206 91 8811222
+301 8 1932
+500 204 925936
+400 1 0
+303 45 274720
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 114
+/upload/one-punch-man%20(1).jpg 16 http://localhost/
+//website/wp-includes/wlwmanifest.xml 2 -
+/upload/slide_master_20220628022111.jpg 16 http://localhost/
+//2019/wp-includes/wlwmanifest.xml 2 -
+/upload/vidio_premier.png 16 http://localhost/
+/upload/dragon_raja.png 16 http://localhost/
+/upload/wetv_premium.png 16 http://localhost/
+/upload/honkaiimpact3.jpg 16 http://localhost/
+/payment/ws 6 -
+/.git/config 1 -
+/upload/logo_Master_20222406162125.jpg 16 http://localhost/
+/upload/canva_pro.png 16 http://localhost/
+/games/be-the-king 8 https://ymstore.xyz/
+/games/mobile-legends-a 4 https://ymstore.xyz/
+/upload/lords_mobile.png 16 http://localhost/
+//shop/wp-includes/wlwmanifest.xml 2 -
+//cms/wp-includes/wlwmanifest.xml 2 -
+//wordpress/wp-includes/wlwmanifest.xml 2 -
+/assets/images/tl-icon.png 1 http://localhost/
+/login 7 https://ymstore.xyz/
+/upload/marvel_super_war.png 16 http://localhost/
+/method 4 http://ymstore.xyz/
+//news/wp-includes/wlwmanifest.xml 2 -
+/assets/css/A.animate.css.pagespeed.cf.Oy4K0CEM9-.css 25 http://localhost/
+/upload/mobile_legends_membership.png 16 http://localhost/
+/admin 1 -
+/payment 29 https://ymstore.xyz/
+/games/mobile-legends-b 1 https://ymstore.xyz/
+//ws 50 -
+/javaScript:void() 1 -
+/user 1 https://ymstore.xyz/admin/login
+/upload/garena_shell_promo.png 16 http://localhost/
+/logim 1 -
+/upload/omega_legends.png 16 http://localhost/
+/assets/css/bootstrap.min.css.map 19 -
+//sito/wp-includes/wlwmanifest.xml 2 -
+//wp-includes/wlwmanifest.xml 2 -
+/upload/category_Master_20220624183413.jpg 16 http://localhost/
+/assets/css/A.horizontal-menu.css.pagespeed.cf.nkZeSKIVTw.css 25 http://localhost/
+//wp2/wp-includes/wlwmanifest.xml 2 -
+/upload/steam-icon-2.jpg 16 http://localhost/
+/upload/free_fire.png 16 http://localhost/
+/webhooks 2 -
+/upload/apex_legends_mobile.jpg 16 http://localhost/
+/upload/category_Master_20220624183819.jpg 16 http://localhost/
+/upload/category_Master_20220624185349.jpg 16 http://localhost/
+/assets/css/A.app-style.css.pagespeed.cf.ChkLxSt-Bp.css 16 http://localhost/
+/upload/category_Master_20220624184912.jpg 16 http://localhost/
+/upload/free-fire-new%20(1).jpg 16 http://localhost/
+//web/wp-includes/wlwmanifest.xml 2 -
+/upload/netflix_premium.png 16 http://localhost/
+/games/genshin-impact 5 https://ymstore.xyz/
+/games/mobile-legends-a/ws 4 -
+/upload/super_sus.png 17 -
+/assets/images/1655196539_c2c4431551fd3511228d.png 3 https://ymstore.xyz/
+//test/wp-includes/wlwmanifest.xml 2 -
+/ogon 1 -
+/admin/login/ws 3 -
+/upload/slide_Master_20220624153127.jpg 16 http://localhost/
+/ 33 -
+/games/chimeraland 13 https://ymstore.xyz/
+/upload/spotify_premium.png 16 http://localhost/
+/upload/logo_Master_20222306214408.jpg 1 fbapp://350685531728/unknown
+//wp1/wp-includes/wlwmanifest.xml 2 -
+/upload/genshin_impact.png 16 http://localhost/
+/games/wetv-premium 1 https://ymstore.xyz/
+/upload/lifeafter.png 16 http://localhost/
+/upload/pubgm-b-icon.jpg 16 http://localhost/
+/games/super-sus 1 https://ymstore.xyz/
+/assets/js/bootstrap.min.js.map 19 -
+/upload/voucher_pb_zepetto.png 16 http://localhost/
+/upload/disney_hotstar.png 16 http://localhost/
+/upload/zepeto.png 16 http://localhost/
+/upload/youtube_premium.png 16 http://localhost/
+/upload/logo_Master_20222406164811.jpg 16 http://localhost/
+//site/wp-includes/wlwmanifest.xml 2 -
+/upload/category_Master_20220624185129.jpg 16 http://localhost/
+/upload/category_Master_20220624184301.png 16 http://localhost/
+//2018/wp-includes/wlwmanifest.xml 1 -
+/assets/css/A.icons.css.pagespeed.cf.AwDcHPg_xs.css 25 http://localhost/
+/games/mobile-legends 9 https://ymstore.xyz/
+/upload/sausage_man.png 16 http://localhost/
+//xmlrpc.php 2 -
+/upload/arena_of_valor.png 16 http://localhost/
+/login/ws 5 -
+/assets/plugins/bootstrap-datatable/css/A.buttons.bootstrap4.min.css.pagespeed.cf.Eh-Wgrss_v.css 25 http://localhost/
+/upload/pubgm_new_state.png 16 http://localhost/
+/syarat-ketentuan 2 https://ymstore.xyz/
+/upload/pb_zepetto.png 16 http://localhost/
+/upload/category_Master_20220624190502.jpg 16 http://localhost/
+/assets/js/popper.min.js.map 15 -
+/assets/css/A.style-main.css.pagespeed.cf.6kN3cU5Y4D.css 16 http://localhost/
+/upload/mobile_legends_slow.png 16 http://localhost/
+/upload/league_of_legends.png 16 http://localhost/
+/assets/plugins/simplebar/css/A.simplebar.css.pagespeed.cf.MDT2pla63p.css 24 http://localhost/
+/assets/plugins/summernote/dist/A.summernote-bs4.css.pagespeed.cf.Ec1os0Y2oX.css 23 http://localhost/
+/cektrx 2 -
+/upload/iqiyi_premium.png 16 http://localhost/
+/upload/footer.png 273 https://ymstore.xyz/assets/css/style-main.css
+/game/genshinimpact 1 https://ymstore.xyz/
+/upload/ragnarok_m_eternal_love.jpg 16 http://localhost/
+/assets/plugins/bootstrap-datatable/css/A.dataTables.bootstrap4.min.css.pagespeed.cf.b0XqS7GhNp.css 25 http://localhost/
+//wp/wp-includes/wlwmanifest.xml 2 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/game/mobilelegendsa/ 1 -
+/games/genshin-impact/ws 5 -
+/games/pb-zepetto 1 https://ymstore.xyz/
+//media/wp-includes/wlwmanifest.xml 1 -
+/upload/light_of_thel.png 16 http://localhost/
+/upload/category_master_20220405140506.png 16 http://localhost/
+/upload/category_Master_20220624184853.jpg 16 http://localhost/
+/upload/category_Master_20220624190233.jpg 16 http://localhost/
+/games/canva-pro 1 https://ymstore.xyz/
+//blog/wp-includes/wlwmanifest.xml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 85
+125.166.204.52 1354 2888 146711689 20220630175200
+180.249.88.52 348 573 33028146 20220630052809
+36.75.221.176 329 529 23442766 20220630185846
+202.67.41.208 158 217 6262454 20220630021112
+36.90.214.42 88 204 9434229 20220630011219
+140.213.7.20 76 262 16499818 20220630011932
+36.74.42.24 71 179 12950213 20220630132532
+202.67.40.199 67 142 5571887 20220630010436
+120.188.93.177 47 278 22396977 20220629225640
+128.1.190.156 45 108 9510262 20220630033618
+125.166.13.146 40 228 14175962 20220630132437
+116.206.40.93 39 42 691103 20220630164757
+180.245.150.119 34 87 4583172 20220630175109
+116.206.40.97 29 49 931276 20220630144603
+103.108.21.89 26 132 9894328 20220629234639
+116.206.40.11 25 25 282256 20220630175614
+182.1.97.57 25 78 5606320 20220629225805
+182.1.104.1 24 78 5434742 20220630114104
+36.74.43.174 23 23 285703 20220630182153
+120.188.37.210 21 21 227077 20220630011949
+202.67.40.20 20 82 7955090 20220630125439
+115.178.222.214 20 128 8790196 20220630063601
+125.161.13.56 19 72 4419104 20220630172151
+120.188.95.74 17 74 5016859 20220630152944
+114.10.16.165 16 69 4382987 20220629234944
+110.50.81.197 4 29 610909 20220630032003
+36.68.9.31 3 56 5136700 20220630012356
+114.10.28.97 14 176 12927637 20220630063049
+114.4.220.168 4 57 4239745 20220630162115
+45.90.61.2 1 2 105409 20220630032043
+140.213.15.249 15 101 7250350 20220630181438
+112.215.172.223 4 57 5440471 20220630190825
+140.213.65.178 4 57 5439334 20220629221538
+103.138.49.40 4 59 5552657 20220630033001
+36.68.216.67 14 70 4514118 20220630032615
+125.166.118.99 4 58 5527066 20220630104259
+114.10.11.12 4 58 5526338 20220630084534
+36.82.34.228 4 57 5439625 20220629231316
+125.165.45.188 4 57 5439555 20220629230010
+182.1.81.159 7 9 1737278 20220630165417
+45.121.219.4 2 24 324045 20220630133100
+36.66.168.49 7 60 4275711 20220630160259
+95.217.194.102 8 116 8645932 20220630025351
+103.105.33.78 1 1 8802 20220629204400
+114.10.66.197 13 67 4430955 20220630100051
+205.169.39.17 4 57 4239661 20220630173633
+114.5.209.22 4 59 5552671 20220630114752
+36.70.248.253 13 76 4422671 20220630182022
+180.254.163.114 3 47 4689021 20220629230354
+51.11.106.41 2 2 156554 20220630174920
+167.94.138.118 1 1 79441 20220630070423
+202.67.40.219 7 50 4407628 20220629225838
+140.213.5.67 3 5 119029 20220630091624
+110.50.81.201 4 58 4322958 20220630120205
+202.67.41.225 3 5 119067 20220630123153
+202.67.41.251 2 2 33829 20220630064110
+198.235.24.156 1 1 79441 20220630030052
+34.66.105.71 5 59 5173967 20220630071735
+208.80.194.42 1 1 79441 20220630023712
+114.10.31.210 6 6 72133 20220630182646
+176.53.220.126 1 1 79441 20220630100810
+182.253.15.156 4 58 5466022 20220629233233
+202.67.41.243 15 16 328646 20220630073646
+182.1.69.195 4 58 5526425 20220630132901
+103.95.7.5 3 57 5220973 20220630094049
+202.67.41.217 11 73 4721131 20220630120136
+180.241.46.227 4 57 4239812 20220630171640
+180.214.232.70 4 58 5526264 20220630024148
+182.2.75.215 4 57 5439535 20220629221702
+36.68.222.153 10 64 4337427 20220630014216
+110.138.92.17 10 64 4395251 20220630074951
+103.179.31.54 4 58 4323086 20220630084305
+36.68.247.34 3 57 5220973 20220630085815
+205.210.31.23 1 1 79441 20220630022445
+125.166.118.9 4 58 5526126 20220630080144
+89.175.184.250 1 1 8802 20220629203752
+175.176.163.34 6 69 4463090 20220630125136
+114.5.219.239 4 59 5552579 20220630051517
+165.22.63.55 2 2 158882 20220630094045
+36.85.109.219 4 53 4221615 20220630163738
+114.4.4.134 1 1 4188 20220630125138
+114.5.210.30 9 9 233405 20220630132317
+198.235.24.17 1 1 78277 20220629224127
+116.206.40.99 14 17 1582465 20220630110546
+103.247.22.158 7 60 5825356 20220629230629
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20220629 591 2304 171404151 21
+20220630 2681 6873 395759826 77
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+30s-2mn 20
+5mn-15mn 10
+1h+ 8
+15mn-30mn 5
+0s-30s 50
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 66
+/index.php 1850 37518383 3 64
+/ 782 11967716 88 15
+/assets/fonts/fontawesome-webfont.woff2 128 9876985 0 6
+/assets/fonts/fontawesome-webfont.woff 53 5195532 0 0
+/assets/fonts/fontawesome-webfont.ttf 51 4916148 0 7
+/games/mobile-legends 47 726110 1 0
+/games/chimeraland 41 433875 1 0
+/admin 40 375313 0 0
+/admin/login 35 331282 0 1
+/login 30 292727 1 0
+/public/ 30 139118 2 3
+/admin/konfigurasi 16 219165 0 0
+/games/be-the-king 15 297996 1 0
+/admin/produk 9 86761 0 0
+/admin/games 8 83249 0 0
+/payment 7 269843 0 1
+/admin/games/edit/1 7 69383 0 0
+/games/free-fire 6 65856 1 0
+/games/order/get-detail/2 6 2100 0 0
+/games/order/get-price/2 6 474 0 0
+/admin/admin 5 45943 0 0
+/games/pulsa 5 54085 0 0
+/admin/pesanan/edit/8 5 47792 0 0
+/games/order/get-price/1 5 934 0 0
+/price 5 83482 0 0
+/games/order/get-detail/1 1 2984 0 0
+/admin/pesanan/edit/7 2 19141 0 0
+/games/order/get-price/6 4 308 0 0
+/admin/kategori 3 28810 0 0
+/admin/pengguna/add 2 18548 0 0
+/payment/202206304461 1 8924 0 0
+/games/order/get-detail/3 2 1032 0 0
+/games/order/get-detail/4 4 690 0 0
+/games/genshin-impact 2 21704 0 0
+/games/order/get-price/19 1 78 0 0
+/games/order/get-price/12 1 77 0 1
+/admin/admin/edit/1 1 9402 0 0
+/payment/202206307600 2 17848 0 0
+/admin/topup 2 19075 0 0
+/games/mobile-legends-a 1 10850 0 0
+/games/order/get-detail/6 2 112 0 0
+/payment/202206306288 1 9165 0 0
+// 2 20102 0 0
+/games/dragon-raja 3 32546 0 0
+/admin/produk/edit/6 4 39041 0 0
+/admin/pengguna 3 27756 0 0
+/admin/games/add 2 19353 0 0
+/games/order/get-detail/19 1 495 0 0
+/admin/password 2 18464 0 0
+/games/order/get-price/3 3 234 0 0
+/games/giftskin 2 89086 0 0
+/games/mobile-legends-b 1 78279 0 0
+/payment/202206301576 1 9142 0 0
+/admin/produk/add 3 29246 0 0
+/user 2 18025 0 0
+/admin/produk/edit/2 4 39124 0 0
+/admin/metode/edit/19 1 9779 0 0
+/games/order/get-price/8 1 77 0 0
+/admin/metode 2 20296 0 0
+/index.php/games/be-the-king 1 10846 0 0
+/games/order/get-price/4 3 231 0 0
+/games/league-of-legends 2 21687 0 0
+/method 1 45478 0 0
+// 1 10051 0 0
+/admin/pesanan 2 19829 0 0
+/games/mobile-legends/ws 1 11008 0 0
+END_SIDER

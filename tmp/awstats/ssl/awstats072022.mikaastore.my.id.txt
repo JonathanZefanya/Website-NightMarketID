@@ -1,0 +1,411 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /home/mikb4259/tmp/awstats/ssl/awstats.mikaastore.my.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2704                
+POS_VISITOR 3596                
+POS_DAY 4319                
+POS_DOMAIN 4501                
+POS_LOGIN 4773                
+POS_ROBOT 4928                
+POS_WORMS 5247                
+POS_EMAILSENDER 5378                
+POS_EMAILRECEIVER 5521                
+POS_SESSION 5597                
+POS_SIDER 5792                
+POS_FILETYPES 8971                
+POS_DOWNLOADS 9255                
+POS_OS 9303                
+POS_BROWSER 9423                
+POS_SCREENSIZE 9644                
+POS_UNKNOWNREFERER 9718                
+POS_UNKNOWNREFERERBROWSER 9949                
+POS_ORIGIN 10069               
+POS_SEREFERRALS 10207               
+POS_PAGEREFS 10351               
+POS_SEARCHWORDS 10524               
+POS_KEYWORDS 10676               
+POS_MISC 2367                
+POS_ERRORS 10735               
+POS_CLUSTER 4629                
+POS_SIDER_404 10910               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220707165500 2984 763196 11466321816822
+FirstTime 20220706165843
+LastTime 20220707165457
+LastUpdate 20220707165838 2984 0 2984 0 0
+TotalVisits 20                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 15 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 3 9 563797 0 1 1278
+2 0 0 0 1 1 51930
+3 0 0 0 1 1 51930
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 3 12 32291 0 1 1278
+7 3 13 33254 0 1 1278
+8 4 28 1426465 3 4 1577
+9 47 250 14711326 49 68 1538285
+10 76 428 11604442 71 108 502823
+11 108 198 491447 82 140 1187120
+12 66 152 2179290 28 65 3927760
+13 101 192 598600 43 58 74349
+14 122 199 1529430 57 65 170170
+15 101 221 6518803 38 54 89926
+16 72 106 1367983 22 33 42187
+17 83 104 1861172 2 8 13408
+18 156 183 7951836 21 30 44680
+19 49 50 586845 3 5 19792
+20 18 18 215929 2 4 8296
+21 0 0 0 0 0 0
+22 127 153 4366587 10 21 71488
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+36.73.35.75 779 982 14784319 20220707164314 20220707112448 /dashboard
+180.244.49.115 247 842 24409788 20220707165457 20220707165457 /
+114.10.19.93 46 195 4988739 20220707111731
+140.213.41.117 36 54 2009320 20220706221635
+36.71.140.171 5 58 2937475 20220707152259
+182.2.73.228 5 12 487232 20220706172254
+140.213.51.198 3 13 33254 20220707073927
+103.105.30.81 3 9 563797 20220707012114
+182.1.112.173 3 5 228664 20220706181225
+182.3.40.246 3 11 563834 20220706174701
+103.105.30.111 3 43 2553990 20220707151846
+180.253.161.37 3 88 2431886 20220707123604
+95.111.200.230 2 2 32 20220707130715
+35.233.62.116 1 1 23077 20220707151828
+182.3.70.107 0 1 24090 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20220706 447 523 15115185 7
+20220707 692 1793 40924312 13
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+id 1130 2261 52898601
+in 6 52 3117787
+ua 2 2 32
+us 1 1 23077
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+no_user_agent 3 0 20220707165032 0
+curl 3 107770 20220707114831 0
+unknown 1 28 20220707102532 1
+Apache\-HttpClient/ 1 51930 20220707032739 0
+facebookexternalhit/ 1 23085 20220707143027 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+30s-2mn 1
+1h+ 3
+15mn-30mn 2
+0s-30s 9
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 97
+/index.php 274 3425422 2 8
+/ 173 972302 10 4
+/layanan 107 343313 0 0
+/kategori 54 196899 0 0
+/game/konfirmasi-data 53 7826 0 0
+/dashboard 41 128734 0 0
+/game/mobile-legend-b 41 258177 0 2
+/game/harga 34 1356 0 0
+/game/mobile-legend 31 192849 2 1
+/member 26 89717 0 0
+/login 24 58091 0 0
+/pesanan 18 69885 0 0
+/berita 14 40530 0 0
+/admin 12 103662 1 0
+/gopay 11 40666 0 0
+/games/free-fire 9 95329 0 0
+/game/pembelian 9 351 0 0
+/riwayat-pembelian 8 32971 0 0
+/admin/pesanan 8 85558 0 0
+/admin/games 8 85179 0 0
+/assets/fonts/unicons7374.woff2 8 1258664 0 0
+/assets/fonts/fontawesome-webfont.woff2 7 540155 0 0
+/games/ml-denom-mini 7 72778 1 0
+/pembelian/invoice/NXlmeB 7 26866 0 0
+/assets/fonts/fontawesome-webfont.ttf 6 570072 0 1
+/admin/pesanan/edit/59 2 19131 0 0
+/games/order/get-detail/84 1 499 0 0
+/admin/produk/add 4 39314 0 0
+/games/order/get-detail/41 1 498 0 0
+/admin/produk/edit/84 2 19683 0 0
+/member/5/detail 1 341 0 0
+/member/3/detail 1 344 0 0
+/gopay/Gojek-OTP/085888329430 1 63 0 0
+/pembelian/invoice/imYy8c 1 4039 0 0
+/admin/pesanan/edit/61 2 19225 0 0
+/games/order/get-price/71 3 237 0 0
+/admin/pesanan/edit/62 2 19228 0 0
+/game/mobile%20legends 1 6297 0 0
+/games/order/get-detail/26 1 499 0 0
+/pembelian/invoice/0lhHHL 2 7994 0 0
+/admin/pesanan/edit/57 2 19129 0 0
+/payment 2 17647 0 0
+/ovo 3 10748 0 0
+/member/1/detail 3 1035 0 0
+/games/free-fire-promo 5 51249 0 0
+/admin/games/edit/37 5 48878 0 0
+/payment/202207064138 1 8932 0 0
+/admin/login 1 8642 0 0
+/games/order/get-detail/33 1 502 0 0
+/member/4/detail 1 344 0 0
+/games/order/get-price/84 1 79 0 0
+/games/order/get-price/70 3 234 0 1
+/user-deposit 1 2604 0 0
+/admin/konfigurasi 1 13810 0 0
+/gopay/Gojek-validasi 2 1518 0 0
+/member/6/detail 3 1025 0 0
+/games/garena-shell 1 10236 0 0
+/games/order/get-price/64 1 78 0 0
+/games/order/get-price/83 3 234 0 0
+/games/order/get-detail/40 2 1006 0 0
+/gopay/Gojek-OTP/083188722832 2 126 0 0
+/admin/pengguna 2 18680 0 0
+/admin/pesanan/edit/60 2 19133 0 0
+/payment/202207063876 1 9139 0 0
+/pembelian/invoice/o6xWrh 2 7865 0 0
+/game/free-fire 3 18427 0 0
+/games/ml-misi-event 3 31824 0 0
+/games/order/get-detail/78 4 697 0 0
+/admin/produk 5 52441 0 0
+/pembelian/invoice/zxmmNd 2 8068 0 0
+/games/order/get-detail/83 2 545 0 0
+/callback 2 32 1 1
+/games/order/get-price/26 1 79 0 0
+/user 1 9042 0 0
+/games/order/get-price/40 2 156 0 0
+/deposit 1 4380 0 0
+/payment/202207068528 1 8930 0 0
+/payment/202207062553 1 9139 0 0
+/cari 4 14324 0 0
+/games/mobile-legends 3 32188 3 0
+/whatsapp 2 11329 0 0
+/payment/202207061702 1 9135 0 0
+/method 1 9323 0 0
+/pembelian/invoice/DoLV8P 1 3838 0 0
+/games/order/get-price/33 2 156 0 0
+/assets/fonts/fontawesome-webfont.woff 6 588174 0 0
+/game/genshin-impact 2 12517 0 0
+/games/mobile-legends-b 1 10611 0 0
+/admin/pesanan/edit/58 1 9573 0 0
+/games/order/get-price/78 2 158 0 0
+/smile-one 3 8062 0 0
+/payment/202207067869 2 18272 0 0
+/pembelian/invoice/XClyJU 1 4037 0 0
+/pembelian/invoice/UHb2iH 5 19830 0 0
+/admin/games/edit/36 5 49784 0 0
+/games/order/get-price/41 2 156 0 0
+/gopay/Gojek-OTP/085692474509 1 63 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+php 274 3425422 0 0
+js 188 2594263 0 0
+ttf 6 570072 0 0
+html 173 972302 0 0
+jpeg 69 219342 0 0
+css 107 972888 0 0
+jpg 346 24126016 0 0
+woff2 15 1798819 0 0
+png 467 18094081 0 0
+Unknown 665 2678118 0 0
+woff 6 588174 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 3 3
+android 1850 998
+win10 428 104
+linux 35 34
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome101.0.4951.64 50 3
+chrome94.0.4606.85 67 39
+Unknown 1 1
+chrome101.0.0.0 5 3
+mozilla 2 2
+chrome103.0.0.0 2003 1073
+chrome90.0.4430.210 1 0
+chrome89.0.4389.116 187 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_TriPay_Payment/1.0;__https://tripay.co.id/developer?tab=callback) 20220707130715
+python-requests/2.28.0 20220707151828
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.28.0 20220707151828
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 72 86
+From1 0 0
+From2 0 0
+From3 3 3
+From4 1064 2227
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://tripay.co.id 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+422 8 637
+307 3 17220
+419 2 1692
+303 20 114877
+206 1 1
+302 165 25331
+500 87 5737161
+404 358 613692
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 30
+/qris.jpg 1 https://mikaastore.my.id/deposit
+/game/mobile-legend/ws 1 -
+/admin 4 -
+/game/mobile-legend-b/ws 4 -
+/index-2.html 17 https://mikaastore.my.id/dashboard
+/assets/sampoerna.png 46 https://mikaastore.my.id/
+/assets/js/app.min.js.map 2 -
+/assets/css/app.min.css.map 2 -
+/gopay/ws 2 -
+/game/mobile-legend-b 1 https://mikaastore.my.id/
+/games/mobile-legends 6 http://mikaastore.my.id/
+/assets/js/vendor.min.js.map 2 -
+/assets/css/icons.min.css.map 2 -
+/dashboard/ws 3 -
+/ 19 -
+/login/ws 2 -
+/pesanan/ws 10 -
+/pembelian/invoice/imYy8c/ws 1 -
+/berita/ws 6 -
+/pembelian/invoice/zxmmNd/ws 2 -
+/fb.com/raflii.seller 2 https://mikaastore.my.id/login
+/layanan/ws 14 -
+/assets/css/bootstrap.min.css.map 2 -
+//ws 16 -
+/assets/banner/1656957652_714f7d7b96f15a4e6856.jpg 12 https://mikaastore.my.id/
+/assets/permata.png 46 https://mikaastore.my.id/
+/kategori/ws 18 -
+/pembelian/invoice/o6xWrh/ws 2 -
+/upload/footer.png 35 https://mikaastore.my.id/assets/css/style-main.css
+/assets/image/ovo.jpg 78 https://mikaastore.my.id/game/mobile-legend-b
+END_SIDER_404

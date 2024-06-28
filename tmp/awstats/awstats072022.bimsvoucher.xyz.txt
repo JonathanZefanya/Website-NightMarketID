@@ -1,0 +1,478 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /home/bimk7489/tmp/awstats/awstats.bimsvoucher.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2690                
+POS_VISITOR 10478               
+POS_DAY 13610               
+POS_DOMAIN 3533                
+POS_LOGIN 3928                
+POS_ROBOT 4083                
+POS_WORMS 4526                
+POS_EMAILSENDER 4657                
+POS_EMAILRECEIVER 4800                
+POS_SESSION 14131               
+POS_SIDER 14317               
+POS_FILETYPES 4935                
+POS_DOWNLOADS 5151                
+POS_OS 5218                
+POS_BROWSER 5463                
+POS_SCREENSIZE 6355                
+POS_UNKNOWNREFERER 6429                
+POS_UNKNOWNREFERERBROWSER 6876                
+POS_ORIGIN 7318                
+POS_SEREFERRALS 7457                
+POS_PAGEREFS 7641                
+POS_SEARCHWORDS 7939                
+POS_KEYWORDS 8091                
+POS_MISC 2353                
+POS_ERRORS 8150                
+POS_CLUSTER 3784                
+POS_SIDER_404 8316                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220801000052 28 4826 5008463110154
+FirstTime 20220701025019
+LastTime 20220730213204
+LastUpdate 20220801190640 28 0 27 0 0
+TotalVisits 98                  
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 77                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 66 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 75 6065889 117 164 3263766
+1 4 59 5577810 103 140 3178192
+2 3 3 234586 93 101 857107
+3 10 10 728447 141 143 1557680
+4 3 3 156168 79 84 1005744
+5 3 3 166052 96 99 1020938
+6 1 1 25753 81 83 1004931
+7 6 6 416674 107 113 1011794
+8 2 2 156313 95 99 1027857
+9 1 1 78018 96 102 1087474
+10 3 3 182066 107 108 1010732
+11 2 2 156036 105 106 1029936
+12 2 2 156302 89 92 1007042
+13 9 9 571503 144 150 1180181
+14 16 16 882114 100 106 1240784
+15 10 10 737778 116 119 1042532
+16 3 3 156168 92 96 1011507
+17 12 12 826897 100 103 1010130
+18 4 4 155554 129 132 1521562
+19 14 68 3941558 114 150 1856372
+20 21 66 2103742 136 173 1608595
+21 8 8 404655 119 127 1012447
+22 4 31 1787738 211 217 1081723
+23 3 34 3059293 120 124 1070662
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+id 87 335 23133812
+us 39 39 2403603
+ca 9 9 493656
+cn 4 31 1733288
+ru 3 3 234054
+ro 3 3 234331
+nl 3 3 77259
+in 2 2 156036
+gb 2 2 157015
+cl 1 1 132
+de 1 1 78018
+fr 1 1 25753
+eu 1 1 132
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Go\-http\-client/ 334 22778185 20220709010032 0
+AhrefsBot/ 72 3895847 20220709011537 4
+Googlebot/ 53 656322 20220708210608 2
+no_user_agent 7 494681 20220708034619 0
+Lightspeed 5 391475 20220703184011 0
+facebookexternalhit/ 3 156615 20220706053220 1
+unknown 2 50 20220704141342 2
+survey 1 78284 20220701093602 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 131 4493567 0 0
+css 90 6117351 0 0
+woff2 1 157328 0 0
+cgi 2 264 0 0
+jpg 30 8076974 0 0
+png 24 1120453 0 0
+Unknown 27 826328 0 0
+html 126 7934824 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 25
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win7 4 4
+macosx14 4 4
+linux 81 36
+androidpie 4 4
+winxp 2 2
+android 109 26
+androidlollipop 36 5
+Unknown 11 11
+ios_iphone 11 11
+macosx 1 1
+win10 37 37
+macosx15 2 2
+android10 129 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 38
+firefox78.0 74 29
+Unknown 11 11
+chrome101.0.0.0 6 6
+chrome83.0.4103.106 3 3
+chrome89.0.4389.90 1 1
+chrome101.0.4951.67 1 1
+mozilla 1 1
+chrome78.0.3904.108 12 12
+chrome94.0.4606.85 37 5
+chrome100.0.4758.11 1 1
+opera80.0.4170.63 1 1
+chrome101.0.4951.64 1 1
+chrome96.0.4664.45 2 2
+chrome90.0.4430.93 1 1
+chrome63.0.3239.132 2 2
+chrome88.0.4240.193 3 3
+chrome89.0.4389.116 7 7
+chrome96.0.4664.110 2 2
+chrome95.0.4638.69 3 3
+chrome91.0.4472.88 2 2
+chrome74.0.3729.169 6 6
+chrome81.0.4044.138 33 2
+safari14.1.2 11 11
+chrome91.0.4472.114 1 1
+chrome103.0.5060.70 1 1
+chrome83.0.4103.97 4 4
+msie6.0 1 1
+chrome80.0.3987.99 56 2
+firefox66.0 1 1
+chrome91.0.4472.77 32 1
+chrome89.0.4389.105 4 4
+chrome103.0.0.0 97 15
+chrome102.0.0.0 5 5
+chrome78.0.3904.97 1 1
+chrome95.0.4638.54 2 2
+chrome83.0.4086.0 1 1
+chrome51.0.2704.106 3 3
+chrome102.0.5005.115 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220708201722
+python-requests/2.27.1 20220701150142
+python-requests/2.9.1 20220705005723
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.27.1 20220701150142
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220708201722
+python-requests/2.9.1 20220705005723
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 128 128
+From1 0 0
+From2 4 4
+From3 10 10
+From4 14 289
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 3 3
+www_google_co_id 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://fbkwriter.com/about-me/ 4 4
+http://biimsvoucher.xyz 3 3
+http://m.facebook.com 1 1
+http://ads.indosatooredoo.com 1 1
+http://203.175.8.22:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 1 374
+404 150 436195
+500 8 32315
+206 12 696191
+401 13 299
+307 2 44466
+301 2197 508513
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 50
+/wp-includes/wlwmanifest.xml 6 -
+/authorize.php 1 bimsvoucher.xyz
+/media/wp-includes/wlwmanifest.xml 4 -
+/site/wp-includes/wlwmanifest.xml 7 -
+/mikastore.zip 1 http://bimsvoucher.xyz/
+/wp-content/plugins/core-engine/index.php 1 bimsvoucher.xyz
+/wp/wp-includes/wlwmanifest.xml 7 -
+/2020/wp-includes/wlwmanifest.xml 2 -
+/assets/css/icons.min.css.map 2 -
+/cms/wp-includes/wlwmanifest.xml 7 -
+/test/wp-includes/wlwmanifest.xml 6 -
+/assets/css/bootstrap.min.css.map 2 -
+/2018/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/css 2 binance.com
+/wp-content/cache.php 1 bimsvoucher.xyz
+/assets/css/app.min.css.map 2 -
+/.env 1 -
+/wordpress/wp-includes/wlwmanifest.xml 7 -
+/files 2 binance.com
+/images 2 binance.com
+/wp-includes/js/plupload/plupload.php 1 bimsvoucher.xyz
+/tool.php 1 bimsvoucher.xyz
+/.well-known 1 binance.com
+/assets/global/plugins/jquery-file-upload/server/php/files/jquery.php 1 bimsvoucher.xyz
+http://bimsvoucher.xyz:80/ 1 -
+/wp-content/themes/twentythree/inc/index.php 1 bimsvoucher.xyz
+/sites/default/files 2 binance.com
+/xmlrpc.php 7 -
+/web/wp-includes/wlwmanifest.xml 6 -
+/wp-content/app.php 1 bimsvoucher.xyz
+/blog/wp-includes/wlwmanifest.xml 7 -
+/2021/wp-includes/wlwmanifest.xml 1 -
+/uploads 2 binance.com
+/assets/js/app.min.js.map 2 -
+/website/wp-includes/wlwmanifest.xml 5 -
+/wp-admin/include.php 1 bimsvoucher.xyz
+/admin/controller/extension/extension 2 binance.com
+/ 2 -
+/javaScript:void() 1 http://fbkwriter.com/about-me/
+/wp1/wp-includes/wlwmanifest.xml 6 -
+/news/wp-includes/wlwmanifest.xml 5 -
+/shop/wp-includes/wlwmanifest.xml 6 -
+/sito/wp-includes/wlwmanifest.xml 5 -
+/old-index.php 1 bimsvoucher.xyz
+/wp-admin/tool.php 1 bimsvoucher.xyz
+/2019/wp-includes/wlwmanifest.xml 6 -
+/wp-load.php 1 bimsvoucher.xyz
+/wp2/wp-includes/wlwmanifest.xml 5 -
+/.well-known/ 1 binance.com
+/wp-content/themes/classic/inc/index.php 1 bimsvoucher.xyz
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 77
+125.167.57.16 8 53 1404495 20220707203905
+112.215.241.251 7 7 548065 20220702200510
+114.125.110.172 7 7 548065 20220703183728
+168.138.2.237 6 6 468939 20220705142155
+180.244.49.115 6 6 469493 20220704191318
+35.225.163.183 5 5 117978 20220705005757
+114.4.212.33 5 37 3010700 20220709003017
+125.167.59.78 5 5 169770 20220714145025
+180.254.70.195 4 4 313136 20220701030843
+125.167.56.38 4 4 135816 20220723002951
+18.206.55.48 3 3 103771 20220708145016
+167.99.70.99 3 3 234054 20220704031549
+104.129.3.169 3 3 234885 20220701152713
+120.188.35.202 3 3 234885 20220702170210
+188.166.225.222 3 3 77259 20220708180646
+180.248.12.17 3 3 234608 20220706112622
+125.167.56.74 3 3 101862 20220717214222
+174.138.22.29 2 2 156590 20220701212050
+176.223.141.62 2 2 156036 20220704045414
+36.85.221.169 2 2 156590 20220701135800
+182.1.120.126 2 2 156036 20220704150853
+54.227.32.154 2 2 103771 20220708145025
+182.1.75.137 2 2 156036 20220706141007
+42.83.147.34 2 2 103771 20220708033154
+36.73.35.75 2 2 156036 20220706161320
+205.210.31.150 1 1 78018 20220705191332
+182.1.104.181 1 1 78018 20220705150714
+78.96.86.244 1 1 78295 20220701150142
+116.206.40.33 1 28 1551233 20220707224313
+140.213.149.217 1 32 2903257 20220709003504
+205.210.31.158 1 1 78018 20220706114222
+35.165.215.140 1 1 78295 20220701144020
+205.210.31.159 1 1 25753 20220708073408
+54.245.26.182 1 1 78295 20220703073505
+125.167.58.24 1 1 33954 20220725205023
+198.235.24.134 1 1 25753 20220708201722
+208.80.194.42 1 1 78018 20220706054252
+125.167.56.232 1 1 33954 20220730213204
+205.210.31.30 1 1 25753 20220708105642
+65.21.206.42 1 1 25753 20220708014620
+116.206.40.117 1 1 78284 20220701123742
+173.252.95.13 1 1 78295 20220701135657
+180.254.162.145 1 1 33954 20220724171146
+198.235.24.138 1 1 25753 20220708141047
+114.125.108.14 1 1 78295 20220702101146
+182.1.148.189 1 1 78295 20220702194324
+102.129.143.99 1 1 78018 20220705095849
+54.38.211.230 1 1 78295 20220702154741
+51.254.199.11 1 1 25753 20220708062549
+46.4.33.48 1 1 78018 20220706084530
+54.191.144.184 1 1 78018 20220705072608
+198.235.24.11 1 1 78295 20220702075736
+181.214.218.36 1 1 132 20220704041329
+51.77.118.166 2 2 157015 20220703175006
+69.171.251.6 1 1 78018 20220706053228
+46.161.11.213 1 1 78018 20220704021334
+110.136.73.250 1 25 2623047 20220709011539
+114.5.246.253 2 29 1573975 20220707191618
+5.188.62.76 2 2 156036 20220704141359
+114.10.17.68 2 33 2929010 20220709010104
+138.199.29.42 1 1 132 20220702162245
+125.167.56.66 2 2 67908 20220726211820
+103.138.46.219 2 2 156036 20220704231447
+114.4.212.97 2 2 158210 20220701223008
+204.116.80.36 1 1 78295 20220701215524
+182.1.106.65 1 1 78018 20220706133640
+3.237.66.11 1 1 9993 20220703173731
+8.208.82.6 2 2 156036 20220706034148
+205.210.31.34 1 1 78018 20220706103143
+180.241.208.68 2 2 67908 20220709204819
+34.222.84.173 1 1 78295 20220703073536
+198.235.24.132 1 1 78295 20220702140623
+18.237.200.44 1 1 78018 20220705072629
+3.216.125.140 1 1 9991 20220706050633
+110.136.75.28 1 32 2903257 20220708235127
+182.1.121.46 1 28 1551233 20220707191602
+118.96.191.168 2 2 67908 20220712203331
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20220701 22 22 1724480 14
+20220702 22 22 1644327 11
+20220703 12 12 871238 6
+20220704 17 17 1248420 11
+20220705 13 13 742122 7
+20220706 14 14 1024250 11
+20220707 12 138 6080936 4
+20220708 14 45 3212293 11
+20220709 11 129 11533922 6
+20220712 2 2 67908 2
+20220713 3 3 101862 2
+20220714 2 2 67908 2
+20220717 3 3 101862 3
+20220719 1 1 33954 1
+20220720 2 2 67908 2
+20220723 1 1 33954 1
+20220724 1 1 33954 1
+20220725 1 1 33954 1
+20220726 2 2 67908 1
+20220730 1 1 33954 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 3
+30s-2mn 3
+5mn-15mn 3
+1h+ 1
+0s-30s 88
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 126 7934824 77 76
+/cpanel 22 746988 19 19
+/gopay 2 47099 0 0
+/cgi-sys/suspendedpage.cgi 2 264 2 2
+/login 1 12248 0 0
+/assets/fonts/unicons7374.woff2 1 157328 0 0
+/gopay/Gojek-OTP/08974431829 1 54 0 1
+/dashboard 1 19939 0 0
+END_SIDER
